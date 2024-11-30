@@ -73,7 +73,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -178,13 +179,14 @@
   },
   "active": "78eb86c9f3433e87",
   "lastOpenFiles": [
+    "2024-11-30.md",
+    "Pensamentos/pensamento/Coisas - Publicar todas as minhas notas do Obsidian.md",
     "Pessoas/Gírio.md",
     "Coisas/Semanas/Novembro 2024/Novembro Semana 5/2024-11-29.md",
     "Nota teste do obsidian no git hub.md",
     "Coisas/Semanas/Novembro 2024/Novembro Semana 5/2024-11-28.md",
     "Coisas/Semanas/Novembro 2024/Orçamento Novembro.md",
     "Coisas/Semanas/Novembro 2024/Novembro Semana 5/2024-11-28.sync-conflict-20241129-135351-YEPSJM6.md",
-    "Pensamentos/pensamento/Coisas - Publicar todas as minhas notas do Obsidian.md",
     "tsete.md",
     "~syncthing~tsete.md.tmp",
     "~syncthing~Nota teste do obsidian no git hub.md.tmp",
@@ -208,7 +210,6 @@
     "Leiturinhas/Livros/The Way of The Kings.md",
     "Leiturinhas/Livros",
     "Coisas/Aleatoriedade/Índice Geral.md",
-    "Memórias, Silêncios e Heterodoxias/!nformações Gerais - Memórias Silêncios e Heterodoxias.md",
     "Coisas/Semanas/!Passado",
     "Template/Templates",
     "Coisas/Aleatoriedade/Depósito de Aleatoriedades",
