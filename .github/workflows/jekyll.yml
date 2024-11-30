@@ -38,6 +38,7 @@ jobs:
         run: bundle exec jekyll build
         env:
           JEKYLL_ENV: production
+          PAGES_REPO_NWO: gabriel-affonso/Obsidian.Vault.4
 
       # Passo 5: Fazer upload do artefato gerado para o GitHub Pages
       - name: Upload artifact
