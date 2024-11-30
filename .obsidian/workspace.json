@@ -15,7 +15,7 @@
               "state": {
                 "file": "Pensamentos/pensamento/Coisas - Publicar todas as minhas notas do Obsidian.md",
                 "mode": "source",
-                "source": false
+                "source": true
               },
               "icon": "lucide-file",
               "title": "Coisas - Publicar todas as minhas notas do Obsidian"
@@ -179,10 +179,12 @@
   },
   "active": "78eb86c9f3433e87",
   "lastOpenFiles": [
+    "config.yml",
+    "Novo(a) Documento de Texto.txt",
+    "Pessoas/Gírio.md",
+    "Pensamentos/pensamento/Coisas - Publicar todas as minhas notas do Obsidian.md",
     "Gemfile",
     "2024-11-30.md",
-    "Pensamentos/pensamento/Coisas - Publicar todas as minhas notas do Obsidian.md",
-    "Pessoas/Gírio.md",
     "Coisas/Semanas/Novembro 2024/Novembro Semana 5/2024-11-29.md",
     "Nota teste do obsidian no git hub.md",
     "Coisas/Semanas/Novembro 2024/Novembro Semana 5/2024-11-28.md",
@@ -214,8 +216,6 @@
     "Template/Templates",
     "Coisas/Aleatoriedade/Depósito de Aleatoriedades",
     "Pasted image 20241127165806.png",
-    "Pessoas",
-    "Coisas/Semanas/Novembro 2024/Novembro Semana 5/~syncthing~2024-11-26.md.tmp",
     "Untitled 1.canvas",
     "Untitled.canvas",
     "Untitled 2.canvas"

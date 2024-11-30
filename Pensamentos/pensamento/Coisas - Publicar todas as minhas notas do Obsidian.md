@@ -601,6 +601,7 @@ Após confirmar que o site está funcionando corretamente, você pode fazer o pu
 
 6. **Acessar o Site Online:**
    - Visite a URL fornecida pelo GitHub Pages para ver seu site publicado.
+- [[Gírio]] 
 
 ---
 
