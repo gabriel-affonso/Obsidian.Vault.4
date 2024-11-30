@@ -1,8 +1,10 @@
 title: "Meu Site com Jekyll"
 description: "Publicação de notas do Obsidian com Jekyll no GitHub Pages"
 baseurl: "/Obsidian.Vault.4" # Atualize para o nome do seu repositório
-url: "https://gabriel-affonso.github.io/Obsidian.Vault.4/" # Substitua pelo nome do seu usuário no GitHub
-theme: minima
+url: "https://gabriel-affonso.github.io" # Substitua pelo nome do seu usuário no GitHub
+repository: gabriel-affonso/Obsidian.Vault.4 # Substitua com o nome do repositório
+theme: minima                                   # Tema padrão ou personalizado
 plugins:
   - jekyll-feed
   - jekyll-seo-tag
+  - jekyll-github-metadata                      # Inclua o plugin de metadados do GitHub
