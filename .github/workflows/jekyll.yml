@@ -1,9 +1,9 @@
-
 name: Deploy Jekyll site to Pages
 
 on:
   push:
-    branches: ["master"] # Atualize para a sua branch correta
+    branches:
+      - master  # Substitua pela sua branch principal, se for diferente
   workflow_dispatch:
 
 permissions:
@@ -14,26 +14,32 @@ permissions:
 jobs:
   build:
     runs-on: ubuntu-latest
+
     steps:
+      # Passo 1: Fazer checkout do código
       - name: Checkout
         uses: actions/checkout@v4
 
+      # Passo 2: Configurar o Ruby
       - name: Setup Ruby
         uses: ruby/setup-ruby@v1
         with:
           ruby-version: '3.1'
           bundler-cache: true
 
+      # Passo 3: Instalar dependências
       - name: Install Dependencies
         run: |
           gem install bundler
           bundle install
 
+      # Passo 4: Construir o site com Jekyll
       - name: Build with Jekyll
         run: bundle exec jekyll build
         env:
           JEKYLL_ENV: production
 
+      # Passo 5: Fazer upload do artefato gerado para o GitHub Pages
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
 
