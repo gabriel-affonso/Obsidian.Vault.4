@@ -1,0 +1,301 @@
+{
+  "main": {
+    "id": "0c20010bc6301636",
+    "type": "split",
+    "children": [
+      {
+        "id": "26e2a2a05890f721",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "386f329135445330",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Coisas/Semanas/Outubro 2024/Outubro 1 Semana 30.09 - 05.10.2024/2024-10-02.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "2024-10-02"
+            }
+          },
+          {
+            "id": "f178347f49d874a7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Gírio.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Gírio"
+            }
+          },
+          {
+            "id": "a2a6021ea989ea52",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Memórias, Silêncios e Heterodoxias/!nformações Gerais - Memórias Silêncios e Heterodoxias.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "!nformações Gerais - Memórias Silêncios e Heterodoxias"
+            }
+          }
+        ],
+        "currentTab": 2
+      },
+      {
+        "id": "f67ecbad707edc8e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0baf55bcb0b0c339",
+            "type": "leaf",
+            "state": {
+              "type": "localgraph",
+              "state": {
+                "options": {
+                  "collapse-filter": true,
+                  "search": "",
+                  "localJumps": 1,
+                  "localBacklinks": true,
+                  "localForelinks": true,
+                  "localInterlinks": false,
+                  "showTags": false,
+                  "showAttachments": false,
+                  "hideUnresolved": false,
+                  "collapse-color-groups": true,
+                  "colorGroups": [],
+                  "collapse-display": true,
+                  "showArrow": false,
+                  "textFadeMultiplier": 0,
+                  "nodeSizeMultiplier": 1,
+                  "lineSizeMultiplier": 1,
+                  "collapse-forces": true,
+                  "centerStrength": 0.518713248970312,
+                  "repelStrength": 10,
+                  "linkStrength": 1,
+                  "linkDistance": 250,
+                  "scale": 1,
+                  "close": true
+                }
+              },
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            },
+            "group": "74fe1016bbc4da3e"
+          }
+        ]
+      },
+      {
+        "id": "e156b6bbb98ca7cd",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b6f6d3e44c83db21",
+            "type": "leaf",
+            "state": {
+              "type": "localgraph",
+              "state": {
+                "options": {
+                  "collapse-filter": true,
+                  "search": "",
+                  "localJumps": 1,
+                  "localBacklinks": true,
+                  "localForelinks": true,
+                  "localInterlinks": false,
+                  "showTags": false,
+                  "showAttachments": false,
+                  "hideUnresolved": false,
+                  "collapse-color-groups": true,
+                  "colorGroups": [],
+                  "collapse-display": true,
+                  "showArrow": false,
+                  "textFadeMultiplier": 0,
+                  "nodeSizeMultiplier": 1,
+                  "lineSizeMultiplier": 1,
+                  "collapse-forces": true,
+                  "centerStrength": 0.518713248970312,
+                  "repelStrength": 10,
+                  "linkStrength": 1,
+                  "linkDistance": 250,
+                  "scale": 2.2083986446379935,
+                  "close": true
+                }
+              },
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            },
+            "group": "74fe1016bbc4da3e"
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "fcfd5cdc6ef43a16",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "697290dc494b7292",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {
+            "sortOrder": "alphabetical"
+          },
+          "icon": "lucide-folder-closed",
+          "title": "Files"
+        }
+      },
+      {
+        "id": "5d6a32feddd82893",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
+          },
+          "icon": "lucide-search",
+          "title": "Search"
+        }
+      },
+      {
+        "id": "9c61a44d9746c9d2",
+        "type": "leaf",
+        "state": {
+          "type": "tag",
+          "state": {
+            "sortOrder": "frequency",
+            "useHierarchy": true
+          },
+          "icon": "lucide-tags",
+          "title": "Tags"
+        }
+      },
+      {
+        "id": "5118d29a522b4246",
+        "type": "leaf",
+        "state": {
+          "type": "bookmarks",
+          "state": {},
+          "icon": "lucide-bookmark",
+          "title": "Bookmarks"
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "right": {
+    "id": "bcbd5c85f41d5302",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "2d38967c6eeaadd7",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "file": "Imagined Communities.md",
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
+          },
+          "icon": "links-coming-in",
+          "title": "Backlinks"
+        }
+      },
+      {
+        "id": "fb6f73758fb92751",
+        "type": "leaf",
+        "state": {
+          "type": "outgoing-link",
+          "state": {
+            "file": "Imagined Communities.md",
+            "linksCollapsed": false,
+            "unlinkedCollapsed": true
+          },
+          "icon": "links-going-out",
+          "title": "Outgoing links"
+        }
+      },
+      {
+        "id": "bb2f2244f87d21c4",
+        "type": "leaf",
+        "state": {
+          "type": "outline",
+          "state": {
+            "file": "Imagined Communities.md"
+          },
+          "icon": "lucide-list",
+          "title": "Outline"
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "a2a6021ea989ea52",
+  "lastOpenFiles": [
+    "Gírio.md",
+    "Memórias, Silêncios e Heterodoxias/Bibliografia - Memória Silêncios e Heterodoxias/The Implicated Subject.md",
+    "Memórias, Silêncios e Heterodoxias/!nformações Gerais - Memórias Silêncios e Heterodoxias.md",
+    "Coisas/Lista de Compras.md",
+    "2024-10-20.md",
+    "Coisas/Semanas/Outubro 2024/Outubro Semana 4",
+    "Coisas/Semanas/Outubro 2024/Outubro 3 Semana 14.10 - 20.10.2024/!Semana 14.10 - 20.10.2024.md",
+    "Coisas/Semanas/Outubro 2024/Outubro 3 Semana 14.10 - 20.10.2024/2024-10-19.md",
+    "Coisas/Semanas/Outubro 2024/Outubro 3 Semana 14.10 - 20.10.2024/2024-10-16.md",
+    "Poética e Cidadania/Bibliografia Poética e Cidadania/Imagined Communities.md",
+    "Poética e Cidadania/Notas das Aulas - Política e Cidadania/Nota da Aula 5.md",
+    "Poética e Cidadania/!nformações Gerais - Poética e Cidadania.md",
+    "Imagined Communities.md",
+    "Coisas/Semanas/Outubro 2024/Outubro 3 Semana 14.10 - 20.10.2024/2024-10-14.md",
+    "Abstractact.md",
+    "Coisas/Semanas/Outubro 2024/Outubro 1 Semana 30.09 - 05.10.2024/2024-10-13.md",
+    "Coisas/Semanas/Outubro 2024/Outubro 3 Semana 14.10 - 20.10.2024/Semana 14.10 - 20.10.2024.md",
+    "Coisas/Semanas/Outubro 2024/Outubro 2 Semana 07.10 - 13.10.2024/!Semana 07.10 - 13.10.2024.md",
+    "Coisas/Semanas/Outubro 2024",
+    "Coisas/Semanas/Outubro 2024/Outubro 1 Semana 30.09 - 05.10.2024/!Semana 30.09 - 05.10.24.md",
+    "Coisas/Semanas/Setembro 2024",
+    "Pensamentos/Índice.md",
+    "Bibliografia.md",
+    "Outro dia.md",
+    "Pensamentos/pensamento/Artigo - Análise da teologia política do espiritismo brasileiro.md",
+    "Pensamentos/pensamento/Ode to the Mets.md",
+    "Bel.md",
+    "Pensamentos/Substance - Demi Lovato.md",
+    "Memórias, Silêncios e Heterodoxias/Untitled.md",
+    "Poética e Cidadania/Bibliografia Poética e Cidadania",
+    "Coisas",
+    "Poética e Cidadania"
+  ]
+}
