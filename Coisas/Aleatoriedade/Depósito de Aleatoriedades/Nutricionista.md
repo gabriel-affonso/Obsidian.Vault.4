@@ -39,3 +39,6 @@ tammbém tenho tomado creatina
 
 aCho que é isso
 
+mandar exames
+
+b12 
