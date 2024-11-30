@@ -73,13 +73,11 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 304.5,
-    "collapsed": true
+    "width": 304.5
   },
   "right": {
     "id": "3fc30dc42cda4f7f",
@@ -177,7 +175,7 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "78eb86c9f3433e87",
+  "active": "95fb0fd6edbd311d",
   "lastOpenFiles": [
     "Pensamentos/pensamento/Coisas - Publicar todas as minhas notas do Obsidian.md",
     "config.yml",

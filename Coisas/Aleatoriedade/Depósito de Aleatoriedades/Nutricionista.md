@@ -5,7 +5,7 @@ tags:
 
 # Fotos
 - [x] tofu
-- [ ] seitan
+- [x] seitan
 - [ ] merenda
 - [ ] Humus
 - [ ] proteina

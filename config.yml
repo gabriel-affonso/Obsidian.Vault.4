@@ -8,3 +8,7 @@ plugins:
   - jekyll-feed
   - jekyll-seo-tag
   - jekyll-github-metadata                      # Inclua o plugin de metadados do GitHub
+  
+exclude:
+  - "Template"
+  
