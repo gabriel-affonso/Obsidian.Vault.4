@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Pensamentos/pensamento/Coisas - Publicar todas as minhas notas do Obsidian.md",
+                "file": "Coisas/Aleatoriedade/Depósito de Aleatoriedades/Nutricionista.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Coisas - Publicar todas as minhas notas do Obsidian"
+              "title": "Nutricionista"
             }
           }
         ]
@@ -52,7 +52,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "\"- [[Gírio]] \"",
+                "query": "nutr",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -78,7 +78,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 304.5
+    "width": 304.5,
+    "collapsed": true
   },
   "right": {
     "id": "3fc30dc42cda4f7f",
@@ -176,12 +177,12 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "f3944d77e7a6b5c4",
+  "active": "78eb86c9f3433e87",
   "lastOpenFiles": [
+    "Pensamentos/pensamento/Coisas - Publicar todas as minhas notas do Obsidian.md",
     "config.yml",
     "Novo(a) Documento de Texto.txt",
     "Pessoas/Gírio.md",
-    "Pensamentos/pensamento/Coisas - Publicar todas as minhas notas do Obsidian.md",
     "Gemfile",
     "2024-11-30.md",
     "Coisas/Semanas/Novembro 2024/Novembro Semana 5/2024-11-29.md",
@@ -213,7 +214,6 @@
     "Leiturinhas/Livros",
     "Coisas/Semanas/!Passado",
     "Template/Templates",
-    "Coisas/Aleatoriedade/Depósito de Aleatoriedades",
     "Pasted image 20241127165806.png",
     "Untitled 1.canvas",
     "Untitled.canvas",
