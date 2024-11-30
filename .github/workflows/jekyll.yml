@@ -35,7 +35,7 @@ jobs:
 
       # Passo 4: Construir o site com Jekyll
       - name: Build with Jekyll
-        run: bundle exec jekyll build
+        run: bundle exec jekyll build --exclude "_Template"
         env:
           JEKYLL_ENV: production
           PAGES_REPO_NWO: gabriel-affonso/Obsidian.Vault.4
