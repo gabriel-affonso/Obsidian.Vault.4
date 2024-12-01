@@ -34,6 +34,17 @@ Abaixo estão os links para todas as suas notas:
 </ul>
 
 
+# Índice Novo
+
+Aqui está uma lista de todas as notas disponíveis (novas):
+
+<ul>
+  {% for page in site.pages %}
+    <li><a href="https://gabriel-affonso.github.io/Obsidian.Vault.4{{ page.url }}">{{ page.title | default: page.name }}</a></li>
+  {% endfor %}
+</ul>
+
+
 # Índice de Notas
 
 ## Coisas
