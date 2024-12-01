@@ -12,6 +12,15 @@ SORT file.folder ASC, date ASC
 
 ```
 
+Aqui está uma lista de todas as notas disponíveis:
+
+<ul>
+  {% for page in site.pages %}
+    {% assign url_fixed = page.url | prepend: site.baseurl %}
+    <li><a href="{{ url_fixed }}">{{ page.title | default: page.name }}</a></li>
+  {% endfor %}
+</ul>
+
 
 Abaixo estão os links para todas as suas notas:
 
