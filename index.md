@@ -26,7 +26,7 @@ Aqui estão todas as minhas notas, organizadas por categoria:
   - [Semana 5 Novembro]({{ site.baseurl }}/Coisas/Semanas/Novembro%202024/Novembro%20Semana%205)
 
 ## Memórias, Silêncios e Heterodoxias
-- [Informações Gerais]({{ site.baseurl }}/Memórias,%20Silêncios%20e%20Heterodoxias)
+- [Informações Gerais]({{ site.baseurl }}\Memórias,%20Silêncios%20e%20Heterodoxias\!nformações%20Gerais%20-%20Memórias%20Silêncios%20e%20Heterodoxias.md)
 
 ## Pensamentos
 - [Índice de Pensamentos]({{ site.baseurl }}/Pensamentos)
