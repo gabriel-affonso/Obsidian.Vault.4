@@ -48,23 +48,23 @@ Aqui está uma lista de todas as notas disponíveis (novas):
 # Índice de Notas
 
 ## Coisas
-- [Índice Geral]({{ baseurl }}/Coisas/Aleatoriedade/Índice%20Geral.md)
-- [Orçamento Novembro]({{ site.baseurl }}/Coisas/Semanas/Novembro%202024.md)
-  - [Semana 1]({{ site.baseurl }}/Coisas/Semanas/Novembro%202024/Novembro%20Semana%201.md)
-  - [Semana 2]({{ site.baseurl }}/Coisas/Semanas/Novembro%202024/Novembro%20Semana%202.md)
+- [Índice Geral](https://gabriel-affonso.github.io/Obsidian.Vault.4/Coisas/Aleatoriedade/Índice%20Geral.md)
+- [Orçamento Novembro](https://gabriel-affonso.github.io/Obsidian.Vault.4/Coisas/Semanas/Novembro%202024.md)
+  - [Semana 1](https://gabriel-affonso.github.io/Obsidian.Vault.4/Coisas/Semanas/Novembro%202024/Novembro%20Semana%201)
+  - [Semana 2](https://gabriel-affonso.github.io/Obsidian.Vault.4/Coisas/Semanas/Novembro%202024/Novembro%20Semana%202)
   - [teste1](https://gabriel-affonso.github.io/Obsidian.Vault.4/Nota.teste)
 
 ## Memórias, Silêncios e Heterodoxias
-- [Informações Gerais]({{ baseurl }}/Memórias,%20Silêncios%20e%20Heterodoxias/!nformações%20Gerais%20%20-%20Memórias%20Silêncios%20e%20Heterodoxias.md)
+- [Informações Gerais](https://gabriel-affonso.github.io/Obsidian.Vault.4/Memórias,%20Silêncios%20e%20Heterodoxias/!nformações%20Gerais%20%20-%20Memórias%20Silêncios%20e%20Heterodoxias)
 
 ## Pensamentos
-- [Índice de Pensamentos]({{ site.baseurl }}/Pensamentos.md)
+- [Índice de Pensamentos](https://gabriel-affonso.github.io/Obsidian.Vault.4/Pensamentos/Índice%20de%20Pensamentos)
 
 ## Pessoas
-- [Índice de Pessoas]({{ site.baseurl }}/Pessoas/!Índice%20PEssoas.md)
+- [Índice de Pessoas](https://gabriel-affonso.github.io/Obsidian.Vault.4/Pessoas/!Índice%20PEssoas)
 
 ## Poética e Cidadania
-- [Informações Gerais]({{ site.baseurl }}/Poética%20e%20Cidadania/!nformações%20Gerais-Poética%20e%20Cidadania.md)
+- [Informações Gerais](https://gabriel-affonso.github.io/Obsidian.Vault.4/Poética%20e%20Cidadania/!nformações%20Gerais-Poética%20e%20Cidadania)
 
 ## Template
-- [Índice Template]({{ site.baseurl }}/Template/Índice%20Template.md)
+- [Índice Template](https://gabriel-affonso.github.io/Obsidian.Vault.4/Template/Índice%20Template)
