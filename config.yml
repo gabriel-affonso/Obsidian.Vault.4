@@ -7,6 +7,8 @@ theme: minima                                   # Tema padrão ou personalizado
 plugins:
   - jekyll-feed
   - jekyll-seo-tag
+  - jekyll-toc
+  - jekyll-sitemap
   - jekyll-github-metadata                      # Inclua o plugin de metadados do GitHub
   
 exclude:
