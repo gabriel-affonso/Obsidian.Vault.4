@@ -19,15 +19,15 @@ visibilidade:
 |                |         |             |        |                       |                        |                 |
 
 # Pendências
-- [ ] enviar recibo
+- [x] enviar recibo
 - [ ] pedir minoxidil
 	- [x] Mandar mensagem pra médica
 	- [ ] Falar com o Celso
 	- [ ] Falar com o Dan
 - [ ] Terminar de ler texto para poética
 - [x] ihihi comprar relógio
-- [ ] ligar na galp
-- [ ] nutricionista
+- [x] ligar na galp
+- [x] nutricionista
 - [ ] pagar conta
 - [ ] pagar DI
 - [x] ver gladiador com a bel
