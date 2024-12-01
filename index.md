@@ -37,14 +37,14 @@ Abaixo estão os links para todas as suas notas:
 # Índice de Notas
 
 ## Coisas
-- [Índice Geral]({{ site.baseurl }}/Coisas/Aleatoriedade/Índice%20Geral.md)
+- [Índice Geral]({{ baseurl }}/Coisas/Aleatoriedade/Índice%20Geral.md)
 - [Orçamento Novembro]({{ site.baseurl }}/Coisas/Semanas/Novembro%202024.md)
   - [Semana 1]({{ site.baseurl }}/Coisas/Semanas/Novembro%202024/Novembro%20Semana%201.md)
   - [Semana 2]({{ site.baseurl }}/Coisas/Semanas/Novembro%202024/Novembro%20Semana%202.md)
   - [teste1](https://gabriel-affonso.github.io/Obsidian.Vault.4/Nota.teste)
 
 ## Memórias, Silêncios e Heterodoxias
-- [Informações Gerais]({{ site.baseurl }}/Memórias,%20Silêncios%20e%20Heterodoxias/!nformações%20Gerais%20%20-%20Memórias%20Silêncios%20e%20Heterodoxias.md)
+- [Informações Gerais]({{ baseurl }}/Memórias,%20Silêncios%20e%20Heterodoxias/!nformações%20Gerais%20%20-%20Memórias%20Silêncios%20e%20Heterodoxias.md)
 
 ## Pensamentos
 - [Índice de Pensamentos]({{ site.baseurl }}/Pensamentos.md)
