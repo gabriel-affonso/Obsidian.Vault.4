@@ -12,29 +12,26 @@ SORT file.folder ASC, date ASC
 
 ```
 
-# Bem-vindo ao Meu Vault!
 
-Aqui estão todas as minhas notas, organizadas por categoria:
+# Índice de Notas
 
 ## Coisas
-- [Índice Geral]({{ site.baseurl }}/Coisas/Aleatoriedade)
-- [Orçamento Novembro]({{ site.baseurl }}/Coisas/Semanas/Novembro%202024)
-  - [Semana 1]({{ site.baseurl }}/Coisas/Semanas/Novembro%202024/Novembro%20Semana%201)
-  - [Semana 2]({{ site.baseurl }}/Coisas/Semanas/Novembro%202024/Novembro%20Semana%202)
-  - [Semana 3]({{ site.baseurl }}/Coisas/Semanas/Novembro%202024/Novembro%20Semana%203)
-  - [Semana 4]({{ site.baseurl }}/Coisas/Semanas/Novembro%202024/Novembro%20Semana%204)
-  - [Semana 5 Novembro]({{ site.baseurl }}/Coisas/Semanas/Novembro%202024/Novembro%20Semana%205)
+- [Índice Geral]({{ site.baseurl }}/Coisas/Aleatoriedade/Índice%20Geral.md)
+- [Orçamento Novembro]({{ site.baseurl }}/Coisas/Semanas/Novembro%202024.md)
+  - [Semana 1]({{ site.baseurl }}/Coisas/Semanas/Novembro%202024/Novembro%20Semana%201.md)
+  - [Semana 2]({{ site.baseurl }}/Coisas/Semanas/Novembro%202024/Novembro%20Semana%202.md)
 
 ## Memórias, Silêncios e Heterodoxias
-- [Informações Gerais]({{ site.baseurl }}/Memórias%2C%20Silêncios%20e%20Heterodoxias/Informações%20Gerais%20-%20Memórias%20Silêncios%20e%20Heterodoxias.md)
+- [Informações Gerais]({{ site.baseurl }}/Memórias,%20Silêncios%20e%20Heterodoxias/!nformações%20Gerais%20%20-%20Memórias%20Silêncios%20e%20Heterodoxias.md)
+
 ## Pensamentos
-- [Índice de Pensamentos]({{ site.baseurl }}/Pensamentos)
+- [Índice de Pensamentos]({{ site.baseurl }}/Pensamentos.md)
 
 ## Pessoas
-- [Índice Pessoas]({{ site.baseurl }}/Pessoas)
+- [Índice de Pessoas]({{ site.baseurl }}/Pessoas/!Índice%20PEssoas.md)
 
 ## Poética e Cidadania
-- [Informações Gerais]({{ site.baseurl }}/Poética%20e%20Cidadania)
+- [Informações Gerais]({{ site.baseurl }}/Poética%20e%20Cidadania/!nformações%20Gerais-Poética%20e%20Cidadania.md)
 
 ## Template
-- [Índice Template]({{ site.baseurl }}/Template)
+- [Índice Template]({{ site.baseurl }}/Template/Índice%20Template.md)
