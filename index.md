@@ -13,6 +13,18 @@ SORT file.folder ASC, date ASC
 ```
 
 
+Abaixo estão os links para todas as suas notas:
+
+{% assign baseurl = site.baseurl %}
+<ul>
+{% for file in site.static_files %}
+  {% if file.extname == ".md" %}
+    <li><a href="{{ baseurl }}{{ file.path }}">{{ file.basename | escape }}</a></li>
+  {% endif %}
+{% endfor %}
+</ul>
+
+
 # Índice de Notas
 
 ## Coisas
