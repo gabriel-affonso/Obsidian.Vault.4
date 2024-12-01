@@ -32,7 +32,7 @@ Abaixo estão os links para todas as suas notas:
 - [Orçamento Novembro]({{ site.baseurl }}/Coisas/Semanas/Novembro%202024.md)
   - [Semana 1]({{ site.baseurl }}/Coisas/Semanas/Novembro%202024/Novembro%20Semana%201.md)
   - [Semana 2]({{ site.baseurl }}/Coisas/Semanas/Novembro%202024/Novembro%20Semana%202.md)
-  - [teste]({{ site.baseurl}}/Nota.teste)
+  - [teste1]({{ site.baseurl}}/Nota.teste)
 
 ## Memórias, Silêncios e Heterodoxias
 - [Informações Gerais]({{ site.baseurl }}/Memórias,%20Silêncios%20e%20Heterodoxias/!nformações%20Gerais%20%20-%20Memórias%20Silêncios%20e%20Heterodoxias.md)
