@@ -12,32 +12,30 @@ SORT file.folder ASC, date ASC
 
 ```
 
-
-
 # Bem-vindo ao Meu Vault!
 
 Aqui estão todas as minhas notas, organizadas por categoria:
 
 ## Coisas
-- [Índice Geral](Coisas/Aleatoriedade)
-- [Orçamento Novembro](Coisas/Semanas/Novembro%202024)
-  - [Semana 1](Coisas/Semanas/Novembro%202024/Novembro%20Semana%201)
-  - [Semana 2](Coisas/Semanas/Novembro%202024/Novembro%20Semana%202)
-  - [Semana 3](Coisas/Semanas/Novembro%202024/Novembro%20Semana%203)
-  - [Semana 4](Coisas/Semanas/Novembro%202024/Novembro%20Semana%204)
-  - [Semana 5 Novembro](Coisas/Semanas/Novembro%202024/Novembro%20Semana%205)
+- [Índice Geral]({{ site.baseurl }}/Coisas/Aleatoriedade)
+- [Orçamento Novembro]({{ site.baseurl }}/Coisas/Semanas/Novembro%202024)
+  - [Semana 1]({{ site.baseurl }}/Coisas/Semanas/Novembro%202024/Novembro%20Semana%201)
+  - [Semana 2]({{ site.baseurl }}/Coisas/Semanas/Novembro%202024/Novembro%20Semana%202)
+  - [Semana 3]({{ site.baseurl }}/Coisas/Semanas/Novembro%202024/Novembro%20Semana%203)
+  - [Semana 4]({{ site.baseurl }}/Coisas/Semanas/Novembro%202024/Novembro%20Semana%204)
+  - [Semana 5 Novembro]({{ site.baseurl }}/Coisas/Semanas/Novembro%202024/Novembro%20Semana%205)
 
 ## Memórias, Silêncios e Heterodoxias
-- [Informações Gerais](Memórias,%20Silêncios%20e%20Heterodoxias)
+- [Informações Gerais]({{ site.baseurl }}/Memórias,%20Silêncios%20e%20Heterodoxias)
 
 ## Pensamentos
-- [Índice de Pensamentos](Pensamentos)
+- [Índice de Pensamentos]({{ site.baseurl }}/Pensamentos)
 
 ## Pessoas
-- [Índice Pessoas](Pessoas)
+- [Índice Pessoas]({{ site.baseurl }}/Pessoas)
 
 ## Poética e Cidadania
-- [Informações Gerais](Poética%20e%20Cidadania)
+- [Informações Gerais]({{ site.baseurl }}/Poética%20e%20Cidadania)
 
 ## Template
-- [Índice Template](Template)
+- [Índice Template]({{ site.baseurl }}/Template)
