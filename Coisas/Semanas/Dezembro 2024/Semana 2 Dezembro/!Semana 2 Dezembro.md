@@ -8,16 +8,16 @@ tags:
 
 
 # Semana
-|                | **Dia** | Manhã       | Almoço | Tarde        | Noite       |             |
-| -------------- | ------- | ----------- | ------ | ------------ | ----------- | ----------- |
-| [[2024-12-09]] | Segunda |             | DC     |              | Terapia     | Peito       |
-| [[2024-12-10]] | Terça   |             |        |              | Peru da Bel | Costas      |
-| [[2024-12-11]] | Quarta  |             |        |              | Acumpultura |             |
-|                | Quinta  |             |        | Aula Poética |             | Pernas      |
-|                | Sexta   | Aula Miguel |        |              |             | Peito Ombro |
-|                | Sábado  |             |        |              |             |             |
-|                | Domingo |             | Leiria |              |             |             |
-|                |         |             |        |              |             |             |
+|                | **Dia** | Manhã       | Almoço   | Tarde        | Noite       |             |
+| -------------- | ------- | ----------- | -------- | ------------ | ----------- | ----------- |
+| [[2024-12-09]] | Segunda |             | DC       |              | Terapia     | Peito       |
+| [[2024-12-10]] | Terça   |             |          |              | Peru da Bel | Costas      |
+| [[2024-12-11]] | Quarta  |             |          |              | Acumpultura |             |
+|                | Quinta  |             |          | Aula Poética |             | Pernas      |
+|                | Sexta   | Aula Miguel |          |              |             | Peito Ombro |
+|                | Sábado  |             | Cozinhar |              |             |             |
+|                | Domingo |             | Leiria   |              |             |             |
+|                |         |             |          |              |             |             |
 
 # Pendências
 - [ ] comprar livro pai

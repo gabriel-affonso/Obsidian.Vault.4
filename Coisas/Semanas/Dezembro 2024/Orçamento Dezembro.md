@@ -130,6 +130,10 @@ dv.paragraph(`**Total Líquido:** ${totalLiquido.toLocaleString('pt-PT', { style
 	- [x] presente fátima
 	- [x] coisinha de contar apertos
 - [ ] bolsa da uniqlo
+- [ ] Mercado - Semana 3
+	- [ ] 2 latas de feijão
+	- [ ] dois pacotes de brocolis
+	- [ ] 
 
 
 
