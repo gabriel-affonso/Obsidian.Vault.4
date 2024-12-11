@@ -35,8 +35,7 @@
               "title": "2024-12-11"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -92,7 +91,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 304.5
+    "width": 304.5,
+    "collapsed": true
   },
   "right": {
     "id": "3fc30dc42cda4f7f",
@@ -190,10 +190,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "7b3acc8915bd25cf",
+  "active": "9e36c30c36b493a2",
   "lastOpenFiles": [
-    "Coisas/Semanas/Dezembro 2024/Orçamento Dezembro.md",
     "Coisas/Semanas/Dezembro 2024/Semana 2 Dezembro/2024-12-11.md",
+    "Coisas/Semanas/Dezembro 2024/Orçamento Dezembro.md",
     "Coisas/Semanas/Dezembro 2024/Semana 2 Dezembro/!Semana 2 Dezembro.md",
     "Coisas/Aleatoriedade/Links.Para.Bel.md",
     "index.md",
