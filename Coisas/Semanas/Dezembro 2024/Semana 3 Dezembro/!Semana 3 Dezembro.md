@@ -4,16 +4,16 @@ hora: 17:39
 tags:
 ---
 # Semana
-|     | **Dia** | Manhã       | Almoço           | Tarde        | Noite    |     |
-| --- | ------- | ----------- | ---------------- | ------------ | -------- | --- |
-|     | Segunda |             |                  |              | Terapia  |     |
-|     | Terça   |             |                  |              |          |     |
-|     | Quarta  |             | Almoço Natal CES |              |          |     |
-|     | Quinta  |             |                  | Aula Poética | Portatil |     |
-|     | Sexta   | Aula Miguel |                  |              |          |     |
-|     | Sábado  |             |                  |              |          |     |
-|     | Domingo |             |                  |              |          |     |
-|     |         |             |                  |              |          |     |
+|                | **Dia** | Manhã       | Almoço           | Tarde        | Noite    |     |
+| -------------- | ------- | ----------- | ---------------- | ------------ | -------- | --- |
+| [[2024-12-09]] | Segunda |             | Reunião A.B.C.   |              | Terapia  |     |
+| [[2024-12-15]] | Terça   |             |                  |              |          |     |
+| [[2024-12-18]] | Quarta  |             | Almoço Natal CES |              |          |     |
+| @next          | Quinta  |             |                  | Aula Poética | Portatil |     |
+|                | Sexta   | Aula Miguel |                  |              |          |     |
+|                | Sábado  |             |                  |              |          |     |
+|                | Domingo |             |                  |              |          |     |
+|                |         |             |                  |              |          |     |
 
 # Pendências
 - [ ] Cozinhar
