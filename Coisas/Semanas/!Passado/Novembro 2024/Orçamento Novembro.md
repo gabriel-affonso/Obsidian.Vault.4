@@ -39,6 +39,9 @@ const transacoes = [
      { item: "Relógio ihih", valor: -84, moeda: 'EUR', tipo: 'Gasto' },
      { item: "ADA Revolut", valor: -16, moeda: 'EUR', tipo: 'Investimento' },
      { item: "Shoppingizinho com a bel", valor: -26, moeda: 'EUR', tipo: 'Gasto' },{ item: "Proteina", valor: -87, moeda: 'EUR', tipo: 'Gasto' },
+     { item: "Mercado com a Bel", valor: -65, moeda: 'EUR', tipo: 'Gasto' },
+     { item: "Nutricionista", valor: -200, moeda: 'BRL', tipo: 'Gasto' },
+     { item: "Descortar gas", valor: -62, moeda: 'EUR', tipo: 'Gasto' },
 ];
 
 let totalGastos = 0;

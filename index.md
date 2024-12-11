@@ -3,8 +3,13 @@ date: 2024-11-27
 tags: 
 visibilidade: Público
 ---
+ID do LAPTOPO: 7TQ5V76-DOIYVMK-4TDPI35-65EOPHL-3IF3A4D-GYWC6P6-NVT6WNK-XD3DEQ2
+URL do Bibiel: https://shorturl.at/esgRx https://gabriel-affonso.github.io/Obsidian.Vault.4/
 
 # Índice de Notas
+
+# Links para a Bel
+Esses são os [links para a Bel](https://gabriel-affonso.github.io/Obsidian.Vault.4/Coisas/Aleatoriedade/Links.Para.Bel) 
 
 ## Coisas
 - [Índice Geral](https://gabriel-affonso.github.io/Obsidian.Vault.4/Coisas/Aleatoriedade/Índice%20Geral)

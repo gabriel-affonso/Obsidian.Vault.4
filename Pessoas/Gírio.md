@@ -50,6 +50,9 @@ tags:
 - [ ] [[Projeto da UE sobre radicalização]] 
 - [ ] https://www.euro-access.eu/en/calls/1610/Films-on-the-Move-1st-cut-off-date
 - [ ] https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/tender-details/5448?order=DESC&pageNumber=49&pageSize=10&sortBy=startDate&isExactMatch=true&status=31094502,31094501
+- [x] Entrevista Podcast Vilma
+- [ ] o pessoal tá todo chanfrado
+- [ ] https://www.instagram.com/reel/DDF1w9jPyfq/?igsh=MTFveWE2MmRsdGNwcw== 
 - [ ] 
 
 

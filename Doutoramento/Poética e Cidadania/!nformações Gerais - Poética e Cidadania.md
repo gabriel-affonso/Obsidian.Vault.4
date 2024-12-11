@@ -18,6 +18,7 @@ Rothenberg, Jerome. 1989. “[[Ethnopoetics & Politics  The Politics of Ethnopoe
 > **Tamanho:** definir
 > **Data:** definir
 > **Tema:** [[Artigo - Don L, Kim Robinson e Sonho enquanto extensão da política]]
+> Apresentação Preliminar: [[Apresentação Preliminar - Poética]]
 >  
 > 
 
@@ -30,13 +31,14 @@ Rothenberg, Jerome. 1989. “[[Ethnopoetics & Politics  The Politics of Ethnopoe
 >  [[Nota da Aula 6]]
 >  [[Nota da Aula 7]]
 >  [[Nota da aula 8]]
+>  [[Nota da aula 10]]
 > 
 
 # Notas das Aulas
 
 ```dataview
 TABLE date AS "Data", cadeira AS "Cadeira"
-FROM "Poética e Cidadania"
+FROM "Doutoramento/Poética e Cidadania"
 WHERE date AND cadeira
 SORT date DESC
 ```
@@ -45,7 +47,7 @@ SORT date DESC
 
 ```dataview
 TABLE date AS "Data", autor AS "Autor", ano AS "Ano", tema AS "Tema", contexto AS "Contexto", status AS "Status"
-FROM "Poética e Cidadania"
+FROM "Doutoramento/Poética e Cidadania"
 WHERE date AND autor AND ano AND status
 SORT date DESC
 ```
@@ -53,8 +55,8 @@ SORT date DESC
 
 # Bibliografia
 
-- [ ] Kantorowicz, Ernst H. 1985. “[[Shakespeare, King Richard II]]” &; “[[Man-Centered Kingship, Dante]]”, in The King’s Two Bodies. A Study in Medieval Political Theology. Princeton: Princeton University Press, 1985.
-- [ ] Platão. Fedro. Lisboa: Edições 70, 1997.
+- [x] Kantorowicz, Ernst H. 1985. “[[Shakespeare, King Richard II]]” &; “[[Man-Centered Kingship, Dante]]”, in The King’s Two Bodies. A Study in Medieval Political Theology. Princeton: Princeton University Press, 1985.
+- [x] Platão. Fedro. Lisboa: Edições 70, 1997.
 
 - [x] Aristóteles. [[Poética]]. Lisboa: Imprensa Nacional, 2000.
 
@@ -80,7 +82,7 @@ SORT date DESC
 
 - [ ] Hall, Stuart. 1996. “Who Needs Identity?”. In Stuart Hall and P. Du Gay (eds). Questions of Cultural Identity. London: Sage. 
 
-- [ ] Rothenberg, Jerome. 1989. “Ethnopoetics &amp; Politics/The Politics of Ethnopoetics”. In Charles Bernstein (ed.). The Politics of Poetic Form. Poetry and Public Policy. New York: Roof Books.
+- [x] Rothenberg, Jerome. 1989. “Ethnopoetics &amp; Politics/The Politics of Ethnopoetics”. In Charles Bernstein (ed.). The Politics of Poetic Form. Poetry and Public Policy. New York: Roof Books.
 
 - [ ] Lecercle, Jean-Jacques. 1990. The Violence of Language. New York: Routledge. 
 

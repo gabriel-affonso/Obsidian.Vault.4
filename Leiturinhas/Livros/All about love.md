@@ -12,6 +12,7 @@ status:
   - Lido
 nota:
   - ⭐⭐
+media: Livro
 ---
 É um livro de auto-ajuda nuanceado, embasado e com as pretenções no lugar certo. Mas ainda sofre das limitações que um livro de auto-ajuda sobre o amor escrito nos anos 90.
 

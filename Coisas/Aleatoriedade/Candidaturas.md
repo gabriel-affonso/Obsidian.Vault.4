@@ -4,10 +4,11 @@ tags:
 ---
 # Artigos
 - [ ] MSA 2025
-- [ ] CAPS 2025
-- [ ] APA 2025
+- [x] CAPS 2025
+- [x] APA 2025
 - [ ] 
 # Empregos
+
 > [!note]- Acho que uma coisa que eu preciso fazer é definir quais são os cargos que eu posso desempenhar
 > Posso fazer isso com o chatgpt ou algo assim. Mas assim eu posso encontrar algo que seja do meu interesse e que se encaixe nos requisitos da vaga. Isso tbm vai ser importante pq os nomes dos cargos são muito específicos
 
@@ -46,6 +47,9 @@ https://euraxess.ec.europa.eu/jobs/281706
 https://euraxess.ec.europa.eu/jobs/277378
 
 https://euraxess.ec.europa.eu/jobs/275547
+# Bolsas
+- [ ] [Fundação Oriente](https://www.foriente.pt/detalhe.php?id=1C2EB62B-96F0-45C2-BFB4-2338DC616906&area=bolsas&id_bolsa=8E77E455-0A76-46AF-840B-CF890782945C)
+
 
 
 # Chat Gpt

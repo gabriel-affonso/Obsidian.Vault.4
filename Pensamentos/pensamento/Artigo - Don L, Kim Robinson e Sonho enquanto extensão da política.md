@@ -10,7 +10,130 @@ Alguns elementos constituem esse *sonho*. O autor contesta um imaginário racion
 
 Todo o projeto político descrito por Don L é orientado pelo sonho, a resistência individual e coletivo à construção do gosto promovida pelo capitalismo tardio. 
 
+# Texto
 
+O que eu quero falar no meu trabalho?
+
+Eu quero falar sobre as representações da violência revolucionária na literatura produzida pelo Don L e pelo Kim Stanley Robinson.
+
+O que eu quero dizer com isso?
+
+Eu quero falar sobre como a partir dos anos 50, com a popularização dos direitos humanos e posteriormente, a dissolução da URSS, houve a propagação de um paradigma social que desreifica a violência como ferramenta de transformação social. Isto é, ao longo de toda a história moderna, as guerras, levantes, golpes de estado, invasões e insurreições foram um elemento comum entre todas as ocidentais. Muito em consequência disto, alusões à guerra, violência ou resistência são elementos identificáveis em quase todos os projetos nacionalistas e de identificação nacional (citar Anderson). Mesmo em contexto de relativa paz, como aquilo que Polanyi descreve como os 100 anos de paz na Europa do século XIX[[1]](#_ftn1), incontáveis são as ondas de violência nacional que decorreu da primavera dos povos e da dissolução dos grandes impérios europeus. Para além disto, mesmo neste período de relativa paz, a guerra e a violência de caráter revolucionário e/ou nacionalista, é central para a produção dos símbolos nacionais – hinos, escudos de armas e cerimónias militares. Para além disto, este período também marca o desenvolvimento dos exércitos profissionais, que assumem centralidade no arranjo institucional das recém inauguradas fronteiras nacionais.
+
+A conjuntura material do século XIX aqui mencionada está em direto diálogo com a produção literária deste momento, com uma literatura que imagina ou reinventa mitos nacionais que tão frequentemente recorrem à figura do bravo guerreiro que emancipa sua nação através da gloriosa violência.
+
+A apresentação breve do contexto político e social da Europa no século XIX serve para evidenciar a centralidade da violência nas preocupações políticas e estéticas daquele tempo. Contudo, a partir do estabelecimento do paradigma dos direitos humanos, a partir da década de 50, bem como o fim das experiências socialistas das Repúblicas Soviéticas na década de 90, a violência é higienizada dos discursos políticos dominantes.
+
+Esta tendência, identificada em muitas esferas da produção discursiva, não corresponde ao fim da violência política e revolucionária enquanto facto social, mas sim numa rutura discursiva nos meios de comunicação dominantes.
+
+Diante deste fenómeno discursivo, o presente artigo pretende analisar as representações da violência revolucionária na obra de dois artistas contemporâneos, Don L, músico e poeta brasileiro, e Kim Stanley Robinson, autor estado-unidense. Ambos os autores foram escolhidos por desviarem, em alguma medida das representações contemporâneas dominantes da violência revolucionária.
+
+O objetivo deste artigo é compreender o papel ocupado pela violência revolucionária nas obras analisadas, bem como a forma como estas se relacionam com os dois paradigmas de representação da violência revolucionária aqui identificados – o dos nacionalismos do século XIX, e o pós-WWII.
+
+A metodologia adotada para concretizar este objetivo passa pela análise das obras selecionadas de cada autor, a análise do discursos dos paradigmas dominantes sobre a violência revolucionária e a comparação das conclusões.
+
+O presente artigo será, portanto, divido em três secções principais, com subcapítulos específicos. A primeira apresenta o enquadramento teórico deste trabalho. Isto é, a definição daquilo que se entende como violência revolucionária e os paradigmas discursivos que a representam. A segunda secção é dedicada à análise das obras selecionadas. Na última secção, os resultados das seções anteriores serão comparados para responder às questões que orientam esta investigação.
+
+A primeira secção do enquadramento teórico deste artigo passa pela definição de seus conceitos centrais, em especial a noção de violência revolucionária.
+
+A Comuna de Paris de 1871 e o sucesso da revolução russa de 1917 marcam a apropriação do uso de violência enquanto ferramenta para projetos políticos específicos por parte das narrativas comunistas. Em razão disto, o termo violência revolucionária é núcleo discursivo da teoria marxista, e gera o debate do *marxismo humanista* (não tenho certeza disso). Contudo, a defesa discursiva da violência e de formas violentas de ressistencia antecede a concretização do conceito por parte dos teóricos comunistas.
+
+É através deste enquadramento que este trabalho pretende analisar as representações da violência revolucionária. Portanto, para os fins desta análise, entende-se como violência revolucionária o uso deliberado de violência sistemática como meio de concretização de projetos políticos de tomada de poder e instauração de novos regimes por grupos não dominantes. 
+
+Esta definição engloba, portanto, projetos revolucionários que alcançaram ou não o poder e de diversas orientações político partidarias, como as revoluções nacionailistas europeias de 1820, 1830 e 1848; revoluções populares de viragem comunista no século XX: ou as revoluções nacionalistas anti-coloniais.
+
+Uma vez definido o conceito central deste trabalho. Cabe fazer breve enquadramento teórico do papel das representações artísticas e literárias na orientação de projetos políticos concretos.
+
+>[!note]- O que eu quero falar aqui? Eu quero apresentar o conceito de imaginário e falar sobre como os imaginários são constitutivos para a realidade social. Para falar disso, eu quero falar sobre ideologia. E como a ideologia é criada pelos meios de produção estabelecidos e pela arte deliberada.
+>Então o caminho vai ser, falar sobre como para o Charles Taylor a economia é um sistema social reificado. DEpois eu falo como isso é um regime de poder ideologicamente embasado e como essa ideologia é criada pela arte. Então o primeiro autor que eu cito é o charles taylor. Depois eu falo sobre ideologia - talvez o gramsci e terry eagleton - e depois eu falo sobre como a linguagem e a literatura são um meio pelo qual se pode construir ideologia que suporte uma economia e um regime social - para isso eu falo do Said e do benedict Anderson.
+>Então eu começo falando sobre como a organização social em que nos inserimos é ideolígicametne constituida - aqui eu posso citar aquele autor que a professora falou que fala sobre a colheres de antidiarréico - DEpois eu falo sobre o que é ideologia e finalmente sobre como a ideologia é criada pela literatura.
+
+Para concretizar este enquadramento, o primeiro conceito que deve ser operacionalizado é o de Imaginário Social de Charles Taylor. De acordo com o autor, um dos elementos fundacionais da modernidade ocidental é o surgimento de uma nova concepção da ordem moral da sociedade (2004, p. 2). Este entendimento, que se aproxima das ideias de autores gramscianos, se opõe ao materialismo ortodoxo e evidencia o papel de imaginários sociais enquanto orientadores da vida social (2004, p. 33).
+
+Para Taylor, os imaginários sociais são paradigmas socialmente compartilhados que orientam a forma como os indivíduos imaginam a sociedade. Isto é, o conjunto de significados e definições morais que cria as identidades coletivas e individuais através de práticas, narrativas e instituições (Taylor, 2004 p. 23). Através da noção de Imaginários Sociais, Taylor destaca o papel da Ideologia na criação e reprodução das organizações da vida social, bem como no engajamento da população com as práticas que dela decorrem.
+
+Neste sentido,  breve discussão sobre o conceito de ideologia faz-se necessário. Como já mencionado por Terry Eagleaton em anedota, existem tantas definições para a  ideologia quanto teóricos que a discutem (Eagleton, 2003 p. 14). Por isso, não cabe neste trabalho esgotar o conceito, mas sim apresenta-lo dentro do enquadramento deste trabalho.
+
+De forma a robustecer a discussão dos Imaginários Sociais de Taylor, a operacionalização do conceito de Ideologia através da noção de Hegemonia de Gramsci é central. O autor italiano expande a metateoria marxista “ortodoxa” sobre o papel da ideologia nas disputas de poder com a noção de Hegemonia. Gramsci define-o como o “consentimento espontâneo dado pelas grandes massas da população à direção geral imposta à vida social pelo grupo fundamental dominante” (Gramsci, 2012, p. 12).
+
+Assim, Gramsci lança às bases para uma teoria do poder social que será expandida por autores neo-marxistas e pós-estruturalistas. Para o autor, o consentimento e a dominação são duas expressões do poder exercido na sociedade. Enquanto a dominação é visível através do controle sobre os corpos, o consentimento decorre da imposição de normas, perceções e valores de legitimam a presente organização social (Lears, 1985, p. 569). A combinação dos vários elementos que criam o “consentimento […] dado pelas grandes massas” acabam por criar uma identidade compartilhada sob a mesma ordem moral.
+
+Para advocates das leituras construtivistas do nacionalismo, o principal exemplo da construção de identidades compartilhadas através da hegemonia de classes dominantes é a imaginação de comunidades nacionais (Gellner, 1983 p. 7). Em sua análise sobre a construção ideológica das nações europeias, Bennedict Anderson evidencia o papel da linguagem neste processo. Segundo o autor, é a partir da concretização do “capitalismo literário nacional (pesquisar isso melhor)” que as identidades nacionais podem ser identificadas.
+
+Leitura semelhante sobre o papel da linguagem na concretização de projetos de poder nacionais é feita por Edward Said, ainda que com aplicação distinta. Em Orientalismo, Said destaca o papel da linguagem – expressa no arcabouço artístico e literário da Europa no século XVIII (confirmar século) na dominação e subjugação do “Oriente” pelo “Ocidente”. Assim, para Said, através de um modo discursivo compartilhado e orientado por projetos de poder, a geografia do Oriente e do Ocidente são imaginados (citar aquela parte que tá na tese aqui).
+
+Assim, a literatura e as convenções da linguagem que ela faz avançar são elementos centrais na construção de comunidades, assentes na hegemonia de classes dominantes, que consolidam um imaginário social comum com o consentimento das classes dominadas. Este breve enquadramento pretendeu evidenciar, portanto, a centralidade da literatura - objeto de estudo deste trabalho - na concretização de imaginários sociais e relações de produção.
+
+N ations and
+
+N ationalism
+
+E r n e s t G e l l n e r
+
+---
+
+[[1]](#_ftnref1) AS limitações desteentendimento, que desvaloriza disputas de poder internaas, bem como evidencia um enquadramento soico-gistórioc eurocênitro já foram amplamente discutidas em outras instancias, mas ainda assim possui valkor ilustrativo para a apresente argumentação. LYbeck (2010) é um dos que evidencia as limitações do conceitoi de Polanyi [https://brill.com/display/book/edcoll/9781848880351/BP000005.xml](https://brill.com/display/book/edcoll/9781848880351/BP000005.xml)
+
+# Opiniões do ChatGPT
+O tema do papel da literatura na "imaginação" de novos horizontes sociais é rico e pode ser abordado a partir de diversas perspectivas teóricas e autores. Aqui estão algumas sugestões que podem contribuir para o enquadramento teórico:
+
+---
+
+### **1. Literatura como Força Transformadora:**
+
+- **Benedict Anderson**: Em _Imagined Communities_, Anderson explora como as narrativas e os textos literários contribuem para a formação de identidades nacionais, o que pode ser extrapolado para a imaginação de novos horizontes sociais.
+- **Raymond Williams**: Em _The Long Revolution_, Williams discute a literatura como parte de uma cultura que molda e reflete mudanças sociais, conectando-a a transformações políticas e ideológicas.
+
+---
+
+### **2. Literatura e o Futuro:**
+
+- **Ernst Bloch**: _The Principle of Hope_ é essencial para entender a literatura como um espaço de projeção de futuros possíveis e utópicos, com foco na imaginação como motor de transformação.
+- **Fredric Jameson**: Em _Archaeologies of the Future_, Jameson conecta a literatura (especialmente ficção científica) à imaginação utópica e aos limites da organização social dentro do capitalismo.
+
+---
+
+### **3. Estudos Pós-Coloniais e Literários:**
+
+- **Edward Said**: _Culture and Imperialism_ explora como a literatura pode tanto perpetuar quanto questionar formas de organização social imperialistas, sendo uma ferramenta para imaginar alternativas.
+- **Homi Bhabha**: Em _The Location of Culture_, Bhabha discute a literatura como um espaço de negociação e transformação cultural, onde novos horizontes sociais emergem a partir do "entre-lugar".
+
+---
+
+### **4. Literatura e Organização Social:**
+
+- **Antonio Gramsci**: _Prison Notebooks_ traz conceitos como hegemonia cultural e o papel da literatura na formação de contra-hegemonias, que podem inspirar projetos políticos e partidários.
+- **Mikhail Bakhtin**: Em _Problemas da Poética de Dostoiévski_, Bakhtin explora a polifonia e o dialogismo, sugerindo que a literatura pode ser um espaço para múltiplas vozes imaginarem novas formas de convivência e organização social.
+
+---
+
+### **5. Literatura e Emancipação:**
+
+- **Paulo Freire**: _Pedagogia do Oprimido_ conecta a narrativa como forma de libertação, com implicações claras para a literatura como ferramenta de imaginação social.
+- **Jacques Rancière**: _The Politics of Literature_ explora como a literatura desafia as hierarquias estabelecidas e cria novos modos de pensar e organizar a sociedade.
+
+---
+
+### **6. Utopias e Distopias Literárias:**
+
+- **Thomas More**: _Utopia_ serve como base para a literatura que propõe sistemas alternativos de organização social.
+- **Margaret Atwood e Ursula K. Le Guin**: Autoras contemporâneas cuja ficção explora os limites e as possibilidades da organização social, frequentemente dialogando com questões políticas.
+
+---
+
+### **7. Conceitos-Chave:**
+
+- **Imaginação Social**: O conceito de Charles Taylor em _Modern Social Imaginaries_ pode ajudar a entender como narrativas literárias moldam e são moldadas por horizontes sociais.
+- **Ecocrítica e Antropoceno**: Donna Haraway e Bruno Latour oferecem ideias que podem conectar literatura e imaginação social a desafios ecológicos contemporâneos.
+- **Estudos de Narrativa**: Hayden White e Roland Barthes discutem como as narrativas estruturam a realidade e criam espaço para novas possibilidades sociais.
+
+---
+
+### **8. Abordagens Regionais:**
+
+Se o foco for em literatura brasileira ou latino-americana, autores como **Milton Santos** (espacialidade e sociedade), **Eduardo Galeano** (_As Veias Abertas da América Latina_) e **João Cabral de Melo Neto** (visões poéticas de organização social) podem ser interessantes.
+
+Esses autores e conceitos oferecem um amplo leque de possibilidades para estruturar o trabalho e explorar como a literatura não apenas reflete, mas também propõe e molda horizontes sociais e formas de organização política. Caso deseje aprofundar-se em algum autor ou conceito específico, posso ajudá-lo a desenvolvê-lo.
 # Letras do Don L
 
 **primavera**
@@ -83,7 +206,7 @@ Lararara rara
 
   
 
-# Trilha pra uma Nova Trilha
+## Trilha pra uma Nova Trilha
 
 Se fosse pra viver por isso  
 ​Eu não teria a bem dizer morrido pelo que acredito (quase)  
@@ -145,7 +268,7 @@ A trilha pra uma nova
 
   
 
-# vila rica
+## vila rica
 
 Na trilha pra Vila Rica  
 A tomar todo o ouro que eu preciso  
@@ -230,7 +353,7 @@ E se o sangue da minha guarnição deixar o chão vermelho
 Cidades crescerão em cima de mil cemitérios  
 Que renascerão em guerras até que se cobre o preço
 
-# pânico de nada
+## pânico de nada
 
 Luta pra todo lado
 
@@ -321,7 +444,7 @@ Tomar o quartel render os guarda
 ​Pânico de que? (oooh oooh)  
 ​Pânico de que? (oooh)
 
-# volta da vitória
+## volta da vitória
 
 ​Ô, Luanda  
 ​Ô, Luanda

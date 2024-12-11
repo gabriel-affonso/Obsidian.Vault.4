@@ -12,6 +12,7 @@ status:
   - Lido
 nota:
   - ⭐⭐⭐⭐
+media: Livro
 ---
 
 

@@ -39,7 +39,7 @@ visibilidade:
 
 ```dataview
 TABLE date AS "Data", autor AS "Autor", ano AS "Ano", tema AS "Tema", contexto AS "Contexto", status AS "Status"
-FROM "Memórias, Silêncios e Heterodoxias"
+FROM "Doutoramento/Memórias, Silêncios e Heterodoxias"
 WHERE date AND autor AND ano AND contexto AND status
 SORT date DESC
 ```
@@ -116,7 +116,7 @@ SORT date DESC
 
 - [ ] Lourenço, Eduardo (2014), O colonialismo como nosso impensado. Organização e prefácio de Margarida Calafate Ribeiro e Roberto Vecchi. Lisboa: Gradiva.
 
-- [ ] Matos, Patrícia Ferraz de (2013), “Power and Identity: The Exhibition of Human Beings in the Portuguese Great Exhibitions”, Identíties, n.o 21(2), pp. 202-218.
+- [x] Matos, Patrícia Ferraz de (2013), “Power and Identity: The Exhibition of Human Beings in the Portuguese Great Exhibitions”, Identíties, n.o 21(2), pp. 202-218.
 
 - [ ] Rosas, Fernando (org.) (2022), Revolução Portuguesa. 1974-1975. Lisboa: Tinta-da-china.
 - [ ] Cardim, Pedro (2021), “O monumento ao jesuíta António Vieira, em Lisboa, e o debate sobre a “conquista” e a colonização portuguesas das terras americanas”, Língua-Lugar: Literatura, História, Estudos Culturais, n.o 2 (3), pp. 66–82.
@@ -127,5 +127,5 @@ SORT date DESC
 - [ ] Rodrigues, Inês Nascimento (2018), Espectros de Batepá. Memórias e narrativas do ‘massacre de 1953’ em São Tomé e Príncipe. Porto: Edições Afrontamento.
 	- [ ] Rodrigues, Inês Nascimento (2017), “How to Draw a Haunted Nation: Colonial Ghosts and Spectres in Conceição Lima's Poems”, in Lars Jensen et al. (org.), Postcolonial Europe: Comparative Reflections after the Empires. London / New York: Rowman & Littlefield International, pp. 91-102.
 	- [x] Cardina, Miguel e Rodrigues, Inês Nascimento (2021), “The mnemonic transition: The rise of an anti-anticolonial memoryscape in Cape Verde”, Memory Studies, n.o 14, 2, pp. 380-394.
-- [ ] Cardina, Miguel e Rodrigues, Inês, Nascimento (2022), Remembering the Liberation Struggles in Cape Verde: a mnemohistory. Londres e Nova Iorque: Routledge.
-- [ ] Coelho, João Paulo Borges (2019), “[[Política e História Contemporânea Em Moçambique - Dez Notas Epistemológicas]] ”, Revista de História, n.o 178, pp. 1-19.
+- [x] Cardina, Miguel e Rodrigues, Inês, Nascimento (2022), Remembering the Liberation Struggles in Cape Verde: a mnemohistory. Londres e Nova Iorque: Routledge.
+- [ ] Coelho, João Paulo Borges (2019), “[[Política e História Contemporânea em Moçambique - Dez Notas Epistemológicas]] ”, Revista de História, n.o 178, pp. 1-19.

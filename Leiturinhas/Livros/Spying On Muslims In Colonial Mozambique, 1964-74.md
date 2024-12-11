@@ -10,7 +10,8 @@ contexto:
   - Leiturinhas
 status:
   - Ler
-nota:
+nota: 
+media: Livro
 ---
 
 

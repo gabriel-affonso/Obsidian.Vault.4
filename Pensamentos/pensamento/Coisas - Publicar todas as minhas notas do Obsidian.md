@@ -3,6 +3,13 @@ date: 2024-11-12
 tags:
   - Pensamentos
 ---
+# Pendencias do Projeto
+- [ ] Deixar o index bonitinho
+- [ ] Fazer uma lista com todas as pastas públicas - fazer com que as subpastas tenham um recuo
+- [ ] adicionar um botão para baixar todos os arquivos
+
+
+
 Acho que seria um projeto de aprendizado de programação interessante conseguir transformar todos as minhas notas do obsidian em uma mega minha wikipedia. Assim eu podia fazer com que tudo ficasse sempre online.
 
 Isso naturalmente gera algumas questões que precisam ser tratadas. 
