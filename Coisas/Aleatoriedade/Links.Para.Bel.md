@@ -3,9 +3,9 @@ date: 2024-12-10
 hora: 11:20
 tags:
 ---
-
-
-
+# Links para a Bel
+## Pode não ser muito bonito, mas é feito com muito amor :)
+### ~~se vc disser que tá feio eu vou ficar triste~~
 
 
 https://apply.uc.pt/P048-24-14465
