@@ -17,6 +17,7 @@ Recolha Bibliográfica: https://www.one-tab.com/page/DpBjkSmGScCCGqpltFJXmg
 
 
 # Trabalho Poética
+[[Artigo - Don L, Kim Robinson e Sonho enquanto extensão da política]]
 ### Apresentação do tema - 12/12
 Semana que vem
 
