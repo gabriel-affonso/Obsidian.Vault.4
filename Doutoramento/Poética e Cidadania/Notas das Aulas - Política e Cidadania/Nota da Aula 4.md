@@ -86,3 +86,28 @@ Os maiores bens para a Hélade vem dos discursos da loucura.
 
 Esses discursos da loucura, ou fora da ordem, são os modos discursivos que precisam ser normatividades 
 
+**Tema:** Pensar a linguagem: o arcaico, contemporâneo e uma certa ideia de Modernidade.
+
+### Introdução
+
+- **A insuficiência da linguagem:** A busca por uma expressão além das palavras, culminando no grito como som inarticulado.
+- **A linguagem como poder:** A natureza não neutra da linguagem e a importância do silêncio como excesso.
+- **A propriedade da linguagem:** Discussão sobre a autoria e a impossibilidade de definir o que é, por exemplo, Shakespeare.
+
+### A Linguagem e o Poder
+
+- **A linguagem como ferramenta ideológica:** O papel dos técnicos em moldar ideias e a questão da propriedade intelectual.
+- **A linguagem na política:** A divisão entre imperador e Deus em Dante e a noção de dignidade.
+- **O fazer poético como prática agonística:** A linguagem como um campo de disputa e a importância do ritual na produção de sentido.
+
+### A Linguagem e o Ritual
+
+- **O ritual como gerador de significado:** A Missa como exemplo de comunidade que produz uma linguagem encantatória.
+- **A arte como ritual:** A busca pela comunidade e a catarse como objetivos da arte.
+- **O erro trágico e a subjetividade:** A importância do erro no desenvolvimento da subjetividade individual.
+
+### O Fedro de Platão
+
+- **A fuga da cidade:** A busca por um pensamento mais livre fora dos muros da cidade.
+- **A loucura como fonte de conhecimento:** A valorização dos discursos da loucura (amor, prece, profecia, poesia) como fontes de sabedoria.
+- **A relação entre poder e discurso:** A identificação dos discursos da loucura como alvos de normatização.

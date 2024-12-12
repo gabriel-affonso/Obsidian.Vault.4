@@ -30,14 +30,14 @@ As pessoas não sabem construir frases? mas nas últimas décadas é que nós al
 *O Benedict Anderson e o tik tok*
 
 
-Sobre a divisão teológica proposta pelo Dante corrobora com o desenvolvimento do paradigma da modernidade, marcado pela racionalização. Isso também fomenta o processo de secularizaação da política na divisão do poder, ou do regime social, do imperador - *humanitas*  - e do papa.
+Sobre a divisão teológica proposta pelo Dante - corrobora com o desenvolvimento do paradigma da modernidade, marcado pela racionalização. Isso também fomenta o processo de secularizaação da política na divisão do poder, ou do regime social, do imperador - *humanitas*  - e do papa.
 
 
 Essa ruptura entre razão e subjetividade/
 
 é por que isso é o meio de trabalho deles. 
 
-Será que isso quer dizer que, dentro do arranjo entre materia e ideologia/estrutura e superestrutura. Há o processo de emocionalização e *inspiralização* da arte e do artista no século XIX. 
+Será que isso quer dizer que, dentro do arranjo entre materia e ideologia/estrutura e superestrutura, há o processo de emocionalização e *inspiralização* da arte e do artista no século XIX. 
 
 Então, a ideia que de arte não é tecnica, é inspiração e talento, é uma externalidade do processo de racionalização e do positivismo. Parece uma leitura interessante. 
 
