@@ -86,6 +86,7 @@ Os maiores bens para a Hélade vem dos discursos da loucura.
 
 Esses discursos da loucura, ou fora da ordem, são os modos discursivos que precisam ser normatividades 
 
+
 **Tema:** Pensar a linguagem: o arcaico, contemporâneo e uma certa ideia de Modernidade.
 
 ### Introdução
@@ -102,12 +103,12 @@ Esses discursos da loucura, ou fora da ordem, são os modos discursivos que prec
 
 ### A Linguagem e o Ritual
 
-- **O ritual como gerador de significado:** A Missa como exemplo de comunidade que produz uma linguagem encantatória.
+- **O ritual como gerador de significado:** A Missa como exemplo de comunidade que produz uma linguagem encantatória. (Sobre isso, _**Les Formes élémentaires de la vie religieuse**_ do Durkheim é um enquadramento teórico interessante)
 - **A arte como ritual:** A busca pela comunidade e a catarse como objetivos da arte.
-- **O erro trágico e a subjetividade:** A importância do erro no desenvolvimento da subjetividade individual.
+- **O erro trágico e a subjetividade:** O erro trágico no desenvolvimento do "sujeito visto". (A Medeia de Eurídepes estabelece um diálogo interessante com a noção tradicional de erro trágico)
 
-### O Fedro de Platão
+### O Fedro de Platão (Bibliografia da aula)
 
 - **A fuga da cidade:** A busca por um pensamento mais livre fora dos muros da cidade.
-- **A loucura como fonte de conhecimento:** A valorização dos discursos da loucura (amor, prece, profecia, poesia) como fontes de sabedoria.
+- **A loucura como fonte de conhecimento:** A valorização dos discursos da loucura (amor, prece, profecia, poesia) como fontes de "sabedoria". (Muito semelhante )
 - **A relação entre poder e discurso:** A identificação dos discursos da loucura como alvos de normatização.
