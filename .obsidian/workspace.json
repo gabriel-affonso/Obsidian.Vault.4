@@ -171,15 +171,16 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "obsidian-git:Open Git source control": false
     }
   },
   "active": "243513deacea4124",
   "lastOpenFiles": [
     "Coisas/Semanas/Dezembro 2024/Semana 3 Dezembro/2024-12-16.md",
+    "Coisas/Aleatoriedade/Links.Para.Bel.md",
     "Pensamentos/Índice de Pensamentos.md",
     "Pessoas/Gírio.md",
-    "Coisas/Aleatoriedade/Links.Para.Bel.md",
     "Coisas/Semanas/Dezembro 2024/Semana 3 Dezembro/!Semana 3 Dezembro.md",
     "Coisas/Semanas/Dezembro 2024/Orçamento Dezembro.md",
     "Coisas/Semanas/Dezembro 2024/Semana 2 Dezembro/2024-12-09.md",

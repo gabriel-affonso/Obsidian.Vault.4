@@ -11,6 +11,7 @@ tags:
 # Financiamentos 
 ### 16/12 
 Aqui tem vários financiamentos - eles podem servir para fazer o seu projeto de cinema sobre grécia, financiar peças do thiasos, ou financiar um documentário sobre o thiasos. 
+Esses são todos da Comissão Europeia
 https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/CREA-CULT-2025-LIT?order=DESC&pageNumber=1&pageSize=10&sortBy=relevance&keywords=Theatre%20plays&isExactMatch=true&status=31094502&programmePeriod=2021%20-%202027
 
 https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/CREA-CULT-2025-COOP-1?order=DESC&pageNumber=1&pageSize=10&sortBy=relevance&keywords=theatre&isExactMatch=true&status=31094502&programmePeriod=2021%20-%202027
