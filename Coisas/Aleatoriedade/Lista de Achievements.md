@@ -15,10 +15,12 @@ tags:
 - [ ] Fazer um relógio pra mim
 - [ ] Publicar a tese
 - [ ] Publicar um artigo
-- [ ] Ter todas as minhas notas do obsidian online
+- [x] Ter todas as minhas notas do obsidian online
 - [ ] Ver batman 2
 - [ ] Terminar um jogo do switch
 - [ ] Ter um projeto de tese
 - [ ] Ir para Roma
 - [ ] Ir pra China
+- [ ] comer rodízio de sushi sozinho
+- [ ] apostar em um cassino
 - [ ] 
