@@ -32,7 +32,7 @@ tags:
 	- [ ] caneca rosa (?)
 - [ ] pagar telefone
 - [ ] sacar dinheiro para o men
-- [ ] fazer candidatura pra o concretsso de métodos qualitativos https://ciaiq.ludomedia.org/ https://proceedings.science/cfp/ciaiq-2025
+- [ ] fazer candidatura pra o concretsso de métodos qualitativos https://ciaiq.ludomedia.org/ https://proceedings.science/cfp/ciaiq-2025 [[QALI 2025]]
 
 
 ## Falar na Terapia
