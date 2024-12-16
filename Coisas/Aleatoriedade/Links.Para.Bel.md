@@ -36,6 +36,9 @@ https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunit
 Esse aqui seria muito foda, é uma linha de financiamento da OTAN para projetos pequenos. Acho que é super fazível fazer um documento explicando pq helena se encaixa nos valores da OTAN. Algo como Helena - on the absurdity of war and the necessity of international cooperation. E vcs nem precisariam mudar nada no texto. 
 https://www.nato.int/cps/en/natohq/63610.htm 
 
+### Bolsas de investigação
+https://euraxess.ec.europa.eu/jobs/search?f%5B0%5D=job_research_field%3A281&f%5B1%5D=job_research_field%3A282&f%5B2%5D=job_research_field%3A283&f%5B3%5D=job_research_field%3A286&f%5B4%5D=job_research_field%3A291&f%5B5%5D=job_research_field%3A292&f%5B6%5D=job_research_field%3A333&f%5B7%5D=job_research_profile%3A447&f%5B8%5D=offer_type%3Ajob_offer
+
 ### antigos
 
 financiamento para fazer filmes ou documentários sobre a "identidade europeia" - dá pra gravar uma peça do thíasos
