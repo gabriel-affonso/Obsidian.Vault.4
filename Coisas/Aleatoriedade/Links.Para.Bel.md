@@ -48,6 +48,10 @@ https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunit
 # Trabalhos
 
 
+https://www.instituto-camoes.pt/images/Concursos_EPE_local/Concursos_2023.-2024/Aviso_abertura_PCS_2024_2025_12CEB_GEN43_13dez24.pdf
+
+https://www.instituto-camoes.pt/activity/o-que-fazemos/cultura-portuguesa/cultura-e-desenvolvimento/apoios/linha-de-apoio-a-traducao-e-edicao
+
 https://apply.uc.pt/P048-24-14465
 
 https://apply.uc.pt/P048-23-13649

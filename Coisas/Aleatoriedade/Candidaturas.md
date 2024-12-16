@@ -6,7 +6,7 @@ tags:
 - [ ] MSA 2025
 - [x] CAPS 2025
 - [x] APA 2025
-- [ ] 
+- [ ] QALI 2025
 # Empregos
 
 > [!note]- Acho que uma coisa que eu preciso fazer é definir quais são os cargos que eu posso desempenhar
@@ -28,6 +28,7 @@ tags:
 - [ ] complance binance
 - [ ] IMF
 - [ ] New Development Bank
+- [ ] Instituto Camões - https://www.instituto-camoes.pt/activity/o-que-fazemos/cooperacao/envolva-se/processos-de-recrutamento
 
 # Projetos
 - [ ] Minho https://euraxess.ec.europa.eu/jobs/286946 
