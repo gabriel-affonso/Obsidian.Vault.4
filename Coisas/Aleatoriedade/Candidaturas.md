@@ -6,7 +6,7 @@ tags:
 - [ ] MSA 2025
 - [x] CAPS 2025
 - [x] APA 2025
-- [ ] QALI 2025
+- [ ] [[QALI 2025]]
 # Empregos
 
 > [!note]- Acho que uma coisa que eu preciso fazer é definir quais são os cargos que eu posso desempenhar
