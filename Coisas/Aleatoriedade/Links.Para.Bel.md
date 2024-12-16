@@ -8,6 +8,45 @@ tags:
 ### ~~se vc disser que tá feio eu vou ficar triste~~
 
 
+# Financiamentos 
+### 16/12 
+Aqui tem vários financiamentos - eles podem servir para fazer o seu projeto de cinema sobre grécia, financiar peças do thiasos, ou financiar um documentário sobre o thiasos. 
+https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/CREA-CULT-2025-LIT?order=DESC&pageNumber=1&pageSize=10&sortBy=relevance&keywords=Theatre%20plays&isExactMatch=true&status=31094502&programmePeriod=2021%20-%202027
+
+https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/CREA-CULT-2025-COOP-1?order=DESC&pageNumber=1&pageSize=10&sortBy=relevance&keywords=theatre&isExactMatch=true&status=31094502&programmePeriod=2021%20-%202027
+
+https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/CREA-CULT-2025-COOP-2?order=DESC&pageNumber=1&pageSize=10&sortBy=relevance&keywords=theatre&isExactMatch=true&status=31094502&programmePeriod=2021%20-%202027
+
+https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/CREA-MEDIA-2025-CODEV?order=DESC&pageNumber=1&pageSize=10&sortBy=relevance&keywords=Cinema&isExactMatch=true&status=31094502&programmePeriod=2021%20-%202027
+
+https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/CREA-MEDIA-2025-MEDIA360?order=DESC&pageNumber=1&pageSize=10&sortBy=relevance&keywords=Film%20Production%20-%20Media&isExactMatch=true&status=31094502&programmePeriod=2021%20-%202027
+
+https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/CREA-MEDIA-2025-FILMDIST?order=DESC&pageNumber=1&pageSize=10&sortBy=relevance&keywords=Film%20distribution&isExactMatch=true&status=31094502&programmePeriod=2021%20-%202027
+
+
+https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/CREA-MEDIA-2025-FILMOVE?order=DESC&pageNumber=1&pageSize=10&sortBy=relevance&keywords=Film%20distribution&isExactMatch=true&status=31094502&programmePeriod=2021%20-%202027
+
+https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/CREA-MEDIA-2025-TVONLINE?order=DESC&pageNumber=1&pageSize=10&sortBy=relevance&keywords=Film%20Production%20-%20Media&isExactMatch=true&status=31094502&programmePeriod=2021%20-%202027
+
+https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/CREA-MEDIA-2025-MEDIA360?order=DESC&pageNumber=1&pageSize=10&sortBy=relevance&keywords=Film%20Production%20-%20Media&isExactMatch=true&status=31094502&programmePeriod=2021%20-%202027
+
+https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/CREA-MEDIA-2025-CODEV?order=DESC&pageNumber=1&pageSize=10&sortBy=relevance&keywords=Cinema&isExactMatch=true&status=31094502&programmePeriod=2021%20-%202027
+
+Esse aqui seria muito foda, é uma linha de financiamento da OTAN para projetos pequenos. Acho que é super fazível fazer um documento explicando pq helena se encaixa nos valores da OTAN. Algo como Helena - on the absurdity of war and the necessity of international cooperation. E vcs nem precisariam mudar nada no texto. 
+https://www.nato.int/cps/en/natohq/63610.htm 
+
+### antigos
+
+financiamento para fazer filmes ou documentários sobre a "identidade europeia" - dá pra gravar uma peça do thíasos
+
+https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/CREA-MEDIA-2025-CODEV?order=DESC&pageNumber=1&pageSize=50&sortBy=startDate&isExactMatch=true&status=31094502
+
+https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/ERASMUS-SPORT-2025-SSCP?order=DESC&pageNumber=1&pageSize=50&sortBy=startDate&isExactMatch=true&status=31094502
+
+
+# Trabalhos
+
+
 https://apply.uc.pt/P048-24-14465
 
 https://apply.uc.pt/P048-23-13649

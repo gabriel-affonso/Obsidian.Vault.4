@@ -17,7 +17,8 @@ visibilidade:
 > **Tamanho:** 4.000 a 6.000 palavras
 > **Data:** 2025-01-15
 >  Apresentar a ideia até 2024-11-12
->  [[Resumo Miguel]]
+>  [[Resumo Memória]]
+>  [[Apresentação Prévia - Memória]] 
 > 
 
 
@@ -31,6 +32,7 @@ visibilidade:
 [[aula 6 - Memória]]
 [[aula 7 - Memória 1]]
 [[aula 9 - Memória]]
+[[aula 10 - Memória]]
 
 
 

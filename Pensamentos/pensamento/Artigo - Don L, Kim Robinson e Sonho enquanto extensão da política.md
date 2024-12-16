@@ -36,16 +36,18 @@ O presente artigo será, portanto, divido em três secções principais, com sub
 
 A primeira secção do enquadramento teórico deste artigo passa pela definição de seus conceitos centrais, em especial a noção de violência revolucionária.
 
-A Comuna de Paris de 1871 e o sucesso da revolução russa de 1917 marcam a apropriação do uso de violência enquanto ferramenta para projetos políticos específicos por parte das narrativas comunistas. Em razão disto, o termo violência revolucionária é núcleo discursivo da teoria marxista, e gera o debate do *marxismo humanista* (não tenho certeza disso). Contudo, a defesa discursiva da violência e de formas violentas de ressistencia antecede a concretização do conceito por parte dos teóricos comunistas.
+A Comuna de Paris de 1871 e o sucesso da revolução russa de 1917 marcam a apropriação do uso de violência enquanto ferramenta para projetos políticos específicos por parte das narrativas comunistas. Em razão disto, o termo violência revolucionária é núcleo discursivo da teoria marxista, e gera o debate do “marxismo humanista” (não tenho certeza disso). Contudo, a defesa discursiva da violência e de formas violentas de resistência antecede a concretização do conceito por parte dos teóricos comunistas.
 
 É através deste enquadramento que este trabalho pretende analisar as representações da violência revolucionária. Portanto, para os fins desta análise, entende-se como violência revolucionária o uso deliberado de violência sistemática como meio de concretização de projetos políticos de tomada de poder e instauração de novos regimes por grupos não dominantes. 
 
-Esta definição engloba, portanto, projetos revolucionários que alcançaram ou não o poder e de diversas orientações político partidarias, como as revoluções nacionailistas europeias de 1820, 1830 e 1848; revoluções populares de viragem comunista no século XX: ou as revoluções nacionalistas anti-coloniais.
+Esta definição engloba, portanto, projetos revolucionários que alcançaram ou não o poder e de diversas orientações político partidárias, como as revoluções nacionalistas europeias de 1820, 1830 e 1848; revoluções populares de viragem comunista no século XX: ou as revoluções nacionalistas anti-coloniais.
 
 Uma vez definido o conceito central deste trabalho. Cabe fazer breve enquadramento teórico do papel das representações artísticas e literárias na orientação de projetos políticos concretos.
 
 >[!note]- O que eu quero falar aqui? Eu quero apresentar o conceito de imaginário e falar sobre como os imaginários são constitutivos para a realidade social. Para falar disso, eu quero falar sobre ideologia. E como a ideologia é criada pelos meios de produção estabelecidos e pela arte deliberada.
+
 >Então o caminho vai ser, falar sobre como para o Charles Taylor a economia é um sistema social reificado. DEpois eu falo como isso é um regime de poder ideologicamente embasado e como essa ideologia é criada pela arte. Então o primeiro autor que eu cito é o charles taylor. Depois eu falo sobre ideologia - talvez o gramsci e terry eagleton - e depois eu falo sobre como a linguagem e a literatura são um meio pelo qual se pode construir ideologia que suporte uma economia e um regime social - para isso eu falo do Said e do benedict Anderson.
+
 >Então eu começo falando sobre como a organização social em que nos inserimos é ideolígicametne constituida - aqui eu posso citar aquele autor que a professora falou que fala sobre a colheres de antidiarréico - DEpois eu falo sobre o que é ideologia e finalmente sobre como a ideologia é criada pela literatura.
 
 Para concretizar este enquadramento, o primeiro conceito que deve ser operacionalizado é o de Imaginário Social de Charles Taylor. De acordo com o autor, um dos elementos fundacionais da modernidade ocidental é o surgimento de uma nova concepção da ordem moral da sociedade (2004, p. 2). Este entendimento, que se aproxima das ideias de autores gramscianos, se opõe ao materialismo ortodoxo e evidencia o papel de imaginários sociais enquanto orientadores da vida social (2004, p. 33).
@@ -64,25 +66,790 @@ Leitura semelhante sobre o papel da linguagem na concretização de projetos de 
 
 Assim, a literatura e as convenções da linguagem que ela faz avançar são elementos centrais na construção de comunidades, assentes na hegemonia de classes dominantes, que consolidam um imaginário social comum com o consentimento das classes dominadas. Este breve enquadramento pretendeu evidenciar, portanto, a centralidade da literatura - objeto de estudo deste trabalho - na concretização de imaginários sociais e relações de produção.
 
-N ations and
+Apesar da complexificação da compreensão das relações entre imaginários sociais e paradgimas concretos de organização social ter ocorrido com os trabalhos dos autores suprarreferidos, vale mencionar a presença de antecedentes desta reflexão no pensamento de Marx. O autor descreve as tradições das gerações passadas – entendidas aqui como o conjunto de práticas, valores e instituições que constituem uma identidade compartilhada – como “um pesadelo que oprime o cérebro dos vivos” (2011 p. 25).
+
+A definição de Marx da Ideologia dominante enquanto um pesadelo destaca o papel da subjetividade das classes dominantes e dominadas na concretização de seus projetos de poder. Dentro da tradição literária e psicanalista – da qual o marxismo heterodoxo frequentemente se aproxima – uma das principais expressões de relações de poder dentro da subjetividade humana são os sonhos e pesadelos (ENCONTRAR REFERÊNICA).
+
+O binómio sonho e pesadelo será central na análise das representações da violência revolucionária que traçaremos a seguir.
+
+O primeiro autor analisado será Don L, nome artístico de Gabriel Linhares da Rocha, é um músico e compositor brasileiro. Sua obra está bastante vincada à trajetória pessoal, especialmente em duas esferas, o ativismo anti-capitalista e a vivência de um indivíduo periférico do Nordeste brasileiro que emigra para São Paulo em busca de oportunidades.
+
+A carreira de Don L se inicia no início dos anos 2000 e ganha destaque em 2006, com o Prêmio Hutúz na categoria Destaque Norte/Nordeste, com o grupo Costa a Costa que integrava na época. Em 2013, o artista lança sua carreira solo e quatro anos depois, seu primeiro álbum – Roteiro Pra Aïnouz, Vol. 3.
+
+>falar sobre como esse álbum imagina uma revolução urbana no brasil
+
+Em razão do enfoque temático deste artigo, o segundo álbum do artista Roteiro Pra Aïnouz, Vol. 2 será o objetivo de estudo, especialmente a letra das músicas “pânico de nada”, “volta da vitória” e “vila rica” e “primavera”. O texto na íntegra consta nos anexos 1, 2, 3 e 4, respetivamente.
+
+O primeiro trecho discutido é de “primavera”:
+
+A guerra que nos reaproximou de nós 
+
+​É a mesma que me pôs a repensar meus sonhos 
+
+​O quanto neles era só publicidade? 
+
+​Fazendo acreditar que eram meus próprios planos 
+
+​Medo de fazer meus próprios planos serem 
+
+​Nossos planos mesmo que eu tombe antes de vê-los 
+
+​Agora vendo florescerem 
+
+​Inevitavelmente eu sei que estarei lá 
+
+​No dia que eles finalmente cheguem 
+
+​Um dia desse eu tava meio cabreiro 
+
+​Sem saber o que pode me acontecer 
+
+​E não ver o fruto que eu plantei em algum janeiro 
+
+​Mas tive um relampejo de que já estão aí 
+
+​E a gente pode ser feliz agora mesmo 
+
+​Apesar da batalha, o pente cheio 
+
+​As tecnologias ancestrais nós temos 
+
+​Pra induzir o sonho dentro de um pesadelo 
+
+​Entre um traçante e outro 
+
+​Dilatar o tempo e imaginar um mundo novo
+
+O trecho de Don L apresenta duas ideias centrais, o binómio sonho/pesadelo e violência que intermedia esta relação. Sobre a primeira ideia, o autor inicia o trecho indagando “o quanto neles [os sonhos] era só publicidade”. O verso ressoa na construção da subjetividade e do desejo individual através da hegemonia. A publicidade é uma produção cultural feita por grupos económicos dominantes para produzir desejo.
+
+Contudo, segundo Don L, a guerra - referência à revolução urbana imaginada pelo artista – colocou o eu-lírico em posição de “repensar os meus sonhos”. Assim, violência revolucionária, representada na guerra, rompe com os sonhos-publicidade – a ideologia hegemonicamente constituída.
+
+Ainda neste trecho, Don L retoma o binómio sonho/pesado ao afirmar a capacidade de “induzir o sonho dentro de um pesadelo” e “dilatar o tempo e imaginar um mundo novo”. Esta música, apesar de não representar diretamente a violência revolucionária apresenta esta enquanto um meio de contestação do imaginário social ideologicamente constituído.
+
+A letra da música “pânico de nada” imagina seu eu-lírico diante de uma revolução popular no território urbano brasileiro. Os seguintes trechos são particularmente ilustrativos deste processo:
+
+Luta pra todo lado
+
+​Eu vejo uma viatura em chamas (primeiro passo, irmãos, primeiro passo) 
+
+​Quatro favelados na Ferrari 
+
+​Um irmão de Glock na capota 
+
+​Quadrada na mão de todo bonde (a cidade, olha a altura dos muros!) 
+
+​A cidade é nossa 
+
+​A cidade é nossa (bora) 
+
+​Guerrilha urbana 
+
+​Guerra santa 
+
+​Uma delegacia em chamas (vermes!) 
+
+​Nenhum carro na concessionaria 
+
+​Os vidros quebrados na entrada (e agora pastor, como é que eu posso...) 
+
+​As joias de joalheria no pulso 
+
+​O punho cerrado nas ruas (o que eu tenho que fazer pra viver a promessa?) 
+
+​Nas ruínas da H Stern 
+
+​Neles, Don L descreve uma cidade cuja ordem social foi rompida. Exemplo latente disto é a disposição de símbolos da ordem social “vencidos” pela revolução popular – como a viatura e a delegacia em chamas. Além disto, símbolos da desigualdade e da opressão económica, como carros e artigos de luxo, são violentamente tomados pela população. Estes dois fenómenos são descritos no meio daquilo que Don L descreve como “guerrilha urbana” e “guerra santa”.
+
+Nas próximas estrofes o artista continua a narrar os eventos violentos que marcaram a revolução:
+
+Próxima missão, a força aérea 
+
+​Os bicos pro alto 
+
+​Vender uma droga (feito) 
+
+​Comprar umas armas (feito) 
+
+(Como disse Josué, como disse Calebe) 
+
+​Roubar os bancos (feito) 
+
+​E mais arma 
+
+Usar as armas e roubar as armas 
+
+Render os polícias e abrir a grade 
+
+Tomar o quartel render os guarda 
+
+​Chamar o povo e tomar a cidade
+
+​Pânico de nada 
+
+Neste trecho, a violência e seus símbolos é novamente celebrada enquanto elemento re-ordenador do espaço social. Conforme discutido no enquadramento teórico deste artigo, representações positivas da violência revolucionária são marcantes dentro do cânone literário do século XVII e XVIII, com exemplo como (….). Contudo, tornaram-se gradualmente
+
+​
+
+>[!note] aqui eu preciso falar sobre como foi o começo da carreira dele e etc. Como ele começou em uns grupos ai, depois foi laçar a carreira solo em 2013, o 1 album em 2017 e o segundo em 2021.
+
+  N ations and
 
 N ationalism
 
 E r n e s t G e l l n e r
 
->[!note]- Falar sobre o 18 brumário aqui
-
 >[!note]- Sobre passado e futuro
+
 >A faixa “primavera” nos coloca diante de “tecnologias ancestrais” para introduzir um sonho dentro deste pesadelo promovido pelo capitalismo e, assim, dilatar o tempo, e imaginar um mundo novo. Na teologia linear do progresso, os povos colonizados, que sempre foram colocados no passado, e medidos com a régua da colonização, estão em conversa franca tanto com o processo revolucionário, quanto com a imaginação do futuro, quebrando hierarquias erguidas com o sangue derramado destes povos. O mundo que nos separou de nós mesmos é também o mundo que nos separou da terra, em que outros povos constituem e são constituídos por outras formas de viver em outros mundos.
+
 Passado e futuro se misturam ao aqui e agora. O fim do mundo capitalista é o recomeço de um novo mundo. Rompe-se uma teologia do apocalipse que encerra toda possibilidade de vida, seja porque abre um reino novo, seja porque se apresenta como uma realidade única que se melhora num _update_ sem possibilidade de mudança, há sempre uma nova versão de um programa administrável. “Eles falam de apocalipse, mas o meu já sentenciaram”, canta Don L.  O tema do recomeço se aproxima de muitos povos indígenas  localizados no que chamamos América do Sul. Ao contrário do apocalipse judaico-cristão, o próprio fim dos tempos, em muitas destas mitologias o fim do mundo aparece articulado ao recomeço, está sempre diante do fim de _um_ mundo. Esta [lógica cíclica](http://etnolinguistica.wdfiles.com/local--files/artigo%3Apierri-2013-cataclismologia/pierri-2013-cataclismologia.pdf) se aproxima, por exemplo, da escatologia Guarani Mbya, povo que que também aparece na música lançada imediatamente antes de RPA volume 2, por Don L, “Na batida da procura perfeita”.
-O fim do mundo, em termos da destruição da vida na terra, é produto da reprodução deste capital, deus, metal, que se realiza por meio das vidas exterminadas pelo racismo de Estado, seu policiamento e suas prisões. Por meio da morte de rios e florestas, pela intoxicação por mercúrio causada pelo garimpo que assassina povos indígenas neste território, hoje. Assassinatos vinculados ao ouro extraído ilegalmente para a fabricação de jóias, como ocorre nas terras Yanomami, ao lítio do meu Samsung e ao cobalto do meu Apple. _Auri sacra fames_.
+
+O fim do mundo, em termos da destruição da vida na terra, é produto da reprodução deste capital, deus, metal, que se realiza por meio das vidas exterminadas pelo racismo de Estado, seu policiamento e suas prisões. Por
+
+  
+
+meio da morte de rios e florestas, pela intoxicação por mercúrio causada pelo garimpo que assassina povos indígenas neste território, hoje. Assassinatos vinculados ao ouro extraído ilegalmente para a fabricação de jóias, como ocorre nas terras Yanomami, ao lítio do meu Samsung e ao cobalto do meu Apple. _Auri sacra fames_.
 
 >[!note]- Sobre Revolução
+
 >O álbum nos faz imaginar uma revolução tomando a cidade que expropria, abre as prisões, assassina senhores de engenho de ontem e de hoje, e nos coloca, ao mesmo tempo, diante de estrada construída para o fim do capitalismo, mas que abre uma _trilha para uma nova_, como assinala a última música do álbum. Nada aqui parece fechar em si mesmo, nem a história, nem um indivíduo atomizado, nem a revolução. Assim também é o próprio disco, que, habitando um mundo em que o tempo corre, não para de produzir conexões e se ligar ao que está fora dele, produzindo novas relações e novos possíveis, em um tempo outro para um mundo outro.
+
 ---
 
-[[1]](#_ftnref1) AS limitações desteentendimento, que desvaloriza disputas de poder internaas, bem como evidencia um enquadramento soico-gistórioc eurocênitro já foram amplamente discutidas em outras instancias, mas ainda assim possui valkor ilustrativo para a apresente argumentação. LYbeck (2010) é um dos que evidencia as limitações do conceitoi de Polanyi [https://brill.com/display/book/edcoll/9781848880351/BP000005.xml](https://brill.com/display/book/edcoll/9781848880351/BP000005.xml)
+[[1]](#_ftnref1) AS limitações desteentendimento, que desvaloriza disputas de poder internaas, bem como evidencia um enquadramento soico-gistórioc eurocênitro já foram amplamente discutidas em outras instancias, mas ainda assim possui valkor ilustrativo para a apresente argumentação. LYbeck (2010) é um dos que evidencia as limitações do conceitoi de Polanyi [https://brill.com/display/book/edcoll/9781848880351/BP000005.xml]([https://brill.com/display/book/edcoll/9781848880351/BP000005.xml](https://brill.com/display/book/edcoll/9781848880351/BP000005.xml))
 
+  
+
+  
+
+# volta da vitória
+
+​Ô, Luanda 
+
+​Us mano pow 
+
+​É a volta da vitória 
+
+​​As mina pá​ 
+
+​Com as armas pro ar 
+
+​Us mano pow 
+
+​Volta da vitória 
+
+​​As mina pá​ 
+
+​Armas apontadas pro ar
+
+​Us mano pow 
+
+​Volta da vitória 
+
+​​As mina pá​ 
+
+​Chapas, primas 
+
+​Guerreei com os manos 
+
+​​Triunfamos 
+
+​Guerreei com as minas 
+
+​É a volta da vitória
+
+​Primeiro o do santo 
+
+​E dos que morreram lutando 
+
+​Depois o nosso (agora o nosso) 
+
+​Por cada guerreiro, cada trabalhador 
+
+​Cada torre ou vapor 
+
+​Cada morador na trincheira 
+
+​Filho pra criar, reunião no colo 
+
+​Tiros dando o ritmo da canção de ninar 
+
+​Mãe solo 
+
+​Cada pai solo, cada irmão órfão 
+
+​Será filho da vitória e seus ancestrais 
+
+​Heróis como nós pela liberdade 
+
+​Um brinde por Amaro 
+
+​Um brinde por Aleixo 
+
+​Um brinde por Ajuricaba, guerrilheiro 
+
+​Sim chapa descendemos desses sonhos 
+
+​E nunca morremos 
+
+​Nos mantivemos 
+
+​Em cada assembleia, cada célula 
+
+​​Cada rincão, viela 
+
+​Em cada pregação, cada cеla 
+
+​Cada missão contando cédulas 
+
+​Comprando as bélicas 
+
+​Voltamos pra ficar e bó nessa 
+
+​Um brinde pra esse dia que nós prendemos a polícia 
+
+​​​(Mais uma vez por favor) 
+
+​​Nesse dia nós prendemos a polícia 
+
+​​(Só mais uma vez por favor, coral agora) 
+
+​​Prendeu a polícia 
+
+Vão dividir celas com os financiadores delas 
+
+​Investidores da miséria 
+
+​Lutar do lado errado é já perder a guerra 
+
+​Do lado certo a gente vence mesmo quando perde 
+
+​E quando vence, vence duas vezes 
+
+​Triunfamos e eles terão que retroceder 
+
+​Novo alvorecer e agora terão que reconhecer 
+
+​A volta da vitória 
+
+​​Um brinde pra Dessalines 
+
+​Cacique Piquerobi 
+
+​Dandara, Leila Khaled 
+
+​Inspiração em Rojava e nas vietcongs 
+
+​Nós movemos continentes como placas tectônicas 
+
+​Desfilando em conversíveis na Paulista 
+
+​Com as armas para o ar 
+
+​Eu sabia que viria o dia
+
+# vila rica
+
+Na trilha pra Vila Rica 
+
+A tomar todo o ouro que eu preciso 
+
+Saquear engenhos no caminho 
+
+Matar os soldados do rei gringo 
+
+E nunca poupar um sertanista 
+
+É disso que eu chamo cobrar o quinto
+
+Num bate de frente que o bonde tá bolado 
+
+Na mata fechada de tocaia 
+
+Uns caras de isca, as minas de carabina 
+
+O terror dos bandeirantes 
+
+Trombou com nossa cavalaria, chacina
+
+Nós tivemos baixas incontáveis 
+
+Na real já foi uma revolução 
+
+Foi uma comunidade 
+
+Por cima de sangue derramado 
+
+Já fomos quilombos e cidades 
+
+Canudos e Palmares 
+
+Originais e originários
+
+Depois do massacre ergueram catedrais 
+
+Uma capela em cada povoado 
+
+Como se a questão fosse guerra ou paz
+
+Mas sempre foi guerra ou ser devorado 
+
+Devoto catequizado 
+
+Crucificar em nome do crucificado 
+
+Seu Deus é o tal metal, é o capital 
+
+É terra banhada a sangue escravizado
+
+Jesus nunca estaria do seu lado 
+
+Não estaria do seu lado
+
+Jesus não estaria do seu lado 
+
+Faria mais sentido estar comigo 
+
+Jesus não estaria do seu lado 
+
+Faria e faz comigo a justiça
+
+Caminha comigo na trilha pra Vila Rica 
+
+A tomar todo o ouro que eu preciso 
+
+Saquear engenhos no caminho 
+
+Matar os soldados do rei gringo 
+
+E nunca poupar um sertanista 
+
+É disso que eu chamo cobrar o quinto
+
+Já foi uma revolução 
+
+Agora é vingança na ponta do cano do bandido 
+
+Eu chamo cobrar o quinto 
+
+E ainda virá uma revolução 
+
+Eu juro pela fé do seu Cristo 
+
+Um chumbo no peito que leva o crucifixo
+
+Brasil, Brasil, Brasil
+
+Toda canção do meu amor na alma 
+
+Em direção ao sul 
+
+Eu tenho uma cavalaria inteira em minha retaguarda 
+
+Em direção ao sul
+
+Eu sei que é pouco, mas eu não vou sem levar alguns 
+
+Se é tudo pelo ouro eu vou levar algum 
+
+Mas vim foi pra cobrar os furos 
+
+Eu taquei fogo numa carruagem 
+
+Tomei a cruz do peito a céu aberto 
+
+E pus Jesus do lado certo
+
+Toda canção do meu amor na estrada 
+
+Em direção ao sul 
+
+Eu tenho uma cavalaria inteira em minha retaguarda 
+
+Em direção ao sul
+
+E se o sangue da minha guarnição deixar o chão vermelho 
+
+Cidades crescerão em cima de mil cemitérios 
+
+Que renascerão em guerras até que se cobre o preço
+
+# pânico de nada
+
+Luta pra todo lado
+
+​Eu vejo uma viatura em chamas (primeiro passo, irmãos, primeiro passo) 
+
+​Quatro favelados na Ferrari 
+
+​Um irmão de Glock na capota 
+
+​Quadrada na mão de todo bonde (a cidade, olha a altura dos muros!) 
+
+​A cidade é nossa 
+
+​A cidade é nossa (bora) 
+
+​Guerrilha urbana 
+
+​Guerra santa 
+
+​Uma delegacia em chamas (vermes!) 
+
+​Nenhum carro na concessionaria 
+
+​Os vidros quebrados na entrada (e agora pastor, como é que eu posso...) 
+
+​As joias de joalheria no pulso 
+
+​O punho cerrado nas ruas (o que eu tenho que fazer pra viver a promessa?) 
+
+​Nas ruinas da H Stern 
+
+​Achei um topázio a cara dela 
+
+​Combina com aquela 47 
+
+​Da alça dourada que ela leva 
+
+AK do Guevara ao meu alcance 
+
+​A dela é Sankara e nosso lance 
+
+​É africamerica livre 
+
+​Amor e luta 
+
+​Queen e slim em Cuba 
+
+Assata Shakur em New Jersey 
+
+Tupac Amaru II e Micaela (viver a promessa) 
+
+​Se a gente morrer valeu a guerra
+
+​Pânico de nada 
+
+​Eles sangram como eu sangro 
+
+​Pânico de nada 
+
+​Vai ser como quiser Xangô
+
+​Pânico de que? Porra nenhuma   
+
+​Pânico de nada
+
+​Eles sangram como eu sangro 
+
+​Pânico de nada 
+
+​Vai ser como quiser Xangô 
+
+​Pânico de que? Porra nenhuma 
+
+(Bate no ombro do seu irmão e diga, pra viver a promessa) 
+
+​Ooow então finalmente chegou o dia 
+
+​Surpreendente pra quem num acreditou 
+
+​Que um dia calariam 
+
+​Na base da bala suas mentiras 
+
+​A gente já era combatente 
+
+Nos consideravam drogas 
+
+​E guerra às drogas 
+
+​Não era sobre os entorpecentes 
+
+​Saí do plantão, troquei o pente 
+
+​Maserati crivado de bala 
+
+​As barras eu pus no banco da frente 
+
+18 quilate da reserva 
+
+​Uns quatro milhões no porta-malas (pastor onde tá o ouro aí?) 
+
+​Swagg 
+
+​Na cidadela entre barricadas 
+
+​Em frente a mansão, o sentinela 
+
+​A saudação 
+
+​Do lado de dentro cem caras 
+
+​Próxima missão, a força aérea 
+
+​Os bicos pro alto 
+
+​Vender uma droga (feito) 
+
+​Comprar umas armas (feito) 
+
+(Como disse Josué, como disse Calebe) 
+
+​Roubar os bancos (feito) 
+
+​E mais arma 
+
+Usar as armas e roubar as armas 
+
+Render os polícias e abrir a grade 
+
+Tomar o quartel render os guarda 
+
+​Chamar o povo e tomar a cidade
+
+​Pânico de nada 
+
+​Eles sangram como eu sangro 
+
+​Pânico de nada 
+
+​Vai ser como quiser Xangô
+
+​Pânico de que?
+
+​Pânico de nada
+
+​Eles sangram como eu sangro 
+
+​Pânico de nada 
+
+​Vai ser como quiser Xangô 
+
+​Pânico de que?
+
+# primavera
+
+Que mundo errado que nos separou de nós 
+
+​Eu nunca soube reparar as estações 
+
+​Nessa de cê não poder parar 
+
+​Sem sentir ficar pra trás 
+
+​Uma temporada ou mais 
+
+​De desilusões 
+
+​Na luta pra ninguém silenciar nossa voz 
+
+​Voltamos a falar dos sonhos pelas manhãs 
+
+​A nossa terra fértil foi vencendo o concreto 
+
+​O nosso reflorestamento erguendo-se em fé 
+
+​E eu
+
+​Eu que sou de onde a miséria seca as еstações 
+
+​Vi a primavera 
+
+​Florescеr entre os canhões 
+
+​E não recuar (​lararara rara) 
+
+​Eu que sou de guerra 
+
+​Dei o sangue na missão 
+
+​De regar a terra 
+
+​S​e eu tombar vão ser milhões pra multiplicar (​lararara rara)
+
+​A única luta que se perde é a que se abandona e nós nunca 
+
+​Nunca abandonamos luta 
+
+​Nunca nunca 
+
+​Hay que endurecer sem nunca sem nunca perder a ternura 
+
+​Meu swagg, meu estilo, eles não vão ter 
+
+​Nunca, nunca 
+
+Lararara rara 
+
+​ 
+
+​A guerra que nos reaproximou de nós 
+
+​É a mesma que me pôs a repensar meus sonhos 
+
+​O quanto neles era só publicidade? 
+
+​Fazendo acreditar que eram meus próprios planos 
+
+​Medo de fazer meus próprios planos serem 
+
+​Nossos planos mesmo que eu tombe antes de vê-los 
+
+​Agora vendo florescerem 
+
+​Inevitavelmente eu sei que estarei lá 
+
+​No dia que eles finalmente cheguem 
+
+​Um dia desse eu tava meio cabreiro 
+
+​Sem saber o que pode me acontecer 
+
+​E não ver o fruto que eu plantei em algum janeiro 
+
+​Mas tive um relampejo de que já estão aí 
+
+​E a gente pode ser feliz agora mesmo 
+
+​Apesar da batalha, o pente cheio 
+
+​As tecnologias ancestrais nós temos 
+
+​Pra induzir o sonho dentro de um pesadelo 
+
+​Entre um traçante e outro 
+
+​Dilatar o tempo e imaginar um mundo novo 
+
+​ 
+
+​Eu que sou de onde a miséria seca as estações 
+
+​Vi a primavera 
+
+​Florescer entre os canhões  
+
+​E não recuar (​lararara rara) 
+
+​Eu que sou de guerra 
+
+​Dei o sangue na missão 
+
+​De regar a terra 
+
+​S​e eu tombar vão ser milhões pra multiplicar (​lararara rara) 
+
+​ 
+
+​A única luta que se perde é a que se abandona e nós nunca 
+
+​Nunca abandonamos luta 
+
+​Nunca, nunca 
+
+​Hay que endurecer sem nunca sem nunca perder a ternura 
+
+​Meu swagg, meu estilo, eles não vão ter 
+
+​Nunca, nunca 
+
+# Pela boca
+
+Tomei a cidade com meu bonde  
+Colei de Audi blindado no rasante  
+Cintura ignorante  
+Pra quem me rotula de traficante  
+Num sabe que o nome da 9 é Celia Sanchez  
+O corre é nossa nova guerra santa
+
+Trataram como nova facção (não)  
+Tá mais pra uma nova Farc, jão  
+É que os alemão são os que controlam o estado  
+Banqueiros e bilionários
+
+As rosas no cabo da AK, Frida Khalo  
+Soldados no carro filmado (vai)  
+Vietnã style (disposição, pai)
+
+E dizem que somos perigosos  
+Eles que mataram, escravizaram, torturaram na cela  
+E confinaram na favela (milhões nossos)  
+Dеpois querem recontar a história  
+E me negar os fatos
+
+Eu prefiro recontar os corpos  
+Pra gente medir o estrago  
+Se quiseram me negar os fatos  
+'Magina se iriam dividir os pratos  
+'Magina se iriam dividir a plata
+
+Eu prefiro recontar os corpos  
+Pra gente medir o estrago  
+Pode até contar com o seu antecipado
+
+Minha brigada armada  
+Hoje vai passar o rodo  
+Pra limpar as área  
+A gente cansou de avisar  
+Mas é que cê não
+
+Cê não pode mais me dizer nada  
+Cê num tem moral (pode me dizer nada)  
+Cê num pode me dizer (me dizer nada)  
+Simplesmente não tem moral pra me dizer nada
+
+Olha pra você  
+Não vai ser você que vai me dizer nada  
+Vai morrer pela boca  
+Vai morrer pela boca  
+Vai morrer pela boca  
+Vai morrer pela boca
+
+Vários irmãos morreram pela boca  
+Mas não como caguete pela boca  
+De M16 mesmo pela boca  
+33 assinado sem acordo
+
+Nós é chave no baile com as cachorras  
+Mas sempre cadeado pela boca  
+De SUV blindada no comboio  
+Caveirão já tomado no apoio
+
+O meu bonde é do Mao com o  
+Boladão tipo Malcom X  
+Eles dizem que é mau com u  
+É porque eles tão mal com l  
+Eles querem difamar Don L  
+Eles querem que eu morra pela boca  
+Num vão pôr o que eu não disse na minha boca  
+Se tiver com minha 9 na boca  
+Bora porra, fala agora, porra
+
+Hoje eles que morrem pela boca  
+Que se foda seus dólares na bolsa  
+Suas empresas agora são do povo  
+Suas terras são floresta de novo  
+Suas mansões, escolas, seus soldados mortos pelos nossos  
+Quero ver cê falar com o gogó na forca agora
+
+Minha brigada armada  
+Hoje vai passar o rodo  
+Pra limpar as área  
+A gente cansou de avisar  
+Mas é que cê não
+
+Cê não pode mais me dizer nada  
+Cê num tem moral (pode me dizer nada)  
+Cê não pode me dizer (me dizer nada)  
+Simplesmente nãotem moral pra me dizer nada
+
+Olha pra você  
+Não vai ser você que vai me dizer nada  
+Vai morrer pela boca  
+Vai morrer pela boca  
+Vai morrer pela boca  
+Vai morrer pela boca (uh, vai morrer)
 # Opiniões do ChatGPT
 O tema do papel da literatura na "imaginação" de novos horizontes sociais é rico e pode ser abordado a partir de diversas perspectivas teóricas e autores. Aqui estão algumas sugestões que podem contribuir para o enquadramento teórico:
 

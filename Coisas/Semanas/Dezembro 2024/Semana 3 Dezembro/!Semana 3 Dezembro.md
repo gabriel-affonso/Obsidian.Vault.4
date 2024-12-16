@@ -4,24 +4,36 @@ hora: 17:39
 tags:
 ---
 # Semana
-|                | **Dia** | Manhã       | Almoço           | Tarde        | Noite    |     |
-| -------------- | ------- | ----------- | ---------------- | ------------ | -------- | --- |
-| [[2024-12-09]] | Segunda |             | Reunião A.B.C.   |              | Terapia  |     |
-| [[2024-12-15]] | Terça   |             |                  |              |          |     |
-| [[2024-12-18]] | Quarta  |             | Almoço Natal CES |              |          |     |
-|                | Quinta  |             |                  | Aula Poética | Portatil |     |
-|                | Sexta   | Aula Miguel |                  |              |          |     |
-|                | Sábado  |             |                  |              |          |     |
-|                | Domingo |             |                  |              |          |     |
-|                |         |             |                  |              |          |     |
+|                | **Dia** | Manhã | Almoço           | Tarde     | Noite    |     |
+| -------------- | ------- | ----- | ---------------- | --------- | -------- | --- |
+| [[2024-12-16]] | Segunda |       | Reunião A.B.C.   |           | Terapia  |     |
+| [[2024-12-15]] | Terça   |       |                  |           | shopping |     |
+| [[2024-12-18]] | Quarta  |       | Almoço Natal CES | encanador |          |     |
+|                | Quinta  |       |                  |           | Portatil |     |
+|                | Sexta   |       |                  |           |          |     |
+|                | Sábado  |       |                  |           |          |     |
+|                | Domingo |       |                  |           |          |     |
+|                |         |       |                  |           |          |     |
 
 # Pendências
-- [ ] Cozinhar
-	- [ ] 3 latas de feijão
-	- [ ] 2 xícaras de arroz
-	- [ ] 6 pacotes de tofu
-	- [ ] dois pacotes de brocolis
-- [ ] 
+- [x] Cozinhar
+	- [x] 3 latas de feijão
+	- [x] 2 xícaras de arroz
+	- [x] 6 pacotes de tofu
+	- [x] dois pacotes de brocolis
+- [ ] falar com a marina do encanador
+- [ ] receber
+- [ ] fazer a barba
+- [ ] comprar coisas de natal
+	- [ ] papel de presente
+	- [ ] camiseta branca
+	- [ ] caneta de tecido vermelha
+	- [ ] aquela erva daninha com fruta vermelha
+	- [ ] caneca rosa (?)
+- [ ] pagar telefone
+- [ ] sacar dinheiro para o men
+- [ ] fazer candidatura pra o concretsso de métodos qualitativos https://ciaiq.ludomedia.org/ https://proceedings.science/cfp/ciaiq-2025
+
 
 ## Falar na Terapia
 - [ ] Bolo da fátima
