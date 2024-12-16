@@ -29,6 +29,7 @@ Defesa 24/01
 Tamanho: 6.500 palavras, 15 páginas
 Data: 06/01/2025
 Mandar email para o professor
+Falei com o professor, ele disse que eu deveria fazer um trabalho mais focado da bibliografia da cadeira. Por isso, o que eu vou fazer é ler alguns dos textos da bibliografia e elaborar uma  espécie de enquadramento teórico para investigar o trabalho do thiasos. Por isso, mais importante do que investigar o tema das representações do thiasos, o meu foco vão ser característica mais objetiva
 
 
 Tema: Representações da arte clássica no contemporâneo enquanto um espaço de disputa
