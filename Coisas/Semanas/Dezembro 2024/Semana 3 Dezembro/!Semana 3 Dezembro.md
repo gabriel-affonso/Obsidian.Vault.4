@@ -7,7 +7,7 @@ tags:
 |                | **Dia** | Manhã | Almoço           | Tarde     | Noite    |     |
 | -------------- | ------- | ----- | ---------------- | --------- | -------- | --- |
 | [[2024-12-16]] | Segunda |       | Reunião A.B.C.   |           | Terapia  |     |
-| [[2024-12-15]] | Terça   |       |                  |           | shopping |     |
+| [[2024-12-17]] | Terça   |       |                  |           | shopping |     |
 | [[2024-12-18]] | Quarta  |       | Almoço Natal CES | encanador |          |     |
 |                | Quinta  |       |                  |           | Portatil |     |
 |                | Sexta   |       |                  |           |          |     |
