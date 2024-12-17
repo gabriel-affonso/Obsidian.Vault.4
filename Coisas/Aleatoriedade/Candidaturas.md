@@ -7,6 +7,7 @@ tags:
 - [x] CAPS 2025
 - [x] APA 2025
 - [ ] [[QALI 2025]]
+- [ ] [[Prisma]]
 # Empregos
 
 > [!note]- Acho que uma coisa que eu preciso fazer é definir quais são os cargos que eu posso desempenhar
