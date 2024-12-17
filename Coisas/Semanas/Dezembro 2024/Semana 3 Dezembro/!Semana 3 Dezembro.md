@@ -22,8 +22,8 @@ tags:
 	- [x] 6 pacotes de tofu
 	- [x] dois pacotes de brocolis
 - [ ] falar com a marina do encanador
-- [ ] receber
-- [ ] fazer a barba
+- [x] receber
+- [x] fazer a barba
 - [ ] comprar coisas de natal
 	- [ ] papel de presente
 	- [ ] camiseta branca
@@ -37,10 +37,10 @@ tags:
 
 ## Falar na Terapia
 - [ ] Bolo da fátima
-- [ ] Ficha da análise
-- [ ] Como eu me sentir triste por me sentir sozinho e sentir que vai ser sempre assim. 
+- [x] Ficha da análise
+- [x] Como eu me sentir triste por me sentir sozinho e sentir que vai ser sempre assim. 
 	- [ ] Lucas
-	- [ ] me sentir mais facilmente afetado pelas coisas
+	- [x] me sentir mais facilmente afetado pelas coisas
 
 ## Cardápio
 

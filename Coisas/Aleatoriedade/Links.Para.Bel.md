@@ -33,6 +33,8 @@ https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunit
 
 https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/CREA-MEDIA-2025-CODEV?order=DESC&pageNumber=1&pageSize=10&sortBy=relevance&keywords=Cinema&isExactMatch=true&status=31094502&programmePeriod=2021%20-%202027
 
+https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/CREA-MEDIA-2025-CINNET?isExactMatch=true&status=31094501,31094502&order=DESC&pageNumber=1&pageSize=50&sortBy=startDate
+
 Esse aqui seria muito foda, é uma linha de financiamento da OTAN para projetos pequenos. Acho que é super fazível fazer um documento explicando pq helena se encaixa nos valores da OTAN. Algo como Helena - on the absurdity of war and the necessity of international cooperation. E vcs nem precisariam mudar nada no texto. 
 https://www.nato.int/cps/en/natohq/63610.htm 
 

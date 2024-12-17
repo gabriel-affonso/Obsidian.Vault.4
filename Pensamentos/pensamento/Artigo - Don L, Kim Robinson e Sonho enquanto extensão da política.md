@@ -186,9 +186,77 @@ Tomar o quartel render os guarda 
 
 ​Pânico de nada 
 
-Neste trecho, a violência e seus símbolos é novamente celebrada enquanto elemento re-ordenador do espaço social. Conforme discutido no enquadramento teórico deste artigo, representações positivas da violência revolucionária são marcantes dentro do cânone literário do século XVII e XVIII, com exemplo como (….). Contudo, tornaram-se gradualmente
+Neste trecho, a violência e seus símbolos é novamente celebrada enquanto elemento re-ordenador do espaço social. Conforme discutido no enquadramento teórico deste artigo, representações positivas da violência revolucionária são marcantes dentro do cânone literário do século XVII e XVIII, com exemplo como (….). Contudo, tornaram-se gradualmente desnaturalizadas nas representações dominantes. Duas agendas políticas do século XX, o nacionalismo e os movimentos de esquerda tinham o uso político da violência como argumento central. 
 
-​
+A música vila rica expande estas representações. As secções a seguir são trechos da música onde a violência revolucionária é representada. Outro elemento de destaque destas representações é são os paralelos que o autor estabelece entre a violência da revolução imaginada em sua obra e a violência histórica sobre a qual o Brasil foi fundado. Símbolos colonização portuguesa no Brasil, como o ciclo do ouro, os engenhos e o "rei gringo" destacam a omnipresença da violência no país. 
+
+Na trilha pra Vila Rica 
+
+A tomar todo o ouro que eu preciso 
+
+Saquear engenhos no caminho 
+
+Matar os soldados do rei gringo 
+
+E nunca poupar um sertanista 
+
+É disso que eu chamo cobrar o quinto
+
+
+
+
+Na mata fechada de tocaia 
+
+Uns caras de isca, as minas de carabina 
+
+O terror dos bandeirantes 
+
+Trombou com nossa cavalaria, chacina
+
+Nós tivemos baixas incontáveis 
+
+Na real já foi uma revolução 
+
+Foi uma comunidade 
+
+
+
+
+Como se a questão fosse guerra ou paz
+
+Mas sempre foi guerra ou ser devorado 
+
+
+
+
+
+
+Eu sei que é pouco, mas eu não vou sem levar alguns 
+
+Se é tudo pelo ouro eu vou levar algum 
+
+Mas vim foi pra cobrar os furos 
+
+
+
+E se o sangue da minha guarnição deixar o chão vermelho 
+
+Cidades crescerão em cima de mil cemitérios 
+
+Que renascerão em guerras até que se cobre o preço
+O esforço do artista, bem como de outras iniciativas artísticas, pretende romper com um paradigma da linguagem e das representações de violência que omite a violência utilizada pela classe dominante. 
+Aqui reside elemento central da discussao pretendida por este artigo, a linguagem utilizada para dizer e identificar expressões de violência na sociedade está marcado por relações de poder. Assim, através de uma linguagem hegemónica, as classes dominantes reificam a violência que exercem em nome da manutenção do status-quo e atribuem caráter de excecionalidade à violência exercida por grupos subalternos. 
+
+Com seu trabalho, Don L contesta a ordem moral estabelecida no imaginário social vigente em duas dimensões: por um lado, normaliza a justifica a violência de grupos subalternos contra o poder estabelecido; por outro, imagina outras ordenações sociais, outros futuros pelos quais vale a pena viver - e morrer. O esforço de imaginar outros horizontes sociais e contestar o Realismo Capitalista - definido por Fisher (CITAR O FISHER) - fica evidente na estrofe da música "pela boca", referida abaixo:
+
+Hoje eles que morrem pela boca  
+Que se foda seus dólares na bolsa  
+Suas empresas agora são do povo  
+Suas terras são floresta de novo  
+Suas mansões, escolas, seus soldados mortos pelos nossos  
+Quero ver cê falar com o gogó na forca agora
+
+​O trecho, imagina um cenário onde toda a violência mencionada é vitoriosa e grupos subalternos, contrariando o imaginário social vigente, conquistam a emancipação. Esta representação, especialmente em razão de sua ênfase ecológica, muito se aproxima do trabalho de Kim Robinson, que será discutido na próxima secção. 
 
 >[!note] aqui eu preciso falar sobre como foi o começo da carreira dele e etc. Como ele começou em uns grupos ai, depois foi laçar a carreira solo em 2013, o 1 album em 2017 e o segundo em 2021.
 
