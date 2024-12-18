@@ -4,16 +4,16 @@ hora: 17:39
 tags:
 ---
 # Semana
-|                | **Dia** | Manhã | Almoço           | Tarde     | Noite    |       |
-| -------------- | ------- | ----- | ---------------- | --------- | -------- | ----- |
-| [[2024-12-16]] | Segunda |       | Reunião A.B.C.   |           | Terapia  | perna |
-| [[2024-12-17]] | Terça   |       |                  |           | shopping |       |
-| [[2024-12-18]] | Quarta  |       | Almoço Natal CES | encanador |          |       |
-|                | Quinta  |       |                  |           | Portatil |       |
-|                | Sexta   |       |                  |           |          |       |
-|                | Sábado  |       |                  |           |          |       |
-|                | Domingo |       |                  |           |          |       |
-|                |         |       |                  |           |          |       |
+|                | **Dia** | Manhã | Almoço           | Tarde     | Noite    |        |
+| -------------- | ------- | ----- | ---------------- | --------- | -------- | ------ |
+| [[2024-12-16]] | Segunda |       | Reunião A.B.C.   |           | Terapia  | perna  |
+| [[2024-12-17]] | Terça   |       |                  |           | shopping | peito  |
+| [[2024-12-18]] | Quarta  |       | Almoço Natal CES | encanador |          | Costas |
+|                | Quinta  |       |                  |           | Portatil |        |
+|                | Sexta   |       |                  |           |          |        |
+|                | Sábado  |       |                  |           |          |        |
+|                | Domingo |       |                  |           |          |        |
+|                |         |       |                  |           |          |        |
 
 # Pendências
 - [x] Cozinhar
@@ -24,19 +24,19 @@ tags:
 - [ ] falar com a marina do encanador
 - [x] receber
 - [x] fazer a barba
-- [ ] comprar coisas de natal
-	- [ ] papel de presente
-	- [ ] camiseta branca
+- [x] comprar coisas de natal
+	- [x] papel de presente
+	- [x] camiseta branca
 	- [ ] caneta de tecido vermelha
-	- [ ] aquela erva daninha com fruta vermelha
-	- [ ] caneca rosa (?)
+	- [x] aquela erva daninha com fruta vermelha
+	- [x] caneca rosa (?)
 - [ ] pagar telefone
 - [ ] sacar dinheiro para o men
 - [ ] fazer candidatura pra o concretsso de métodos qualitativos https://ciaiq.ludomedia.org/ https://proceedings.science/cfp/ciaiq-2025 [[QALI 2025]]
 
 
 ## Falar na Terapia
-- [ ] Bolo da fátima
+- [x] Bolo da fátima
 - [x] Ficha da análise
 - [x] Como eu me sentir triste por me sentir sozinho e sentir que vai ser sempre assim. 
 	- [ ] Lucas

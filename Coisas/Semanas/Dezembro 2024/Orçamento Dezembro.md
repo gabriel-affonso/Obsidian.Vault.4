@@ -31,6 +31,7 @@ const transacoes = [
    { item: "Mercado Semana 2", valor: -45, moeda: 'EUR', tipo: 'Gasto' },
    { item: "Acumpultura", valor: -90, moeda: 'EUR', tipo: 'Gasto' },
    { item: "Aliexpress", valor: -80, moeda: 'EUR', tipo: 'Gasto' },
+   { item: "Compras natalinas", valor: -100, moeda: 'EUR', tipo: 'Gasto' },
     
 ];
 
@@ -115,7 +116,7 @@ dv.paragraph(`**Total Líquido:** ${totalLiquido.toLocaleString('pt-PT', { style
 - [ ] presentes de natal
 	- [x] Bel - terapia + camisetinha + alguma coisa fofa
 	- [ ] Gírio - Camiseta do Benfica
-	- [ ] Celso - Cult of the lamb + ficções https://www.wook.pt/livro/ficcoes-jorge-luis-borges/24074498?gad_source=1 
+	- [x] Celso - Cult of the lamb + ficções https://www.wook.pt/livro/ficcoes-jorge-luis-borges/24074498?gad_source=1 
 	- [x] Jardim - Babel
 	- [ ] Pai - Veias abertas da américa latina em alemão - https://www.ebay.com/itm/386382228985?_trkparms=amclksrc%3DITM%26aid%3D1110006%26algo%3DHOMESPLICE.SIM%26ao%3D1%26asc%3D264183%26meid%3Db914780b6fd14784869e9bb1349d9280%26pid%3D101224%26rk%3D2%26rkt%3D5%26sd%3D235261729100%26itm%3D386382228985%26pmt%3D1%26noa%3D1%26pg%3D2332490%26algv%3DDefaultOrganicWebV9BertRefreshRankerWithCassiniEmbRecall&_trksid=p2332490.c101224.m-1
 - [x] Coisas no aliexpress
