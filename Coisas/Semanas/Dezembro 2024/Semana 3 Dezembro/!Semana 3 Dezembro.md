@@ -4,16 +4,16 @@ hora: 17:39
 tags:
 ---
 # Semana
-|                | **Dia** | Manhã | Almoço           | Tarde     | Noite    |     |
-| -------------- | ------- | ----- | ---------------- | --------- | -------- | --- |
-| [[2024-12-16]] | Segunda |       | Reunião A.B.C.   |           | Terapia  |     |
-| [[2024-12-17]] | Terça   |       |                  |           | shopping |     |
-| [[2024-12-18]] | Quarta  |       | Almoço Natal CES | encanador |          |     |
-|                | Quinta  |       |                  |           | Portatil |     |
-|                | Sexta   |       |                  |           |          |     |
-|                | Sábado  |       |                  |           |          |     |
-|                | Domingo |       |                  |           |          |     |
-|                |         |       |                  |           |          |     |
+|                | **Dia** | Manhã | Almoço           | Tarde     | Noite    |       |
+| -------------- | ------- | ----- | ---------------- | --------- | -------- | ----- |
+| [[2024-12-16]] | Segunda |       | Reunião A.B.C.   |           | Terapia  | perna |
+| [[2024-12-17]] | Terça   |       |                  |           | shopping |       |
+| [[2024-12-18]] | Quarta  |       | Almoço Natal CES | encanador |          |       |
+|                | Quinta  |       |                  |           | Portatil |       |
+|                | Sexta   |       |                  |           |          |       |
+|                | Sábado  |       |                  |           |          |       |
+|                | Domingo |       |                  |           |          |       |
+|                |         |       |                  |           |          |       |
 
 # Pendências
 - [x] Cozinhar
