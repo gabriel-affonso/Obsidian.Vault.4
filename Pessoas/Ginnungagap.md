@@ -7,4 +7,4 @@ aniversário: 2001-03-21
 
 - [ ] https://egyptjustice.com/egypt-law-an-overview falar com o jardim sobre o sistema de justiça do egito
 - [ ] Perguntar se ele já viu arcane
-- [ ] 
+- [ ] kurutoga no aniversário
