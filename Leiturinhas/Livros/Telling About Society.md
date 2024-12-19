@@ -21,3 +21,4 @@ Uma vez feita a distinção entre produtores e usuários destas representações
 >No contempor
 
 
+**Pobeda** ([Russian](https://en.wikipedia.org/wiki/Russian_language "Russian language"): Победа, _Victory_) is a Russian brand of [wrist-watches](https://en.wikipedia.org/wiki/Wristwatch "Wristwatch") owned by the [Petrodvorets Watch Factory](https://en.wikipedia.org/wiki/Petrodvorets_Watch_Factory "Petrodvorets Watch Factory") "[Raketa](https://en.wikipedia.org/wiki/Raketa "Raketa")". The brand name was chosen by Stalin himself in April 1945,[[1]](https://en.wikipedia.org/wiki/Pobeda_(watch)#cite_note-Origin_of_the_brand_Pobeda-1) when he gave the order that the first watches be ready for the 1st year of Victory celebration. The first prototype came out of the Penza factory by the end of 1945, and the first model for the public came out of the Kirov Watch Factory in March 1946.
