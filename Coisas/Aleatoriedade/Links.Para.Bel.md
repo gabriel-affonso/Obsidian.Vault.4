@@ -52,6 +52,11 @@ https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunit
 
 # Trabalhos
 
+19/12/2024
+
+https://www.net-empregos.com/pesquisa-empregos.asp?page=1&categoria=0&zona=0&tipo=0&cidade=Coimbra
+
+10/12/2024
 
 https://www.instituto-camoes.pt/images/Concursos_EPE_local/Concursos_2023.-2024/Aviso_abertura_PCS_2024_2025_12CEB_GEN43_13dez24.pdf
 
