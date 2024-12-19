@@ -19,7 +19,13 @@ A primeira categoria definida pelo autor é entre produtores (makers) e usuário
 
 Uma vez feita a distinção entre produtores e usuários destas representações da sociedade, Becker passa a categorizar os vários tipos de representações. Apesar de algo crítico desta divisão epistemológica, Becker divide os tipos de representações da sociedade entre artísticos e científicos. Dentre os artísticos, destaca a ficção, a representação dramática e a fotografia. Dentre os científicos, mapas, tabelas, modelos matemáticos e etnografias. O autor posiciona a produção historiográfica e biográfica numa posição intermédia entre arte e ciência. 
 
-Um elemento interessante desta divisão é o destaque que o autor confere à fotografia diante de meios de representação da sociedade tradicionalmente mais associados à narrativa e performance, como a literatura, música e o cinema. É verdade que Becker menciona todos esses meios, mas ainda confere especial destaque à fotografia. Esta escolha também torna-se interessante diante do reduzido det
+Um elemento interessante desta divisão é o destaque que o autor confere à fotografia diante de meios de representação da sociedade tradicionalmente mais associados à narrativa e performance, como a literatura, música e o cinema. É verdade que Becker menciona todos esses meios, mas ainda confere especial destaque à fotografia. Esta escolha também torna-se interessante diante do reduzido apreço que a industria cultural hegemónica possui por esta expressão artística. 
+
+Numa reflexão superficial, as outras representações artísticas da sociedade aqui mencionadas - literatura, música e cinema - parecem muito mais influentes na composição do imaginário social vigente[1].
+>[!note]- Como discutido por charles taylor (citar o cara)
+
+A fotografia, contudo, desempenha no contemporâneo um papel quase onipresente na representação da sociedade, ainda que inconsciente. Sua produção sensivelmente instantânea e aparentemente mecânica promove a noção de as fotografias que compõe nosso imaginário e orientam a forma como compreendemos a realidade não são passíveis de intervenção humana, são meros "pedaços do mundo" (CITAR A SONTAG). 
+Esta reflexão, apesar de não ser apresentada por Becker, se aproxima da comparação entre as representações da sociedade e os mapas - que abre o livro - 
 Esta ênfase pode, em parte, ser justificada por uma preferência ou aproximação pessoal pela fotografia, uma vez que Becker atuou neste campo. 
 >[!note]- Susan Sontag
 >No contempor
