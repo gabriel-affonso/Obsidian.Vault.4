@@ -9,7 +9,7 @@ tags:
 | [[2024-12-16]] | Segunda |       | Reunião A.B.C.   |           | Terapia  | perna  |
 | [[2024-12-17]] | Terça   |       |                  |           | shopping | peito  |
 | [[2024-12-18]] | Quarta  |       | Almoço Natal CES | encanador |          | Costas |
-|                | Quinta  |       |                  |           | Portatil |        |
+| [[2024-12-19]] | Quinta  |       | casa             |           | Portatil |        |
 |                | Sexta   |       |                  |           |          |        |
 |                | Sábado  |       |                  |           |          |        |
 |                | Domingo |       |                  |           |          |        |
@@ -33,9 +33,11 @@ tags:
 - [ ] pagar telefone
 - [x] sacar dinheiro para o men
 - [ ] fazer candidatura pra o concretsso de métodos qualitativos https://ciaiq.ludomedia.org/ https://proceedings.science/cfp/ciaiq-2025 [[QALI 2025]]
-- [ ] cortar unha
-- [ ] lavar roupa
+- [x] cortar unha
+- [x] lavar roupa
 - [ ] portátil
+- [ ] escrever letra dos dias na caixa de remédio
+- [ ] 
 
 
 
