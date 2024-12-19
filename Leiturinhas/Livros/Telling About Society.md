@@ -25,7 +25,7 @@ Numa reflexão superficial, as outras representações artísticas da sociedade 
 >[!note]- Como discutido por charles taylor (citar o cara)
 
 A fotografia, contudo, desempenha no contemporâneo um papel quase onipresente na representação da sociedade, ainda que inconsciente. Sua produção sensivelmente instantânea e aparentemente mecânica promove a noção de as fotografias que compõe nosso imaginário e orientam a forma como compreendemos a realidade não são passíveis de intervenção humana, são meros "pedaços do mundo" (CITAR A SONTAG). 
-Esta reflexão, apesar de não ser apresentada por Becker, se aproxima da comparação entre as representações da sociedade e os mapas - que abre o livro - 
+Esta reflexão, apesar de não ser apresentada por Becker, se aproxima da comparação entre as representações da sociedade e os mapas - que abre o capítulo. 
 Esta ênfase pode, em parte, ser justificada por uma preferência ou aproximação pessoal pela fotografia, uma vez que Becker atuou neste campo. 
 >[!note]- Susan Sontag
 >No contempor
