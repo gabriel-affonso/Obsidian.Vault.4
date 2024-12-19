@@ -31,8 +31,13 @@ tags:
 	- [x] aquela erva daninha com fruta vermelha
 	- [x] caneca rosa (?)
 - [ ] pagar telefone
-- [ ] sacar dinheiro para o men
+- [x] sacar dinheiro para o men
 - [ ] fazer candidatura pra o concretsso de métodos qualitativos https://ciaiq.ludomedia.org/ https://proceedings.science/cfp/ciaiq-2025 [[QALI 2025]]
+- [ ] cortar unha
+- [ ] lavar roupa
+- [ ] portátil
+
+
 
 
 ## Falar na Terapia
