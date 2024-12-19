@@ -10,9 +10,9 @@ tags:
 | [[2024-12-17]] | Terça   |       |                  |           | shopping | peito  |
 | [[2024-12-18]] | Quarta  |       | Almoço Natal CES | encanador |          | Costas |
 | [[2024-12-19]] | Quinta  |       | casa             |           | Portatil |        |
-|                | Sexta   |       |                  |           |          |        |
-|                | Sábado  |       |                  |           |          |        |
-|                | Domingo |       |                  |           |          |        |
+| [[2024-12-20]] | Sexta   |       |                  |           |          |        |
+| [[2024-12-21]] | Sábado  |       |                  |           |          |        |
+| [[2024-12-22]] | Domingo |       |                  |           |          |        |
 |                |         |       |                  |           |          |        |
 
 # Pendências
@@ -32,12 +32,14 @@ tags:
 	- [x] caneca rosa (?)
 - [ ] pagar telefone
 - [x] sacar dinheiro para o men
-- [ ] fazer candidatura pra o concretsso de métodos qualitativos https://ciaiq.ludomedia.org/ https://proceedings.science/cfp/ciaiq-2025 [[QALI 2025]]
+- [ ] fazer candidatura pra o congresso de métodos qualitativos https://ciaiq.ludomedia.org/ https://proceedings.science/cfp/ciaiq-2025 [[QALI 2025]]
 - [x] cortar unha
 - [x] lavar roupa
 - [ ] portátil
 - [ ] escrever letra dos dias na caixa de remédio
-- [ ] 
+- [ ] decorar meu caderninho
+- [ ] Terminar texto do Becker
+- [ ] Terminar texto do Prisma
 
 
 
