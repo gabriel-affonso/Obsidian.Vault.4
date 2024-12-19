@@ -33,6 +33,7 @@ Mandar email para o professor
 Fazer um texto comentando um dos textos do tema 1 da bibliografia, até dia 06 de janeiro. Até 10.000 caracteres com espaços - umas 5 páginas. 
 Provavelmente pegar um texto que não seja tão central - nem muito longo. 
 10.000 caracteres com espaço para a apresentação até o dia 06
+[[Telling About Society]]
 ## Tema
 Falei com o professor, ele disse que eu deveria fazer um trabalho mais focado da bibliografia da cadeira. Por isso, o que eu vou fazer é ler alguns dos textos da bibliografia e elaborar uma  espécie de enquadramento teórico para investigar o trabalho do thiasos. Por isso, mais importante do que investigar o tema das representações do thiasos, o meu foco vão ser característica mais objetivas, como a relação do thiasos com o seus palcos, com o público e a organização interna da associação e a organização dos espetáculos. 
 
