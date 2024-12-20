@@ -12,4 +12,4 @@ tags:
 - [ ] Pé
 - [ ] Alguma coisa do kirbo
 - [ ] um fidget
-- [ ] 
+- [ ] uma camiseta do super homem azul clarinha

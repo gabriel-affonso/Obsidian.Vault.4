@@ -1,5 +1,5 @@
 ---
-aniversário: 2024-05-24
+aniversário: 1996-05-24
 tags:
   - pessoa
 ---
@@ -21,20 +21,20 @@ tags:
 - [x] falar da Marília
 - [ ] clash course sociologia
 - [x] fazer uma página da wikipedia sobre a SDUC
-- [ ] artigo das freiras
+- [x] artigo das freiras
 - [ ] debater realmente faz uma diferença significativa nas pessoas
 - [ ] https://www.instagram.com/reel/C_NUWBho5O-/?igsh=eDM0Njc5NWRsM21u
 - [x] o fim do progresso e a pós modernidade
-- [ ] entrevista do Saramagician https://www.revistaasalto.com/post/existe-uma-luta-hist%C3%B3rica-a-ser-travada-uma-luta-pela-mem%C3%B3ria-histC3%%B3rica-entrevista-a-andr%C3%A9-sar
+- [x] entrevista do Saramagician https://www.revistaasalto.com/post/existe-uma-luta-hist%C3%B3rica-a-ser-travada-uma-luta-pela-mem%C3%B3ria-histC3%%B3rica-entrevista-a-andr%C3%A9-sar
 - [ ] https://www.google.com/search?client=firefox-b-d&sca_esv=a07f0383584960a3&sxsrf=ADLYWIISiroTg-OcEPFz3Hed4GEwmPqT1g:1731340060763&q=ministry+of+justice+kuwait&udm=2&fbs=AEQNm0AuaLfhdrtx2b9ODfK0pnmi046uB92frSWoVskpBryHTpm4Flwlr5cHTE9P1oWvlAZG1j4VZSGD_ZOPgNtbY0qbTNPUlAKf8isO8qkOQy4FBlT_zyL1T2uguSltQDBk9jbnHO38ibpcxrx9O5HO1M_iT1mvG_AkQYEvMwrkJyzIT8vybwo&sa=X&ved=2ahUKEwjSnrqq0NSJAxWcwAIHHZbEMUgQtKgLegQIExAB&biw=1920&bih=955&dpr=1#vhid=I_ziz279X7LxfM&vssid=mosaic
-- [ ] a gnt devia completar a página da Wikipedia da SDUC
+- [x] a gnt devia completar a página da Wikipedia da SDUC
 - [ ] ver batman
 - [ ] criar conta no revolut
 - [ ] planejar coisas para fazer semana que vem - recomendo barry lindon
 - [x] a sduc devia virar uma organização de cinema
 - [x] tatuagem do secretário de estado
-- [ ] o ptpt realmente morreu
-- [ ] Tiago no x 
+- [x] o ptpt realmente morreu
+- [x] Tiago no x 
 - [ ] seguro da sduc
 - [x]  https://www.instagram.com/reel/DCG5WpIs4SE/?igsh=NmxpaHZyMXVkNXZ1 
 - [x] https://www.instagram.com/reel/DBBlgatPUk8/?igsh=aWY0b3Ryb2N2d3p6 

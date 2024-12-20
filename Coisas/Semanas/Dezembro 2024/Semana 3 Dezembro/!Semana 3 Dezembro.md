@@ -4,16 +4,16 @@ hora: 17:39
 tags:
 ---
 # Semana
-|                | **Dia** | Manhã | Almoço           | Tarde     | Noite    |        |
-| -------------- | ------- | ----- | ---------------- | --------- | -------- | ------ |
-| [[2024-12-16]] | Segunda |       | Reunião A.B.C.   |           | Terapia  | perna  |
-| [[2024-12-17]] | Terça   |       |                  |           | shopping | peito  |
-| [[2024-12-18]] | Quarta  |       | Almoço Natal CES | encanador |          | Costas |
-| [[2024-12-19]] | Quinta  |       | casa             |           | Portatil |        |
-| [[2024-12-20]] | Sexta   |       |                  |           |          |        |
-| [[2024-12-21]] | Sábado  |       |                  |           |          |        |
-| [[2024-12-22]] | Domingo |       |                  |           |          |        |
-|                |         |       |                  |           |          |        |
+|                | **Dia** | Manhã | Almoço           | Tarde     | Noite            |        |
+| -------------- | ------- | ----- | ---------------- | --------- | ---------------- | ------ |
+| [[2024-12-16]] | Segunda |       | Reunião A.B.C.   |           | Terapia          | perna  |
+| [[2024-12-17]] | Terça   |       |                  |           | shopping         | peito  |
+| [[2024-12-18]] | Quarta  |       | Almoço Natal CES | encanador |                  | Costas |
+| [[2024-12-19]] | Quinta  |       | casa             |           | Portatil         |        |
+| [[2024-12-20]] | Sexta   |       | Pegar encomendas |           | Mercado de natal |        |
+| [[2024-12-21]] | Sábado  |       |                  |           |                  |        |
+| [[2024-12-22]] | Domingo |       |                  |           |                  |        |
+|                |         |       |                  |           |                  |        |
 
 # Pendências
 - [x] Cozinhar
@@ -35,7 +35,7 @@ tags:
 - [ ] fazer candidatura pra o congresso de métodos qualitativos https://ciaiq.ludomedia.org/ https://proceedings.science/cfp/ciaiq-2025 [[QALI 2025]]
 - [x] cortar unha
 - [x] lavar roupa
-- [ ] portátil
+- [x] portátil
 - [ ] escrever letra dos dias na caixa de remédio
 - [ ] decorar meu caderninho
 - [ ] Terminar texto do Becker
