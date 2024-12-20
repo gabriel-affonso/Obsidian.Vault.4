@@ -28,7 +28,7 @@ A fotografia, contudo, desempenha no contemporâneo um papel quase onipresente n
 Esta reflexão, apesar de não ser apresentada por Becker, se aproxima da comparação entre as representações da sociedade e os mapas - que abre o capítulo. 
 Esta preocupação particular com a fotografia pode, em parte, ser justificada por uma preferência ou aproximação pessoal pela fotografia, uma vez que Becker atuou neste campo, ou por uma valorização teórica consciente. Independente das causas para esta preocupação, ela mostra-se muito relevante para a discussão que Becker propõe na sessão seguinte do texto, denominada Facts.
 
-Nesta, o autor revisa a 
+Nesta, o autor revisa o paradigma fenomenológico do pós-estruturalismo para discutir a acessibilidade dos fatos. 
 >[!note]- Susan Sontag
 >No contempor
 
