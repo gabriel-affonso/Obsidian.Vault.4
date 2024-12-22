@@ -38,7 +38,7 @@ tags:
 - [x] portátil
 - [ ] escrever letra dos dias na caixa de remédio
 - [ ] decorar meu caderninho
-- [ ] Terminar texto do Becker
+- [x] Terminar texto do Becker
 - [ ] Terminar texto do Prisma
 - [ ] perguntar para o chatgpt sobre o regime cambial brasileiro
 
