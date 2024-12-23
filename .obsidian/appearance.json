@@ -1,4 +1,6 @@
 {
   "theme": "system",
-  "accentColor": "#ffffff"
+  "accentColor": "#ff0000",
+  "cssTheme": "Minimal",
+  "nativeMenus": true
 }

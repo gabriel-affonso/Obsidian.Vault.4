@@ -29,6 +29,7 @@ Defesa 24/01
 Tamanho: 6.500 palavras, 15 páginas
 Data: 06/01/2025
 Mandar email para o professor
+[[Trabalho Thíasos]]
 ## Apresentação
 Fazer um texto comentando um dos textos do tema 1 da bibliografia, até dia 06 de janeiro. Até 10.000 caracteres com espaços - umas 5 páginas. 
 Provavelmente pegar um texto que não seja tão central - nem muito longo. 
