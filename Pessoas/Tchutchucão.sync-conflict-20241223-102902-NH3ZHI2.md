@@ -13,5 +13,3 @@ tags:
 - [ ] Alguma coisa do kirbo
 - [ ] um fidget
 - [ ] uma camiseta do super homem azul clarinha
-- [ ] posso enviar o kirbo pra ele no aniversário dele. E falar algo como só se faz 25 uma vez, e mandar o pé e alguma outra coisa.
-- [ ] 
