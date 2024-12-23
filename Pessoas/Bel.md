@@ -30,6 +30,11 @@ que humano benefício que o tempo nos concede é um nome imaculado, sem que adre
 - [ ] 
 
 
+# Coisas para Fazer com a Bel
+- [ ] Ver crepúsculo comendo as comidas
+- [ ] oficina de porcelana
+- [ ] date de lego
+- [ ] 
 [[]]
 
 
