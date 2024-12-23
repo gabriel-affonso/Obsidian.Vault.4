@@ -23,7 +23,7 @@ A metodologia deste trabalho assume três etapas distintas. Primeiro, a elabora�
 
 Enquadramento teórico
 
-O enquadramento teórico desta investigação se decorre especialmente da noção dos Mundos da Arte, de Becker. Este conceito pretende destacar a arte como uma atividade, isto é, a arte enquanto produto resultante de um conjunto de processos institucionais, financeiros e emocionais. Este paradigma, assim como tradições materialistas da sociologia da cultura destacam a  influencia de fatores materiais e institucionais na produção artística, seja no seu tema ou forma. Através deste enquadramento, pretende-se explorar de que forma a conjuntura material e institucional em que o Thíasos se insere influencia sua produção, bem como de que forma esta conjuntura dialoga com a produção  teórica do tema.
+O enquadramento teórico desta investigação decorre especialmente da noção dos Mundos da Arte, de Becker. Este conceito pretende destacar a arte como uma atividade, isto é, a arte enquanto produto resultante de um conjunto de processos institucionais, financeiros e emocionais. Este paradigma, assim como tradições materialistas da sociologia da cultura destacam a  influencia de fatores materiais e institucionais na produção artística, seja no seu tema ou forma. Através deste enquadramento, pretende-se explorar de que forma a conjuntura material e institucional em que o Thíasos se insere influencia sua produção, bem como de que forma esta conjuntura dialoga com a produção  teórica do tema.
 
 O objetivo de Becker através deste conceito é clarificar os meios através dos quais a arte é produzida, ao mesmo tempo em que refuta o entendimento romântico do artística enquanto um gênio solitário. Mais do que estabelecer fronteiras concretas de quais atividades compõe ou não determinado mundo da arte, o autor pretende evidenciar como os artistas propriamente ditos são um dos integrantes da série de processos que produzem arte (XXXX p. 54).
 
@@ -36,16 +36,15 @@ Bibliografia
 Textos:
 
 - [ ] – 6. Becker
+ - [ ] 11.  Abercrombie
 
-[ ] – 11. Abercrombie
+- [ ] [ ] – 13, Borges
 
-[ ] – 13, Borges
+- [ ] [ ] – 15. Borges
 
-[ ] – 15. Borges
+- [ ] [ ] –
 
-[ ] –
-
-[ ] –
+- [ ] [ ] –
 
 Becker, Howard S. (2010) — “Mundos da arte e actividade colectiva” _in idem_, _Mundos da Arte_. Lisboa: Livros Horizonte.
 
