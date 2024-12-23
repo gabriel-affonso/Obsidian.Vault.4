@@ -2,6 +2,7 @@
 date: 2024-12-23
 hora: 13:53
 tags:
+  - Pensamentos
 ---
 
 
