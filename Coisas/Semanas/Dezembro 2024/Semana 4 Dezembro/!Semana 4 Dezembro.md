@@ -16,6 +16,10 @@ tags:
 |                |         |       |        |       |         |     |
 
 # Pendências
+- [ ] cortar unhas
+- [ ] instalar lineage os
+- [ ] pagar conta do telefone 
+- [ ] pagar conta do gás 
 - [ ] 
 
 ## Falar na Terapia
