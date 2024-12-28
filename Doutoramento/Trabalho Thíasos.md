@@ -39,7 +39,9 @@ Antes de discutir as três formas de audiência que os autores descrevem, cabe f
 
 O primeiro a ser desenvolvido é o Paradigma da Incorporação/Resistência. Ele descreve a forma como uma audiência recebe um produto cultural através de dinâmicas de incorporação ou resistência. Isto é, a audiência pode incorporar ou resistir ao discurso e valores transmitidos pelo produto cultural. Assente neste paradigma está uma clara divisão entre produtores e audiência. Isto pois a audiência possui uma posição estritamente reativa, seja para aceitar ou rejeitar as mensagens disseminadas. 
 
+Essa abordagem é particularmente adequada para analisar relações de produção e consumo onde há uma barreira pouco permeável entre artistas e consumidores. 
 
+O paradigma do Espetáculo e da Performance, teorizado por Abercrombie e 
 Bibliografia
 
 Textos:
