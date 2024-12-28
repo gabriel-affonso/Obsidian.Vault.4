@@ -17,9 +17,11 @@ tags:
 
 # Pendências
 - [ ] cortar unhas
-- [ ] instalar lineage os
-- [ ] pagar conta do telefone 
+- [x] instalar lineage os
+- [x] pagar conta do telefone 
 - [ ] pagar conta do gás 
+- [ ] terminar texto prisma
+- [ ] enviar texto pro Claudino 
 - [ ] 
 
 ## Falar na Terapia
