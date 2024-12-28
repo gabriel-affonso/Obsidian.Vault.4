@@ -37,6 +37,7 @@ Através destas categorias, o conceito de Becker clarifica o processo de produç
 
 Antes de discutir as três formas de audiência que os autores descrevem, cabe fazer breve apresentação sobre os paradigmas de análise desta relação. Dois paradigmas são centrais ao desenvolvimento deste campo de estudo, sendo cada um mais adequado para analisar um ou mais tipos de audiência em detrimento do outro. 
 
+O primeiro a ser desenvolvido é o Paradigma da Incorporação/Resistência. Ele descreve a forma como uma audiência recebe um produto cultural através de dinâmicas de incorporação ou resistência. Isto é, a audiência pode incorporar ou resistir ao discurso e valores transmitidos pelo produto cultural. Assente neste paradigma está uma clara divisão entre produtores e audiência. Isto pois a audienica possui uma posição estritamente reativa, seja para incorporar 
 Bibliografia
 
 Textos:
