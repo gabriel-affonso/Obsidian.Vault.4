@@ -35,6 +35,7 @@ O entendimento dos Mundos da Arte de Becker contribui para o entendimento da pro
 
 Através destas categorias, o conceito de Becker clarifica o processo de produção artísticas e contesta o paradigma romântico do "artista solitário" (SCHLEGEL, IDEAL ROMANTICO DO ARTÍSTA). O paradigma dos mundos da arte orientará a análise da relação entre as várias etapas e atividades da produção artística do Thíasos. Este paradigma, contudo, diz pouco sobre a relação entre produtores e público dentro da produção teatral. Para isto, o trabalho desenvolvido por Abercrombie e Longhurst em F*orms of the Audience,* será central.
 
+Antes de discutir as três formas de audiência que os autores descrevem, cabe fazer breve apresentação sobre os paradigmas de análise desta relação. Dois paradigmas são centrais ao desenvolvimento deste campo de estudo, sendo cada um mais adequado para analisar um ou mais tipos de audiência em detrimento do outro. 
 
 Bibliografia
 
