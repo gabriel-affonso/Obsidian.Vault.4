@@ -31,6 +31,8 @@ Em razão deste foco analítico do autor diante das relações de produção A a
 
 No contexto desta investigação o pequeno mundo da produção artística do Thíasos pode ser categorizado em três grupos de pessoas, de acordo com sua relação com o produto final – institucionais, técnicos/atores e público.
 
+O entendimento dos Mundos da Arte de Becker contribui para o entendimento da produção artística enqaunto um conjunto de processos que envolvem vasto número de pessoas, que desempenham diversas atividades, mais ou menos "artísticas". Para a
+
 Bibliografia
 
 Textos:
