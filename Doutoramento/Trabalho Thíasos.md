@@ -42,6 +42,8 @@ O primeiro a ser desenvolvido é o Paradigma da Incorporação/Resistência. Ele
 Essa abordagem é particularmente adequada para analisar relações de produção e consumo onde há uma barreira pouco permeável entre artistas e consumidores. 
 
 O paradigma do Espetáculo e da Performance, teorizado por Abercrombie e Longhurst (1998 p. 159) argumenta que, em sociedades modernas, há uma relação menos polarizada entre produtores e consumidores de objetos culturais. Ele redefine, portanto, aquilo que a audiência é e faz dentro do processo artístico (1998 p. 39).
+
+
 Bibliografia
 
 Textos:
