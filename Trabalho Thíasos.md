@@ -31,7 +31,7 @@ Em razão deste foco analítico do autor diante das relações de produção A a
 
 No contexto desta investigação o pequeno mundo da produção artística do Thíasos pode ser categorizado em três grupos de pessoas, de acordo com sua relação com o produto final – institucionais, técnicos/atores e público.
 
-O entendimento dos Mundos da Arte de Becker contribui para o entendimento da produção artística enqaunto um conjunto de processos que envolvem vasto número de pessoas, que desempenham diversas atividades, mais ou menos "artísticas". Para a
+O entendimento dos Mundos da Arte de Becker contribui para o entendimento da produção artística enqaunto um conjunto de processos que envolvem vasto número de pessoas, que desempenham diversas atividades, mais ou menos "artísticas". As funções desempenhadas por estes diversos atores pode ser categorizadas como institucionais, técnicas e artísticas. O próprio Becker reconhece os dilemas que envolvem a categorização das ações que são, ou não, artísticas. Contudo, para fins descritivos, esta categorização é útil. No caso específico da produção teatral, funções institucionais podem ser identificadas, por exemplo nos responsáveis pela gestão e manutenção de anfiteatros e auditórios ou funcionários públicos que avaliam e aprovam pedidos de financiamento público para espetáculos. Atividades técnicas são desempenhadas pelos trabalhadores que confeccionam os figurinos e objetos cénicos utilizados. Finalmente, as funções "artísticas" propriamente ditas são desempenhadas por atoes, diretores e 
 
 Bibliografia
 
