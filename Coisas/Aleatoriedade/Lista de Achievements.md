@@ -4,7 +4,7 @@ tags:
 ---
 
 # Coimbra
-- [ ] Tomar o iced coffe do subway
+- [ ] ~~Tomar o iced coffe do subway~~
 - [ ] fazer um servidor
 - [x] Peregrinar pra fátima
 - [ ] Fazer camiseta do there is no alternative
