@@ -43,6 +43,11 @@ Essa abordagem é particularmente adequada para analisar relações de produçã
 
 O paradigma do Espetáculo e da Performance, teorizado por Abercrombie e Longhurst (1998 p. 159) argumenta que, em sociedades modernas, há uma relação menos polarizada entre produtores e consumidores de objetos culturais. Ele redefine, portanto, aquilo que a audiência é e faz dentro do processo artístico (1998 p. 39).
 
+Oi
+
+Isso é um teste
+
+
 
 Bibliografia
 
