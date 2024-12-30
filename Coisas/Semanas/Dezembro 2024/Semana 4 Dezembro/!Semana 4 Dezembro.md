@@ -16,13 +16,16 @@ tags:
 |                |         |       |        |       |         |     |
 
 # Pendências
-- [ ] cortar unhas
+- [x] cortar unhas
 - [x] instalar lineage os
 - [x] pagar conta do telefone 
 - [ ] pagar conta do gás 
-- [ ] terminar texto prisma
+- [x] terminar texto prisma
 - [ ] enviar texto pro Claudino 
-- [ ] 
+- [ ] cortar cabelo
+- [ ] switch da Bel
+
+
 
 ## Falar na Terapia
 
