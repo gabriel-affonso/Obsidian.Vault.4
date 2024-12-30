@@ -19,8 +19,8 @@ tags:
 |                |         |       |        |       |         |        |
 
 # Pendências
-- [ ] cortar cabelo
-- [ ] switch da Bel 
+- [x] cortar cabelo
+- [x] switch da Bel 
 - [ ] reveion 
 - [ ] trabalhar 
 

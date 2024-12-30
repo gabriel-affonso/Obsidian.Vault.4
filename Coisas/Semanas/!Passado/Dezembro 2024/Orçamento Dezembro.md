@@ -32,6 +32,11 @@ const transacoes = [
    { item: "Acumpultura", valor: -90, moeda: 'EUR', tipo: 'Gasto' },
    { item: "Aliexpress", valor: -80, moeda: 'EUR', tipo: 'Gasto' },
    { item: "Compras natalinas", valor: -100, moeda: 'EUR', tipo: 'Gasto' },
+   { item: "Switch Bel", valor: -150, moeda: 'EUR', tipo: 'Gasto' },
+   { item: "Compras de Natal", valor: -150, moeda: 'EUR', tipo: 'Gasto' },
+   { item: "Mercado de natal", valor: -70, moeda: 'EUR', tipo: 'Gasto' },
+    
+    
     
 ];
 
