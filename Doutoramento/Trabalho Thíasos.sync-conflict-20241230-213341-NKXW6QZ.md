@@ -41,28 +41,7 @@ O primeiro a ser desenvolvido é o Paradigma da Incorporação/Resistência. Ele
 
 Essa abordagem é particularmente adequada para analisar relações de produção e consumo onde há uma barreira pouco permeável entre artistas e consumidores. 
 
-O paradigma do Espetáculo e da Performance, teorizado por Abercrombie e Longhurst (1998 p. 159) argumenta que, em sociedades modernas, há uma relação menos polarizada entre produtores e consumidores de objetos culturais. Ele redefine, portanto, aquilo que a audiência é e faz dentro do processo artístico (1998 p. 39).
-
-# Perguntas para a Bel
-1. Pergunta aberta sobre o Thíasos - o que é, como funciona, o que faz e desde quando
-2. Qual sua relação com o Thíasos, quando começou, como foi, como é
-3. Quais são os atuais planos para o Thíasos
-4. Como funciona a produção de um espetáculo como Helena?
-5. Qual organização institucional do Thíasos, é uma associação formalizada? É sem fins lucrativos? Faz parte da UC?
-6. Sendo parte do CECH, há alguma vinculação temática ou alguma supervisão artística? Ou vocês possuem liberdade total?
-7. Como funciona o financiamento das atividades de vocês? Há algum apoio público recorrente? como por exemplo do IPDJ ou do IPAAJ
-8. Uma pergunta sobre o artista romântico
-9. Em quais espaços os Thíasos se apresenta?
-10. Há uma diferença entre os públicos destes espaços?
-11. Você sente que esses públicos diferentes se relacionam com o espetáculo de forma diferente?
-12. Você acha que essas diferenças são causadas pelo espaço ou pelo público? Isto é, se os públicos invertessem o espaço em que experienciam a peça, o resultado seria diferente?
-13. A relação dos autores com o espetáculo também muda a depender do espaço e público?
-14. 
-
-Oi
-
-Isso é um teste
-
+O paradigma do Espetáculo e da Performance, teorizado por Abercrombie e Longhurst (1998 p. 159) argumenta que, em sociedades modernas, há uma relação menos polarizada entre produtores e consumidores de objetos culturais. Ele redefine, portanto, aquilo que a audiência é e faz dentro do processo artístico (1998 p. 39). Essa leitura integra a audiência dentro do "espetáculo"
 
 
 Bibliografia
