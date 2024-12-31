@@ -51,8 +51,9 @@ Sobre este tipo de audiência, dois elementos devem ser destacados. Primeramente
 
 Cabe agora discutir audiências de massa que os autores definem (1998, 57). Em oposição com as audiências simples, características de contextos pré-modernos, as audiências de massa surgem com o desenvolvimento da indústria cultural massificada no século XX. Estas audiências se organizam ao redor de produtos culturais massificados difundidos por meio tecnológicos, nomeadamente em contextos domésticos, como  a televisão e o rádio. A diferença entre os locais em que as audiências se organizam resulta numa diferente relação entre os vários integrantes da audiência. As audiências de massa são privatizadas, em comparação com as audiências simples, coletivas, por sua vez. 
 
-Os meios tecnológicos que intermediam o consumo resultam também em uma maior distância entre artistas e audiência. 
+Os meios tecnológicos que intermediam o consumo resultam também em uma maior distância entre artistas e audiência. A isso, Abercrombie e Longhurst atribuem o comum processo de idealização e a celebridade dos artistas deste tipo de media - fenómeno menos comum em atores de teatro.
 
+Finamente, cabe aqui brevemente caracterizar o 
  
 # Perguntas para a Bel
 1. Pergunta aberta sobre o Thíasos - o que é, como funciona, o que faz e desde quando
