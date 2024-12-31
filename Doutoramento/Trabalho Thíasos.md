@@ -47,7 +47,7 @@ Uma vez apresentados os dois paradgimas para a relação entre produtores e audi
 
 Segundo os autores, as audiências simples são características de sociedades pré-modernas, estas concretizam-se ao redor de espetáculos que reúnem as seguintes características: são perfomances diretas, sem mediação de meios tecnológicos como o rádio ou a intenet; nestes contextos a realização de espetáculos não é muito frequente, e costuma decorrer em espaços públicos, dotada e grande carga cerimonial. Para além de apresentações teatrais, partidas de futebol também podem receber audiências simples. 
 
-Sobre este tipo de audiência, dois elementos devem ser destacados. Primeramente, como salientam os autores, essa(1998 p. 39)`
+Sobre este tipo de audiência, dois elementos devem ser destacados. Primeramente, como salientam os autores, essa relação entre produtores e audiênica, apesar de característica de sociedades pré-modernas, as audiências simples não foram extintas com a instauração da modernidade (1998 p. 39). No presente, audiênicas simples, de massa e difusas se sobrepõem. A segunda menção importante diz respeito à inadequação de uma avaliação valorativa entre relações de audiência. Isto é, a condição de "simplicidade" da audiênica `
 
 # Perguntas para a Bel
 1. Pergunta aberta sobre o Thíasos - o que é, como funciona, o que faz e desde quando
