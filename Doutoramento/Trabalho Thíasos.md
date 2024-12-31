@@ -53,7 +53,11 @@ Cabe agora discutir audiências de massa que os autores definem (1998, 57). Em o
 
 Os meios tecnológicos que intermediam o consumo resultam também em uma maior distância entre artistas e audiência. A isso, Abercrombie e Longhurst atribuem o comum processo de idealização e a celebridade dos artistas deste tipo de media - fenómeno menos comum em atores de teatro.
 
-Finamente, cabe aqui brevemente caracterizar o 
+Finamente, cabe aqui brevemente caracterizar as audiências difusas. Este tipo de relação entre produtores e consumidores se concretiza a partir da fragmentação das distinções anteriormente existentes entre contextos performáticos e não-perfomáticos. Isto é, a partir da disseminação dos novos meios de comunicação, experiências artísticas de performance tornaram-se menos circunscritas à contextos e espaços específicos. Toda a vida social gradualmente passa a ser intermediada por experiências de audiênica. 
+
+Esse tipo de audiência é difuso pois a atenção dos indivíduos não é tão concentrada como em casos simples e de massa. Uma vez que estes produtos performáticos não estão circunscritos a um anfiteatro ou o ambiente doméstico, seus audientes distribuem sua atenção entre diversos elementos da vida social, performáticos ou não. Assim, a condição de audiente torna-se quase onipresente no contemporâneo, é a audiência em um mundo performativo.
+
+A comparação das três categorias 
  
 # Perguntas para a Bel
 1. Pergunta aberta sobre o Thíasos - o que é, como funciona, o que faz e desde quando
