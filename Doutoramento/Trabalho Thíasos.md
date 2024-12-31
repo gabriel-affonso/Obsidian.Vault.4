@@ -43,6 +43,10 @@ Essa abordagem é particularmente adequada para analisar relações de produçã
 
 O paradigma do Espetáculo e da Performance, teorizado por Abercrombie e Longhurst (1998 p. 159) argumenta que, em sociedades modernas, há uma relação menos polarizada entre produtores e consumidores de objetos culturais. Ele redefine, portanto, aquilo que a audiência é e faz dentro do processo artístico (1998 p. 39).
 
+Uma vez apresentados os dois paradgimas para a relação entre produtores e audiência, cabe apresentar os três tipos de audiência descritos por Abercrombie e Longhurst - audiências simples, de massa e difusas. 
+
+Segundo os autores, as audiências simples são características de sociedades pré-modernas, estas concretizam-se ao redor de espetáculos que reúnem as seguintes características: são perfomances diretas, sem mediação de meios tecnológicos como o rádio ou a intenet; ocorrem em `
+
 # Perguntas para a Bel
 1. Pergunta aberta sobre o Thíasos - o que é, como funciona, o que faz e desde quando
 2. Qual sua relação com o Thíasos, quando começou, como foi, como é
@@ -71,6 +75,15 @@ Textos:
 
 - [ ] – 6. Becker
  - [ ] 11.  Abercrombie
+	 - [ ] The notion of audience passivity should, however, be treated with some caution.
+
+		 In the case of the theatre, for example, what- ever if means, it does not necessarily imply that the theatre is a low-attention/low-involvement medium.
+	
+		 Quite the reverse: theatre audiences are giving high attention to the spectacle and, partly as a consequence, are closely involved.
+
+ As Bennett (1997) puts it: ‘Spectators are thus trained to be passive in their demon- strated behaviour during a theatrical performance, but to be active in their decoding of the sign systems made available.
+
+ Performers rely on the active decoding, but passive behaviour of the audience so that they can unfold the planned on-stage activity’ (p. 206).
 
 - [ ] [ ] – 13, Borges
 
