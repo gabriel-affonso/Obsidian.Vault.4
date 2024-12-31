@@ -49,7 +49,7 @@ Segundo os autores, as audiências simples são características de sociedades p
 
 Sobre este tipo de audiência, dois elementos devem ser destacados. Primeramente, como salientam os autores, essa relação entre produtores e audiênica, apesar de característica de sociedades pré-modernas, as audiências simples não foram extintas com a instauração da modernidade (1998 p. 39). No presente, audiênicas simples, de massa e difusas se sobrepõem. A segunda menção importante diz respeito à inadequação de uma avaliação valorativa entre relações de audiência. Isto é, a condição de "simplicidade" da audiência não pretende indicar uma relação mais ou menos sofisticada ou artística do que outras formas de audiência., mas sim uma relação mais direta entre produtores e audiência.  `
 
-Cabe agora discutir audiências de massa 
+Cabe agora discutir audiências de massa que os autores definem (1998, 57). Em oposição com as audiências simples, características de contextos p´re-modernos, as audiênicas de massa surgem com o desenvolvimento da industria cultural massificada no século XX. Estas audiências se organizam ao redor de produtos culturais massificados difundidos por meio tecnológicos, nomeadamente em contextos domésticos, como  a televisão e o rádio. A relação entre os vários a
 
  
 # Perguntas para a Bel
