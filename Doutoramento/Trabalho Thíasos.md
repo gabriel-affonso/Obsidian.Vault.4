@@ -45,7 +45,7 @@ O paradigma do Espetáculo e da Performance, teorizado por Abercrombie e Longhur
 
 Uma vez apresentados os dois paradgimas para a relação entre produtores e audiência, cabe apresentar os três tipos de audiência descritos por Abercrombie e Longhurst - audiências simples, de massa e difusas. 
 
-Segundo os autores, as audiências simples são características de sociedades pré-modernas, estas concretizam-se ao redor de espetáculos que reúnem as seguintes características: são perfomances diretas, sem mediação de meios tecnológicos como o rádio ou a intenet; ocorrem em `
+Segundo os autores, as audiências simples são características de sociedades pré-modernas, estas concretizam-se ao redor de espetáculos que reúnem as seguintes características: são perfomances diretas, sem mediação de meios tecnológicos como o rádio ou a intenet; nestes contextos a realização de espetáculos não é muito frequente, e costuma decorrer em espaços públicos, dotada e grande carga cerimonial. `
 
 # Perguntas para a Bel
 1. Pergunta aberta sobre o Thíasos - o que é, como funciona, o que faz e desde quando
