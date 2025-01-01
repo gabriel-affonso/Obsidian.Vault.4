@@ -69,6 +69,7 @@ Como mencionado pelos autores, no presente, as três modalidade de audiência se
 
 Finalmente, o terceiro elemento que compõe o enquadramento teórico deste trabalho pretende analisar o desenvolvimento e o funcionamento de grupos artísticos inseridos em comunidades territoriais e a natureza da relação entre produtores e consumidores deste tipo de arte.
 
+O trabalho de Vera Borges é central para compreender o caso do
 # Perguntas para a Bel
 1. Pergunta aberta sobre o Thíasos - o que é, como funciona, o que faz e desde quando
 2. Qual sua relação com o Thíasos, quando começou, como foi, como é
@@ -83,7 +84,7 @@ Finalmente, o terceiro elemento que compõe o enquadramento teórico deste traba
 11. Você sente que esses públicos diferentes se relacionam com o espetáculo de forma diferente?
 12. Você acha que essas diferenças são causadas pelo espaço ou pelo público? Isto é, se os públicos invertessem o espaço em que experienciam a peça, o resultado seria diferente?
 13. A relação dos autores com o espetáculo também muda a depender do espaço e público?
-14. Agora uma pergunta sobre um  tema um pouco distinto. Qual é a relação do Thíasos com outr
+14. Agora uma pergunta sobre um  tema um pouco distinto. Qual é a relação do Thíasos com outras associações artísticas e grupos de teatro? 
 
 Oi
 
