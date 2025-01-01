@@ -81,7 +81,9 @@ Esta característica relaciona-se com a segunda característica, a grande depend
 
 Juntas, a tendência para o personalismo e para a dependência de apoios explica as dificuldades que estas organizações experimentam em seus primeiros anos de atividade, relato comum nas entrevistas de Borges (2016 p. 244). 
 
-A terceira característica identificada é o sucesso a partir do envolvimento ostensivo da comunidade. Todos os três relatos destacaram a centralidade do envolvimento com a comunidade no sucesso das associações. Alguns produtores culturais salientam, inclusive, que a organização só passou a prosperar quando a comunidade se sentiu efetivamente incluída (2016 p. 242). Muitas destas associações apontaram uma 
+A terceira característica identificada é o sucesso a partir do envolvimento ostensivo da comunidade. Todos os três relatos destacaram a centralidade do envolvimento com a comunidade no sucesso das associações. Alguns produtores culturais salientam, inclusive, que a organização só passou a prosperar quando a comunidade se sentiu efetivamente incluída (2016 p. 242). Como forma de integrar a comunidade de maneira mais ostensiva, muitas destas organizações, como o Teatro Viriato e a Casa d'Orfeu, gradualmente passaram a realizar outras atividades, como aulas de artes para crianças e jovens, workshops e outros eventos comunitários (2016 p. 241, 245). 
+
+
 
 
 Personificação
