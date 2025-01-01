@@ -77,11 +77,11 @@ O primeiro ponto que fica evidente através dos relatos apresentados no texto é
 
 Esta dinâmica resulta na personificação dos resultados de associações culturais desta natureza. Quando há uma apreço por lideranças locais e da organização, há sucesso e desenvolvimento. Por outro lado, quando esta relação é fragilizada ou quando o produtor se afasta da associação, a relação entre a entidade e as lideranças locais piora drasticamente. Essa condição é um empecilho para a longevidade destas associações - que frequentemente alternam entre período de atividade e de hiato. Essa característica destaca a tendência personalista de instituições como estas, que possuem reduzida resiliência institucional.
 
-Esta característica relaciona-se com a segunda característica, a grande dependência destas organizações para com o apoio de atores institucionais. Por frequentemente surgirem de contextos informais e envolverem indivíduos com diferentes graus de experiência artística, estas entidades dependem muito de apoios financeiros e institucionais. 
+Esta característica relaciona-se com a segunda característica, a grande dependência destas organizações para com o apoio de atores institucionais (2016 p. 242). Por frequentemente surgirem de contextos informais e envolverem indivíduos com diferentes graus de experiência artística, estas entidades dependem muito de apoios financeiros e institucionais. 
 
-Juntas, a tendência para o personalismo e para a dependência de apoios explica as dificuldades que estas organizações experimentam em seus primeiros anos de atividade, relato comum nas entrevistas de Borges (2016 p. 240, 242, 245). 
+Juntas, a tendência para o personalismo e para a dependência de apoios explica as dificuldades que estas organizações experimentam em seus primeiros anos de atividade, relato comum nas entrevistas de Borges (2016 p. 244). 
 
-A terceira característica identificada é o sucesso a partir do envolvimento ostensivo da comunidade. 
+A terceira característica identificada é o sucesso a partir do envolvimento ostensivo da comunidade. Todos os três relatos destacaram a centralidade do envolvimento com a comunidade no sucesso das associações. Alguns produtores culturais salientam, inclusive, que a organização só passou a prosperar quando a comunidade se sentiu efetivamente incluída (2016 p. 242). Muitas destas associações apontaram uma 
 
 
 Personificação
