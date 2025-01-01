@@ -70,6 +70,7 @@ Como mencionado pelos autores, no presente, as três modalidade de audiência se
 Finalmente, o terceiro elemento que compõe o enquadramento teórico deste trabalho pretende analisar o desenvolvimento e o funcionamento de grupos artísticos inseridos em comunidades territoriais e a natureza da relação entre produtores e consumidores deste tipo de arte.
 
 O trabalho de Vera Borges é central para compreender o caso português dos grupos teatrais inseridos em pequenas comunidades. A autora apresenta três estudos de caso para analisar o funcionamento destas organizações e seu envolvimento com outros atores locais, regionais e internacionais. 
+
 # Perguntas para a Bel
 1. Pergunta aberta sobre o Thíasos - o que é, como funciona, o que faz e desde quando
 2. Qual sua relação com o Thíasos, quando começou, como foi, como é
