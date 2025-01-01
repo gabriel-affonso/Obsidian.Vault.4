@@ -13,7 +13,7 @@ Eu quero fazer uma espécie de diagnóstico sobre a reflexão teórica da sociol
 
 O presente ensaio pretende realizar uma análise comparativa entre a produção teórica da sociologia da arte e do teatro e um estudo de caso concreto. O objetivo desta análise é compreender até que ponto a literatura académica selecionada discute e se debruça sobre as questões e desafios com que organizações de teatro estudantis portuguesas, inseridas em circuitos de espetáculos não-centrais se deparam. Tendo em conta estes objetivos, optou-se por recorrer à produção académica mais tradicional dentro do campo, de forma a identificar distanciamentos e aproximações entre o corpo teórico dominante e o teatro produzido fora dos círculos comerciais.
 
-O objeto dest estudo será a Associação Cultural Thíasos. Seu surgimento é gradual, a partir de 1991, quando um conjunto de estudante da licenciatura de Estudos Clássicos da Faculdade de Letras de Universidade de Coimbra se organizam com o objetivo de encenar peças da Antiguidade. Em 1997, após vários anos em atividade e a apresentação de vários espetáculos, a associação é formalmente constituída. Deste então a associação está configurada enquanto um grupo de teatro universitário vinculado ao Centro de Estudos Clássicos e Humanísticos da FLUC.
+O objeto deste estudo será a Associação Cultural Thíasos. Seu surgimento é gradual, a partir de 1991, quando um conjunto de estudante da licenciatura de Estudos Clássicos da Faculdade de Letras de Universidade de Coimbra se organizam com o objetivo de encenar peças da Antiguidade. Em 1997, após vários anos em atividade e a apresentação de vários espetáculos, a associação é formalmente constituída. Deste então a associação está configurada enquanto um grupo de teatro universitário vinculado ao Centro de Estudos Clássicos e Humanísticos da FLUC.
 
 Ao longo de seus mais de trinta anos de trabalho, o Thíasos realizou cerca de XX peças e  conquistou apreço e reconhecimento do circuito de teatro universitário de Coimbra, bem como dos atores de promoção cultural da região Centro. A associação se apresenta tradicionalmente em dois tipos de palco, auditórios, como o Teatro Paulo Quintela, Teatro Gil Vicente e à céu-aberto, como em claustros, anfiteatros e jardins.
 
@@ -57,8 +57,9 @@ Finamente, cabe aqui brevemente caracterizar as audiências difusas. Este tipo d
 
 Esse tipo de audiência é difuso pois a atenção dos indivíduos não é tão concentrada como em casos simples e de massa. Uma vez que estes produtos performáticos não estão circunscritos a um anfiteatro ou o ambiente doméstico, seus audientes distribuem sua atenção entre diversos elementos da vida social, performáticos ou não. Assim, a condição de audiente torna-se quase onipresente no contemporâneo, é a audiência em um mundo performativo.
 
-A comparação das três categorias 
- 
+Como mencionado pelos autores, no presente, as três modalidade de audiência se sobrepõe. Isto pois, apesar do paradigma da modernidade e suas tecnologias impactarem em maior ou menor medida todas as formas de audiência, audiências simples existem. A tabela abaixo pretende sistematizar as diferenças entre as categorias de audiências através do espaço, meio de transmissão, tipo de atenção e relação entre audientes.
+
+
 # Perguntas para a Bel
 1. Pergunta aberta sobre o Thíasos - o que é, como funciona, o que faz e desde quando
 2. Qual sua relação com o Thíasos, quando começou, como foi, como é
