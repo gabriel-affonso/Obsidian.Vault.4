@@ -69,7 +69,19 @@ Como mencionado pelos autores, no presente, as três modalidade de audiência se
 
 Finalmente, o terceiro elemento que compõe o enquadramento teórico deste trabalho pretende analisar o desenvolvimento e o funcionamento de grupos artísticos inseridos em comunidades territoriais e a natureza da relação entre produtores e consumidores deste tipo de arte.
 
-O trabalho de Vera Borges é central para compreender o caso português dos grupos teatrais inseridos em pequenas comunidades. A autora apresenta três estudos de caso para analisar o funcionamento destas organizações e seu envolvimento com outros atores locais, regionais e internacionais. 
+O trabalho de Vera Borges (2016 p. 235) é central para compreender o caso português dos grupos teatrais inseridos em pequenas comunidades. A autora apresenta três estudos de caso para analisar o funcionamento destas organizações e seu envolvimento com outros atores locais, regionais e internacionais. 
+
+A partir de seus estudos de caso, a investigação de Borges destaca quatro características específicas destes grupos artísticos. Cabe portanto, mencionar essas características, que posteriormente serão utilizadas na análise da atuação do Thíasos. 
+
+O primeiro ponto que fica evidente através dos relatos apresentados no texto é o peso do fenómeno que pode ser descrito como um personalismo institucional. Os desafios e sucessos relatados pelos vários produtores culturais na investigação de Borges estão muito frequen
+
+Personificação
+
+dependendencia doa apoio de atores institucionais
+
+sucesso a partir do envolvimento ostensivo da comunidade - mais de uma atividade 
+
+internacionalização
 
 
 
@@ -80,14 +92,15 @@ O trabalho de Vera Borges é central para compreender o caso português dos grup
 4. Como funciona a produção de um espetáculo como Helena?
 5. Qual organização institucional do Thíasos, é uma associação formalizada? É sem fins lucrativos? Faz parte da UC?
 6. Sendo parte do CECH, há alguma vinculação temática ou alguma supervisão artística? Ou vocês possuem liberdade total?
-7. Como funciona o financiamento das atividades de vocês? Há algum apoio público recorrente? como por exemplo do IPDJ ou do IPAAJ
-8. Uma pergunta sobre o artista romântico
-9. Em quais espaços os Thíasos se apresenta?
-10. Há uma diferença entre os públicos destes espaços?
-11. Você sente que esses públicos diferentes se relacionam com o espetáculo de forma diferente?
-12. Você acha que essas diferenças são causadas pelo espaço ou pelo público? Isto é, se os públicos invertessem o espaço em que experienciam a peça, o resultado seria diferente?
-13. A relação dos autores com o espetáculo também muda a depender do espaço e público?
-14. Agora uma pergunta sobre um  tema um pouco distinto. Qual é a relação do Thíasos com outras associações artísticas e grupos de teatro? 
+7. De que forma você acha que a condição do Thíasos enquanto um teatro estudantil e universitário afeta sua produção e funcionamento? Quais são as principais vantagens e desafios que isso implica?
+8. Como funciona o financiamento das atividades de vocês? Há algum apoio público recorrente? como por exemplo do IPDJ ou do IPAAJ
+9. Uma pergunta sobre o artista romântico
+10. Em quais espaços os Thíasos se apresenta?
+11. Há uma diferença entre os públicos destes espaços?
+12. Você sente que esses públicos diferentes se relacionam com o espetáculo de forma diferente?
+13. Você acha que essas diferenças são causadas pelo espaço ou pelo público? Isto é, se os públicos invertessem o espaço em que experienciam a peça, o resultado seria diferente?
+14. A relação dos autores com o espetáculo também muda a depender do espaço e público?
+15. Agora uma pergunta sobre um  tema um pouco distinto. Qual é a relação do Thíasos com outras associações artísticas e grupos de teatro? 
 
 Oi
 
