@@ -75,6 +75,9 @@ A partir de seus estudos de caso, a investigação de Borges destaca quatro cara
 
 O primeiro ponto que fica evidente através dos relatos apresentados no texto é o peso do fenómeno que pode ser descrito como um personalismo institucional. Os desafios e sucessos relatados pelos vários produtores culturais na investigação de Borges estão muito frequentemente vinculados à relação pessoal entre o produtor cultural e lideranças locais. 
 
+Esta dinâmica resulta na personificação dos resultados de associações culturais desta natureza. Quando há uma apreço por lideranças locais e da organização, há sucesso e desenvolvimento. Por outro lado, quando esta relação é fragilizada ou quando o produtor se afasta da associação, a relação entre a entidade e as lideranças locais piora drasticamente. Essa condição é um empecilho para a longevidade 
+
+
 Personificação
 
 dependendencia doa apoio de atores institucionais
