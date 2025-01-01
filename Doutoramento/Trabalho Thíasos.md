@@ -67,7 +67,7 @@ Como mencionado pelos autores, no presente, as três modalidade de audiência se
 | **Tipo de Atenção**         | Alta atenção e intensidade emocional.                              | Atenção variável; momentos de alta concentração intercalados com distrações.             | Atenção fragmentada ou de baixa intensidade; misturada com outras atividades cotidianas.                 |
 | **Relação entre Audientes** | Interação presencial e senso de comunidade entre os participantes. | Relação social limitada; consumo mais individualizado e menos interação entre audientes. | Relação híbrida; os indivíduos são simultaneamente audiência e performers.                               |
 
-Finalmente, o terceiro elemento que compõe o enquadramento teórico deste trabalho pretende analisa 
+Finalmente, o terceiro elemento que compõe o enquadramento teórico deste trabalho pretende analisar o desenvolvimento e o funcionamento de grupos artísticos inseridos em comunidades territoriais e a natureza da relação entre produtores e consumidores deste tipo de arte.
 
 # Perguntas para a Bel
 1. Pergunta aberta sobre o Thíasos - o que é, como funciona, o que faz e desde quando
