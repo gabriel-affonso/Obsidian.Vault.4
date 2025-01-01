@@ -73,7 +73,7 @@ O trabalho de Vera Borges (2016 p. 235) é central para compreender o caso portu
 
 A partir de seus estudos de caso, a investigação de Borges destaca quatro características específicas destes grupos artísticos. Cabe portanto, mencionar essas características, que posteriormente serão utilizadas na análise da atuação do Thíasos. 
 
-O primeiro ponto que fica evidente através dos relatos apresentados no texto é o peso do fenómeno que pode ser descrito como um personalismo institucional. Os desafios e sucessos relatados pelos vários produtores culturais na investigação de Borges estão muito frequen
+O primeiro ponto que fica evidente através dos relatos apresentados no texto é o peso do fenómeno que pode ser descrito como um personalismo institucional. Os desafios e sucessos relatados pelos vários produtores culturais na investigação de Borges estão muito frequentemente vinculados à relação pessoal entre o produtor cultural e lideranças locais. 
 
 Personificação
 
