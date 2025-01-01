@@ -21,7 +21,7 @@ A configuração institucional e o público de seus espetáculos são duas carac
 
 A metodologia deste trabalho assume três etapas distintas. Primeiro, a elaboração de um enquadramento teórico a partir da produção teórica da sociologia do teatro. Em seguida, a realização de uma entrevista com a atual presidente da Associação Cultural Thíasos. Finalmente, as conclusões serão obtidas a partir da comparação das duas primeiras etapas.
 
-Enquadramento teórico
+# Enquadramento teórico
 
 O enquadramento teórico desta investigação decorre especialmente da noção dos Mundos da Arte, de Becker. Este conceito pretende destacar a arte como uma atividade, isto é, a arte enquanto produto resultante de um conjunto de processos institucionais, financeiros e emocionais. Este paradigma, assim como tradições materialistas da sociologia da cultura destacam a  influencia de fatores materiais e institucionais na produção artística, seja no seu tema ou forma. Através deste enquadramento, pretende-se explorar de que forma a conjuntura material e institucional em que o Thíasos se insere influencia sua produção, bem como de que forma esta conjuntura dialoga com a produção  teórica do tema.
 
