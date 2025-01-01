@@ -83,7 +83,7 @@ Finalmente, o terceiro elemento que compõe o enquadramento teórico deste traba
 11. Você sente que esses públicos diferentes se relacionam com o espetáculo de forma diferente?
 12. Você acha que essas diferenças são causadas pelo espaço ou pelo público? Isto é, se os públicos invertessem o espaço em que experienciam a peça, o resultado seria diferente?
 13. A relação dos autores com o espetáculo também muda a depender do espaço e público?
-14. 
+14. Agora uma pergunta sobre um  tema um pouco distinto. Qual é a relação do Thíasos com outr
 
 Oi
 
