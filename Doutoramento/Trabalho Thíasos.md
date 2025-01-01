@@ -60,6 +60,15 @@ Esse tipo de audiência é difuso pois a atenção dos indivíduos não é tão 
 Como mencionado pelos autores, no presente, as três modalidade de audiência se sobrepõe. Isto pois, apesar do paradigma da modernidade e suas tecnologias impactarem em maior ou menor medida todas as formas de audiência, audiências simples existem. A tabela abaixo pretende sistematizar as diferenças entre as categorias de audiências através do espaço, meio de transmissão, tipo de atenção e relação entre audientes.
 
 
+| **Critério**                | **Audiência Simples**                                              | **Audiência de Massa**                                                                   | **Audiência Difusa**                                                                                     |
+| --------------------------- | ------------------------------------------------------------------ | ---------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------- |
+| **Espaço**                  | Localizado e público (ex.: teatro, estádio, praça).                | Disperso e privado                                                                       | Mistura de público e privado; onipresente no cotidiano (ex.: redes sociais, protestos, música ambiente). |
+| **Meio de Transmissão**     | Direto e não mediado (os performers estão fisicamente presentes).  | Mediado por tecnologia (ex.: rádio e TV).                                                | Mediado e integrado; mídias onipresentes e interativas (ex.: smartphones, internet).                     |
+| **Tipo de Atenção**         | Alta atenção e intensidade emocional.                              | Atenção variável; momentos de alta concentração intercalados com distrações.             | Atenção fragmentada ou de baixa intensidade; misturada com outras atividades cotidianas.                 |
+| **Relação entre Audientes** | Interação presencial e senso de comunidade entre os participantes. | Relação social limitada; consumo mais individualizado e menos interação entre audientes. | Relação híbrida; os indivíduos são simultaneamente audiência e performers.                               |
+
+Finalmente, o terceiro elemento que compõe o enquadramento teórico deste trabalho pretende analisa 
+
 # Perguntas para a Bel
 1. Pergunta aberta sobre o Thíasos - o que é, como funciona, o que faz e desde quando
 2. Qual sua relação com o Thíasos, quando começou, como foi, como é
