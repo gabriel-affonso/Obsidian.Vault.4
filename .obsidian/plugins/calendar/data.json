@@ -1,10 +1,10 @@
 {
-  "shouldConfirmBeforeCreate": true,
+  "shouldConfirmBeforeCreate": false,
   "weekStart": "locale",
   "wordsPerDot": 250,
   "showWeeklyNote": true,
   "weeklyNoteFormat": "",
-  "weeklyNoteTemplate": "",
-  "weeklyNoteFolder": "",
+  "weeklyNoteTemplate": "Template/Templates/!Semana",
+  "weeklyNoteFolder": "Coisas/Semanas",
   "localeOverride": "system-default"
 }
