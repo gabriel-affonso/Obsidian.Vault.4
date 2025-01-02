@@ -93,7 +93,7 @@ Os três trabalhos discutidos ao longo desta secção de Becker, Abercrombie e L
 
 Uma vez concluído o enquadramento teórico deste trabalho, cabe iniciar a comparação deste ao estudo de caso. Como referido anteriormente, a metodologia empírica deste  trabalho é a realização de uma entrevista semi-aberta com Izabel de Rohan, atual presidente da Associação Cultural Thíasos. 
 O guião da entrevista conta com 15 perguntas, divididas em quatro secções, sendo elas:
-1. Organização Institucional da organização;
+1. Organização Institucional do Thíasos;
 2. Relação entre atores, encenadores e membros da produção;
 3. Relação entre o Thíasos e outras instituições;
 4. Relação entre o Thíasos e seus públicos;
