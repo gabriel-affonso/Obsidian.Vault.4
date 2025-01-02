@@ -23,4 +23,8 @@ tags:
 - [ ] Ir pra China
 - [ ] comer rodízio de sushi sozinho
 - [ ] apostar em um cassino
+- [ ] ter um SEIKO 5 SNXF05K1
+- [ ] zerar uma máquina da academia
+- [ ] ter um contrato
+- [ ] devolver o kirbo pro Arthur 
 - [ ] 
