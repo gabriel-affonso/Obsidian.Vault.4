@@ -13,6 +13,8 @@ status:
 nota:
   - ⭐⭐⭐⭐
 media: Livro
+género:
+  - Fantasia
 ---
 
 

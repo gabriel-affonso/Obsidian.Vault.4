@@ -11,14 +11,10 @@
             "id": "243513deacea4124",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Leiturinhas/Livros/Ninguém Escreve ao Coronel.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Ninguém Escreve ao Coronel"
+              "title": "New tab"
             }
           }
         ]
@@ -154,6 +150,16 @@
               "icon": "spreadsheet",
               "title": "Advanced Tables"
             }
+          },
+          {
+            "id": "8ab3f9ab9d740526",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {},
+              "icon": "calendar-with-checkmark",
+              "title": "Calendar"
+            }
           }
         ],
         "currentTab": 4
@@ -172,17 +178,29 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "obsidian-kanban:Create new board": false
     }
   },
   "active": "243513deacea4124",
   "lastOpenFiles": [
-    "Leiturinhas/Livros/Telling About Society.md",
-    "Leiturinhas/Índice de Leiturinhas.md",
-    "Leiturinhas/Livros/Legends & Lattes.md",
+    "2025-01-02.md",
+    "2025-W01.md",
+    "index.md",
     "Coisas/Semanas/Janeiro 2025/2025-01-02.md",
-    "Leiturinhas/Livros/Ficções.md",
     "Coisas/Semanas/Janeiro 2025/!Semana 1 Janeiro 2025.md",
+    "Template/Templates/Ficha de leitura.md",
+    "Template/Índice Template.md",
+    "Leiturinhas/Livros/The Way of The Kings.md",
+    "Leiturinhas/Livros/Telling About Society.md",
+    "Leiturinhas/Livros/Spying On Muslims In Colonial Mozambique, 1964-74.md",
+    "Leiturinhas/Livros/Ninguém Escreve ao Coronel.md",
+    "Leiturinhas/Livros/Modern Social Imaginaries.md",
+    "Leiturinhas/Livros/Legends & Lattes.md",
+    "Leiturinhas/Livros/Ficções.md",
+    "Leiturinhas/Livros/Babel.md",
+    "Leiturinhas/Livros/All about love.md",
+    "Leiturinhas/Índice de Leiturinhas.md",
     "Doutoramento/Trabalho Thíasos.md",
     "Doutoramento/Trabalhos - Doc S01.md",
     "Coisas/Semanas/Janeiro 2025/2024-12-30.md",
@@ -193,17 +211,6 @@
     "Doutoramento/Trabalho Thíasos.sync-conflict-20241230-213341-NKXW6QZ.md",
     "Coisas/Semanas/!Passado/Dezembro 2024/Orçamento Dezembro.md",
     "Coisas/Aleatoriedade/Depósito de Aleatoriedades/Mensagem Igor Guimarães.md",
-    "Coisas/Semanas/!Passado/Dezembro 2024/Semana 3 Dezembro/2024-12-19.md",
-    "Coisas/Semanas/!Passado/Dezembro 2024/Semana 2 Dezembro/2024-12-11.md",
-    "Coisas/Semanas/!Passado/Dezembro 2024/Semana 3 Dezembro/2024-12-17.md",
-    "Coisas/Semanas/!Passado/Dezembro 2024/Semana 2 Dezembro/2024-12-09.md",
-    "Coisas/Semanas/!Passado/Dezembro 2024/Semana 2 Dezembro/2024-12-12.md",
-    "Coisas/Semanas/!Passado/Dezembro 2024/Semana 2 Dezembro/2024-12-10.md",
-    "Coisas/Semanas/!Passado/Dezembro 2024/Semana 1 Dezembro/2024-12-02.md",
-    "Coisas/Semanas/!Passado/Dezembro 2024/Semana 3 Dezembro/2024-12-18.md",
-    "Coisas/Semanas/!Passado/Dezembro 2024/Semana 1 Dezembro/2024-12-05.md",
-    "Coisas/Semanas/!Passado/Dezembro 2024/Semana 3 Dezembro/2024-12-20.md",
-    "Coisas/Semanas/!Passado/Dezembro 2024/Semana 1 Dezembro/2024-12-04.md",
     "Coisas/Semanas/!Passado/Dezembro 2024/Semana 2 Dezembro/~syncthing~!Semana 2 Dezembro.md.tmp",
     "Coisas/Semanas/Janeiro 2025/~syncthing~!Semana 1 Janeiro 2025.md.tmp",
     "Doutoramento/~syncthing~Trabalho Thíasos.md.tmp",

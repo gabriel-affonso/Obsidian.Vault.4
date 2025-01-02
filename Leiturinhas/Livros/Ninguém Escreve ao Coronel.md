@@ -6,7 +6,9 @@ tags:
 autor: Gabriel García Márquez
 ano:
   - "1961"
-tema: 
+género:
+  - Realismo Fantástico
+  - Fantasia
 contexto:
   - Leiturinhas
 status:

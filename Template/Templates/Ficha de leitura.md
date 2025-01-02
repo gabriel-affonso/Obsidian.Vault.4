@@ -1,8 +1,9 @@
 ---
-date: {{date:YYYY-MM-DD}}
+date:
+  "{ date:YYYY-MM-DD }": 
 autor: 
 ano: 
-tema: 
+género: 
 contexto: 
 status: 
 tags:

@@ -4,8 +4,7 @@ hora: 15:10
 tags: 
 autor: 
 ano: 
-tema:
-  - Fantasia
+Género: Fantasia
 contexto:
   - Leiturinhas
 status:

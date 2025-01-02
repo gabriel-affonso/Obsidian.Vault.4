@@ -8,6 +8,9 @@ ISBN: " 978-0-06-302142-6"
 status:
   - Ler
 media: Livro
+género:
+  - Fantasia
+  - Dark Academia
 ---
 
 Que isso cara. Essa mulher é genial
