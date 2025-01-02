@@ -7,16 +7,16 @@ tags:
 
 
 # Semana
-|                | **Dia** | Manhã | Almoço | Tarde | Noite   |        |
-| -------------- | ------- | ----- | ------ | ----- | ------- | ------ |
-| [[2024-12-30]] | Segunda |       |        |       |         | Bíceps |
-| [[2024-12-31]] | Terça   |       |        |       | Japonês |        |
-|                | Quarta  |       |        |       |         |        |
-| [[2025-01-02]] | Quinta  |       |        |       |         |        |
-|                | Sexta   |       |        |       |         |        |
-|                | Sábado  |       |        |       |         |        |
-|                | Domingo |       |        |       |         |        |
-|                |         |       |        |       |         |        |
+|                | **Dia** | Manhã | Almoço | Tarde | Noite   |               |
+| -------------- | ------- | ----- | ------ | ----- | ------- | ------------- |
+| [[2024-12-30]] | Segunda |       |        |       |         | Bíceps        |
+| [[2024-12-31]] | Terça   |       |        |       | Japonês |               |
+|                | Quarta  |       |        |       |         |               |
+| [[2025-01-02]] | Quinta  |       |        |       |         | Perna         |
+|                | Sexta   |       |        |       |         | Peito e Ombro |
+|                | Sábado  |       |        |       |         |               |
+|                | Domingo |       |        |       |         |               |
+|                |         |       |        |       |         |               |
 
 # Pendências
 - [x] cortar cabelo
