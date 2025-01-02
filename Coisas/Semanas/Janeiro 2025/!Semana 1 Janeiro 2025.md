@@ -12,7 +12,7 @@ tags:
 | [[2024-12-30]] | Segunda |       |        |       |         | Bíceps |
 | [[2024-12-31]] | Terça   |       |        |       | Japonês |        |
 |                | Quarta  |       |        |       |         |        |
-|                | Quinta  |       |        |       |         |        |
+| [[2025-01-02]] | Quinta  |       |        |       |         |        |
 |                | Sexta   |       |        |       |         |        |
 |                | Sábado  |       |        |       |         |        |
 |                | Domingo |       |        |       |         |        |
@@ -21,7 +21,7 @@ tags:
 # Pendências
 - [x] cortar cabelo
 - [x] switch da Bel 
-- [ ] reveion 
+- [x] reveion 
 - [ ] trabalhar 
 
 
