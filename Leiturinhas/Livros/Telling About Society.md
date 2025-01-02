@@ -3,8 +3,9 @@ date: 2024-12-19
 autor: Howard Becker
 ano:
   - "2007"
-tema: 
-contexto: 
+género: Sociologia da Arte,
+contexto:
+  - Cadeira Teatro
 status:
   - Lido
 tags:
