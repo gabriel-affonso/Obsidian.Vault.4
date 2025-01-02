@@ -4,19 +4,21 @@
   "hasMigratedWeeklyNoteSettings": true,
   "daily": {
     "format": "",
-    "template": "",
-    "folder": ""
+    "template": "Template/Templates/Nova Nota.md",
+    "folder": "Coisas/Semanas/2025",
+    "enabled": true
   },
   "weekly": {
     "format": "",
-    "folder": "Coisas/Semanas",
+    "folder": "Coisas/Semanas/2025",
     "template": "Template/Templates/!Semana",
     "enabled": true
   },
   "monthly": {
     "format": "",
-    "template": "",
-    "folder": ""
+    "template": "Template/Templates/Template Orçamento.md",
+    "folder": "Coisas/Semanas/2025",
+    "enabled": true
   },
   "quarterly": {
     "format": "",

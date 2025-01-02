@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Coisas/Semanas/Janeiro 2025/Semana 1/2025-01-02.md",
+                "file": "Doutoramento/Trabalho Thíasos.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2025-01-02"
+              "title": "Trabalho Thíasos"
             }
           }
         ]
@@ -170,7 +170,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 427.5
+    "width": 427.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -183,47 +184,48 @@
       "command-palette:Open command palette": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
       "obsidian-kanban:Create new board": false,
-      "periodic-notes:Open this week": false
+      "periodic-notes:Open this week": false,
+      "periodic-notes:Open today": false
     }
   },
   "active": "243513deacea4124",
   "lastOpenFiles": [
-    "Coisas/Semanas/2025-W01.md",
-    "Coisas/Semanas/!Passado/Dezembro 2024/Semana 4 Dezembro/!Semana 4 Dezembro.md",
+    "Doutoramento/Trabalhos - Doc S01.md",
+    "Coisas/Semanas/2025/Janeiro 2025/Semana 1/2025-W01.md",
+    "ADovpm ADotpm.md",
+    "Coisas/Semanas/2025/Janeiro 2025/Semana 1/2025-01-02.md",
+    "Coisas/Semanas/2025/Janeiro 2025/Semana 1/2024-12-30.md",
+    "Coi0am0/000amnam0/{{2024}}/{{December}}/{{2024}}-1{{01}}.md",
+    "Coi0am0/000amnam0/{{2024}}/{{December}}",
+    "Coi0am0/000amnam0/{{2024}}",
+    "Coi0am0/000amnam0",
+    "Coi0am0",
+    "Coi0am0/000amnam0/{{2024}}/{{December}}/2024-W01.md",
+    "Coi0am0/000amnam0/2024/December/2024-W01.md",
+    "Coi0am0/000amnam0/2024/December",
+    "Coi0am0/000amnam0/2024",
+    "Leiturinhas/Índice de Leiturinhas.md",
+    "Coisas/Semanas/2025",
+    "Coisas/Semanas/!Passado/2025",
+    "Pessoas/2025-W01.md",
+    "Coisas/Semanas/2024/Dezembro 2024/Semana 4 Dezembro/!Semana 4 Dezembro.md",
     "Coisas/Semanas/2024-W52.md",
-    "Coisas/Semanas/Janeiro 2025/Semana 1/2024-12-30.md",
     "Coisas/Semanas/Janeiro 2025/!Semana 1 Janeiro 2025.md",
-    "Coisas/Semanas/Janeiro 2025/Semana 1",
-    "Coisas/Semanas/Janeiro 2025/Semana 1/2025-01-02.md",
+    "Coisas/Semanas/2025/Janeiro 2025/Semana 1",
     "Semanas/2025-W01.md",
     "Semanas",
-    "Coisas/Semanas/!Passado/Dezembro 2024/Semana 3 Dezembro/2024-12-18.md",
+    "Coisas/Semanas/2024/Dezembro 2024/Semana 3 Dezembro/2024-12-18.md",
     "2025-01-01.md",
     "2024-12-26.md",
-    "Coisas/Semanas/!Passado/Dezembro 2024/Semana 3 Dezembro/2024-12-19.md",
-    "Coisas/Semanas/Janeiro 2025/Semana 1/2024-12-31.md",
+    "Coisas/Semanas/2024/Dezembro 2024/Semana 3 Dezembro/2024-12-19.md",
+    "Coisas/Semanas/2025/Janeiro 2025/Semana 1/2024-12-31.md",
     "2025-01-02.md",
-    "2025-W01.md",
     "index.md",
     "Template/Templates/Ficha de leitura.md",
     "Template/Índice Template.md",
     "Leiturinhas/Livros/The Way of The Kings.md",
     "Leiturinhas/Livros/Telling About Society.md",
     "Leiturinhas/Livros/Spying On Muslims In Colonial Mozambique, 1964-74.md",
-    "Leiturinhas/Livros/Ninguém Escreve ao Coronel.md",
-    "Leiturinhas/Livros/Modern Social Imaginaries.md",
-    "Leiturinhas/Livros/Legends & Lattes.md",
-    "Leiturinhas/Livros/Ficções.md",
-    "Leiturinhas/Livros/Babel.md",
-    "Leiturinhas/Livros/All about love.md",
-    "Coisas/Aleatoriedade/~syncthing~Lista de Achievements.md.tmp",
-    "Coisas/Semanas/!Passado/Dezembro 2024/Semana 2 Dezembro/~syncthing~!Semana 2 Dezembro.md.tmp",
-    "Coisas/Semanas/Janeiro 2025/~syncthing~!Semana 1 Janeiro 2025.md.tmp",
-    "Doutoramento/~syncthing~Trabalho Thíasos.md.tmp",
-    "Coisas/Semanas/Janeiro 2025",
-    "Coisas/Semanas/!Passado/Dezembro 2024/Semana 4 Dezembro/~syncthing~!Semana 4 Dezembro.md.tmp",
-    "Coisas/Semanas/!Passado/Dezembro 2024/Semana 4 Dezembro",
-    "Coisas/Semanas/!Passado/Dezembro 2024/Semana 3 Dezembro",
     "Untitled.canvas",
     "Pasted image 20241209163924.png",
     "Pasted image 20241205163110.png",

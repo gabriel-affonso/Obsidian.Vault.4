@@ -87,6 +87,16 @@ Finalmente, a quarta característica identificada, ainda que com menor destaque,
 
 As quatro características de grupos artísticos situados em pequenas comunidades, identificados por Borges, compõe este enquadramento teórico para analisar o funcionamento e a relação do Thíasos com atores locais, internacionais e a comunidade em que se inserem. Esta comparação é particularmente profícua para compreender as vantagens e desafios específicos que a condição enquanto um grupo de teatro estudantil implicam. 
 
+Os três trabalhos discutidos ao longo desta secção de Becker, Abercrombie e Longhurst e Borges oferecem as bases para a análise pretendida para este trabalho. Cada trabalho analisa uma dimensão diferente da produção artística e contribui para um amplo entendimento da produção teatral do Thíasos. A noção de Mundos da Arte, de Becker, enquadra das relações entre diferentes etapas de produção teatral. A categorização das audiências para Abercrombie e Longhurst define as relações entre produtores e audientes. Finalmente, o trabalho de Borges permite compreensão da importante relação entre grupos teatrais e a comunidade em que se inserem. A partir desta lente de análise tríplice, orientada para os produtores, audientes e comunidade, pretende-se elaborar um diagnóstico das relações de produção e consumo dos espetáculos da Associação Cultural Thíasos. 
+
+# Entrevista
+
+Uma vez concluído o enquadramento teórico deste trabalho, cabe iniciar a comparação deste ao estudo de caso. Como referido anteriormente, a metodologia empírica deste  trabalho é a realização de uma entrevista semi-aberta com Izabel de Rohan, atual presidente da Associação Cultural Thíasos. 
+O guião da entrevista conta com 15 perguntas, divididas em quatro secções, sendo elas:
+1. Organização Institucional da organização;
+2. Relação entre atores, encenadores e membros da produção;
+3. Relação entre o Thíasos e outras instituições;
+4. Relação entre o Thíasos e seus públicos;
 
 
 Personificação
