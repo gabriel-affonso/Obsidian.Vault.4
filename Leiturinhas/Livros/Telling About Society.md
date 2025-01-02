@@ -6,7 +6,7 @@ ano:
 tema: 
 contexto: 
 status:
-  - Ler
+  - Lido
 tags:
   - Bibliografia
 media: Capítulo

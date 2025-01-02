@@ -10,12 +10,15 @@ tema:
 contexto:
   - Leiturinhas
 status:
-  - Ler
+  - Lido
 nota:
   - ⭐⭐⭐⭐⭐
 media: Livro
+Terminado: 2025-01-02
 ---
+Simplesmente muito bom
 
+Acho que as minhas histórias favoritas foram a do irlandes, a do cara que criou o filho e a da enciclopédia. 
 
 
 
