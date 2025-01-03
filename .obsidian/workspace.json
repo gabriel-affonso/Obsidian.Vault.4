@@ -25,14 +25,12 @@
             "id": "df4ae5a68af1ec1f",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "Coisas/Semanas/2025/Janeiro 2025/Semana 1/2025-01-03.md",
-                "mode": "source",
-                "source": true
+                "file": "logo.png"
               },
-              "icon": "lucide-file",
-              "title": "2025-01-03"
+              "icon": "lucide-image",
+              "title": "logo"
             }
           },
           {
@@ -50,7 +48,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -216,11 +214,11 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "1da5190dcbde9473",
+  "active": "95fb0fd6edbd311d",
   "lastOpenFiles": [
-    "conflict-files-obsidian-git.md",
     "Coisas/Semanas/2025/Janeiro 2025/Semana 1/2025-01-03.md",
-    "logo do switch.png",
+    "conflict-files-obsidian-git.md",
+    "logo.png",
     "Coisas/Semanas/2025/Janeiro 2025/Semana 1/~syncthing~2025-01-03.md.tmp",
     "Doutoramento/Trabalhos - Doc S01.md",
     "Coisas/Semanas/2025/Janeiro 2025/Semana 1/2025-W01.md",
