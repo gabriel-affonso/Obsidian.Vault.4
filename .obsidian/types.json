@@ -9,6 +9,7 @@
     "tema": "multitext",
     "ano": "multitext",
     "visibilidade": "multitext",
-    "nota": "multitext"
+    "nota": "multitext",
+    "Género": "multitext"
   }
 }
