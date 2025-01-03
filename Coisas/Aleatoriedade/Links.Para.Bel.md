@@ -52,6 +52,9 @@ https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunit
 
 # Trabalhos
 
+03/01/2025
+https://www.linkedin.com/jobs/view/4112271171/?trackingId=CABTXqT1TwmRKkLWgVqcqQ%3D%3D&refId=Sw4TbbEVQdmE6eO1hgro2w%3D%3D&midToken=AQGQw_gvNVPRPA&midSig=29emstVlldtXA1&trk=eml-jobs_jymbii_digest-job_card-0-jobcard_body&trkEmail=eml-jobs_jymbii_digest-job_card-0-jobcard_body-null-a4p75x~m5guxkl3~fb-null-null&eid=a4p75x-m5guxkl3-fb&otpToken=MTQwNDFjZTUxNzJiYzBjNGJkMjQwNGVkNDUxYmVlYjU4YWNlZDQ0ODk5YWY4ZDYxNmNjNTAwNmM0ZjViNWZmNGZmZDVkMGU5NDRlNGMzZmMwMThjY2RhMTgxZTgxODM0NWVmYzFlNzQ0OGI2NjY2Y2UwZGM0NDViLDEsMQ%3D%3D
+
 19/12/2024
 
 https://www.net-empregos.com/pesquisa-empregos.asp?page=1&categoria=0&zona=0&tipo=0&cidade=Coimbra

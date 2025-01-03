@@ -22,18 +22,6 @@
             }
           },
           {
-            "id": "df4ae5a68af1ec1f",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "logo.png"
-              },
-              "icon": "lucide-image",
-              "title": "logo"
-            }
-          },
-          {
             "id": "1da5190dcbde9473",
             "type": "leaf",
             "state": {
@@ -104,7 +92,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 304.5
+    "width": 304.5,
+    "collapsed": true
   },
   "right": {
     "id": "3fc30dc42cda4f7f",
@@ -214,16 +203,17 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "95fb0fd6edbd311d",
+  "active": "1da5190dcbde9473",
   "lastOpenFiles": [
+    "Doutoramento/Trabalho Thíasos.md",
+    "Coisas/Aleatoriedade/Links.Para.Bel.md",
+    "logo.png",
     "Coisas/Semanas/2025/Janeiro 2025/Semana 1/2025-01-03.md",
     "conflict-files-obsidian-git.md",
-    "logo.png",
     "Coisas/Semanas/2025/Janeiro 2025/Semana 1/~syncthing~2025-01-03.md.tmp",
     "Doutoramento/Trabalhos - Doc S01.md",
     "Coisas/Semanas/2025/Janeiro 2025/Semana 1/2025-W01.md",
     "Coisas/Semanas/2025/Janeiro 2025/Semana 1/2025-01-02.md",
-    "Doutoramento/Trabalho Thíasos.md",
     "Coisas/Semanas/2025/Janeiro 2025/Semana 1/2025-W01.sync-conflict-20250103-105253-7TQ5V76.md",
     "Coisas/Semanas/2025/Janeiro 2025/Semana 1/2025-W01.sync-conflict-20250102-214434-7TQ5V76.md",
     "Coisas/Semanas/2025/Janeiro 2025/Semana 1/2025-01-02.sync-conflict-20250103-105253-7TQ5V76.md",
