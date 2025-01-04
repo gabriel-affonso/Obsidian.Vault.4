@@ -8,22 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "243513deacea4124",
-            "type": "leaf",
-            "state": {
-              "type": "kanban",
-              "state": {
-                "file": "Untitled Kanban.md",
-                "kanbanViewState": {
-                  "kanban-plugin": "board",
-                  "list-collapse": []
-                }
-              },
-              "icon": "lucide-trello",
-              "title": "Untitled Kanban"
-            }
-          },
-          {
             "id": "863890f2dbdfb095",
             "type": "leaf",
             "state": {
@@ -37,8 +21,7 @@
               "title": "Trabalho Thíasos"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"

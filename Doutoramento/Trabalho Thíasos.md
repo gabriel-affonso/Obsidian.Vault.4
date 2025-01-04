@@ -101,7 +101,9 @@ O guião da entrevista conta com 15 perguntas, divididas em quatro secções, se
 3. Relação entre o Thíasos e outras instituições;
 4. Relação entre o Thíasos e seus públicos;
 
+Como indicado no guião, a primeira secção da entrevista pretendeu compreender a estrutura organizativa do Thíasos. A Associação, que surge informalmente em 1991 e se consolida institucionalmente em 1997 está legalmente formada enquanto uma associação sem fins-lucrativos, vinculada ao Centro de Estudos Clássicos e Humanísticos da Faculdade de LEtras da Universidade de Coimbra. Desde sua formação a associação possuia vinculos com o CECH, isto pois, seus fundadores eram estudantes da licenciatura em Estudos Clássicos, e posteriormente tornaram-se investigadores e professores do Centro. 
 
+A organização possui estrutura bastante semelhante à outras organizações estudantis e sem-fins lucrativos, com três órgãos, Presidência, Mesa da Assembléia Gera
 Personificação
 
 dependendencia doa apoio de atores institucionais
