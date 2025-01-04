@@ -103,7 +103,15 @@ O guião da entrevista conta com 15 perguntas, divididas em quatro secções, se
 
 Como indicado no guião, a primeira secção da entrevista pretendeu compreender a estrutura organizativa do Thíasos. A Associação, que surge informalmente em 1991 e se consolida institucionalmente em 1997 está legalmente formada enquanto uma associação sem fins-lucrativos, vinculada ao Centro de Estudos Clássicos e Humanísticos da Faculdade de LEtras da Universidade de Coimbra. Desde sua formação a associação possuia vinculos com o CECH, isto pois, seus fundadores eram estudantes da licenciatura em Estudos Clássicos, e posteriormente tornaram-se investigadores e professores do Centro. 
 
-A organização possui estrutura bastante semelhante à outras organizações estudantis e sem-fins lucrativos, com três órgãos, Presidência, Mesa da Assembléia Gera
+A organização possui estrutura bastante semelhante à outras organizações estudantis e sem-fins lucrativos, com três órgãos, Presidência, Mesa da Assembleia Geral e conselho Fiscal. A entrevistada, Izabel de Rohan, assumiu funções enquanto presidente em XXXX, junto de sua lista.
+
+A vinculação da Associação com o CECH fica evidenciada na composição dos órgãos sociais. na presente direção, tanto a Mesa da Assembleia quanto o Conselho Fiscal são presididos por investigadores e professores do centro. Sobre isto, Izabel de Rohan afirma que há uma relação de confiança mútua entre a presidência e os outros órgãos. 
+
+Izabel de Rohan: Na prática, os professores e investigadores do CECH desempenham um papel na prestação de contas da Associação e no apoio institucional no contato com outras entidades, mas não têm nenhuma inferência direta no nosso dia-a-dia e em decisões artísticas. 
+
+Ainda na discussão organizacio
+
+
 Personificação
 
 dependendencia doa apoio de atores institucionais
