@@ -109,7 +109,12 @@ A vinculação da Associação com o CECH fica evidenciada na composição dos �
 
 Izabel de Rohan: Na prática, os professores e investigadores do CECH desempenham um papel na prestação de contas da Associação e no apoio institucional no contato com outras entidades, mas não têm nenhuma inferência direta no nosso dia-a-dia e em decisões artísticas. 
 
-Ainda na discussão organizacio
+Ainda na discussão organizacional, Izabel discorreu sobre a relação entre a presidência da Associação e a produção e encenação de cada espetáculo.
+
+Izabel de Rohan: O Thíasos funciona em duas vertentes, distintas, ainda que com várias sobreposições. Nós temos a presidência, que é responsável pela gestão do orçamento, controle da agenda e outros assuntos organizacionais, e a direção de cada espetáculo. Naturalmente, muitas das pessoas que desempenham funções na presidencia também fazem parte dos espetáculos, seja na produção, encenação ou enquanto atores. 
+No meu caso, na próxima peça que faremos, uma adaptação de Helena, eu sou a encenadora. Por isso, eu acabo por coordenar essas duas dimensões da associação neste momento. Mas isso não é sempre assim, e eu nem acho que seja o ideal, já que acaba gerando uma concentração de responsabilidades.
+
+Diante desta estrutura dupla, I
 
 
 Personificação
