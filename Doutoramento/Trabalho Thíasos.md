@@ -84,11 +84,9 @@ Juntas, a tendência para o personalismo e para a dependência de apoios explica
 A terceira característica identificada é o sucesso a partir do envolvimento ostensivo da comunidade. Todos os três relatos destacaram a centralidade do envolvimento com a comunidade no sucesso das associações. Alguns produtores culturais salientam, inclusive, que a organização só passou a prosperar quando a comunidade se sentiu efetivamente incluída (2016 p. 242). Como forma de integrar a comunidade de maneira mais ostensiva, muitas destas organizações, como o Teatro Viriato e a Casa d'Orfeu, gradualmente passaram a realizar outras atividades, como aulas de artes para crianças e jovens, workshops e outros eventos comunitários (2016 p. 241, 245). 
 
 Finalmente, a quarta característica identificada, ainda que com menor destaque, é o potencial para a internacionalização destes grupos. Borges identificou, através de sua investigação, grandes potenciais para a internacionalização de grupos artísticos comunitários. A criação de redes de apoio e intercâmbio internacionais entre várias organizações artísticas comunitárias oferece importante contributo para a concretização de seus projetos e seu fortalecimento institucional.
-<<<<<<< HEAD
 
 As quatro características de grupos artísticos situados em pequenas comunidades, identificados por Borges, compõe este enquadramento teórico para analisar o funcionamento e a relação do Thíasos com atores locais, internacionais e a comunidade em que se inserem. Esta comparação é particularmente profícua para compreender as vantagens e desafios específicos que a condição enquanto um grupo de teatro estudantil implicam. 
-=======
->>>>>>> https/master
+
 
 As quatro características de grupos artísticos situados em pequenas comunidades, identificados por Borges, compõe este enquadramento teórico para analisar o funcionamento e a relação do Thíasos com atores locais, internacionais e a comunidade em que se inserem. Esta comparação é particularmente profícua para compreender as vantagens e desafios específicos que a condição enquanto um grupo de teatro estudantil implicam. 
 
