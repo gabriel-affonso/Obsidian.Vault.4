@@ -124,7 +124,13 @@ Depois disto começa a produção mais concreta, com o casting e as etapas que s
 Depois disso temos os ensaios propriamente ditos. Por norma temos 5 meses de ensaios, com cerca de 5 horas de ensaios semanais. Concomitante a isso, a equipe técnica e a produção fazem a montagem. 
 Finalmente, o sexto passo é a apresentação propriamente dita. 
 
-As seis etapas da produção do Thíasos, apesar de apresentarem algumas especificações, decorrentes de sua condição enquanto teatro universitário e de sua temática da antiguidade, pouco difere de outras associações de teatro. Ao comparar essa linha de trabalho com os Mundos da Arte, de Becker, o elemento que mais se diferencia é a 
+As seis etapas da produção do Thíasos, apesar de apresentarem algumas especificações, decorrentes de sua condição enquanto teatro universitário e de sua temática da antiguidade, pouco difere de outras associações de teatro. Ao comparar essa linha de trabalho com os Mundos da Arte, de Becker, o elemento que mais se diferencia é o contraste entre organizações profissionais e amadoras. 
+Em razão da condição sem-fins lucrativos e amadora do Thíasos, todos os processo são feitos internamente e há um tempo reduzido entre a idealização, elaboração e apresentação dos espetáculos.
+
+Em outra questão, Izabel teve a oportunidade de explorar os limites e vantagens de uma associação estudantil de teatro, bem como de que forma o Thíasos lida com esses elementos. 
+
+Izabel de Rohan: O Thíasos não tem nenhum requisito ou barreira para a participação. Por isso nós temos atores e membros da 
+
 
 
 Personificação
