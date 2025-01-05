@@ -114,7 +114,10 @@ Ainda na discussão organizacional, Izabel discorreu sobre a relação entre a p
 Izabel de Rohan: O Thíasos funciona em duas vertentes, distintas, ainda que com várias sobreposições. Nós temos a presidência, que é responsável pela gestão do orçamento, controle da agenda e outros assuntos organizacionais, e a direção de cada espetáculo. Naturalmente, muitas das pessoas que desempenham funções na presidencia também fazem parte dos espetáculos, seja na produção, encenação ou enquanto atores. 
 No meu caso, na próxima peça que faremos, uma adaptação de Helena, eu sou a encenadora. Por isso, eu acabo por coordenar essas duas dimensões da associação neste momento. Mas isso não é sempre assim, e eu nem acho que seja o ideal, já que acaba gerando uma concentração de responsabilidades.
 
-Diante desta estrutura dupla, I
+Uma vez apresentada a estrutura do Thíasos, Izabel passou a discorrer sobre a série de processos técnicos e artísticos que decorrem entre a idealização, produção e apresentação de um espetáculo. 
+
+Izabel de Rohan: Então, a primeira parte deste processo é a submissão do projeto para o espetáculo. Alguém precisa faze-lo chegar à presidência. O caso atual, da Helena, é um pouco diferente, já que o projeto veio de dentro da presidência, mas o princípio mantém-se. Uma vez submetido, ele tem de ser aprovado por toda a presidência. 
+A segunda etapa é a escolha do diretor. Aqui, dois caminhos são possíveis. O diret
 
 
 Personificação
