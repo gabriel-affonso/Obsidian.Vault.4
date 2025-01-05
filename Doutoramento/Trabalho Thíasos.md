@@ -194,7 +194,11 @@ A partir da comparação entre o enquadramento teórico deste trabalho e a exper
 Finalmente, as experiências comunitárias em Portugal, discutidas por Borges, em muito se parecem com às do Thíasos, ainda que o contexto universitário implique um conjunto de particularidades.
 
 No que toca as diferenças entre o enquadramento teórico e o estudo de caso aqui discutido, destacamos 3 que merecem maior destaque. 
-A primeira diz respeito à ênfase analítica de Becker em Mundos da Arte profissionais. Em razão deste foco, o potencial explicativo deste paradigma é mitigado em relações de produção e performance amadoras. Isto pois o trabalho de Becker engloba sobretudo motivações de natureza financeira e artísticas. Como referido por Izabel de Rohan, 
+A primeira diz respeito à ênfase analítica de Becker em Mundos da Arte profissionais. Em razão deste foco, o potencial explicativo deste paradigma é mitigado em relações de produção e performance amadoras. Isto pois o trabalho de Becker engloba sobretudo motivações de natureza financeira e artísticas. Contudo, como referido por Izabel de Rohan, organizações de teatro amadoras, especialmente estudantis, podem apresentar motivações distintas, marcadas pela vontade de socialização e exploração individual. 
+A experiência do Thíasos, assim como de outras associações artísticas e culturais estudantis,  pode contribuir para a complexificação do paradigma dos Mundos da Arte, de forma a integrar outras categorias de envolvimento entre estes sujeitos e seus respectivos mundos. 
+O segundo destaque refere-se ao enquadramento das audiências de Abercrombie e Longhurst. Como discutido na experiência deste estudo de caso, a categorização das audiências para os atores acaba por assumir algumas convenções de consumo e audiência como universais, ou pelo menos consensuais. A interação do Thíasos com audiências não ´´habituadas´´ destaca a diferença entre três audiências simples. 
+Apesar de muito útil para categorizar a relação entre audientes e meios de consumo cultural, esta investigação constribui para salietnar algumas de suas limitações, essencial para o bom uso deste enquadramento. 
+Finalmente, o terceiro distanciamento entre o enquadramento teórico desenvolvido e o estudo de caso refere-se ao trabalho de Borges e a relação do Thíasos com suas comunidades. Mais do que uma contestação ou refutação, este distanciamento pretende contribuir para entendimento mais abrangente acerca dos grupos de teatro comunitário. 
 
 
 1 - diferenla na motivação em becker
