@@ -226,20 +226,19 @@ internacionalização
 
 # Perguntas para a Bel
 1. Pergunta aberta sobre o Thíasos - o que é, como funciona, o que faz e desde quando
-2. Qual sua relação com o Thíasos, quando começou, como foi, como é
-3. Quais são os atuais planos para o Thíasos
+2. Qual sua relação com o Thíasos, quando começou, como foi, como é?
+3. Quais são os atuais planos para o Thíasos?
 4. Como funciona a produção de um espetáculo como Helena?
 5. Qual organização institucional do Thíasos, é uma associação formalizada? É sem fins lucrativos? Faz parte da UC?
 6. Sendo parte do CECH, há alguma vinculação temática ou alguma supervisão artística? Ou vocês possuem liberdade total?
 7. De que forma você acha que a condição do Thíasos enquanto um teatro estudantil e universitário afeta sua produção e funcionamento? Quais são as principais vantagens e desafios que isso implica?
 8. Como funciona o financiamento das atividades de vocês? Há algum apoio público recorrente? como por exemplo do IPDJ ou do IPAAJ
-9. Uma pergunta sobre o artista romântico
 10. Em quais espaços os Thíasos se apresenta?
 11. Há uma diferença entre os públicos destes espaços?
 12. Você sente que esses públicos diferentes se relacionam com o espetáculo de forma diferente?
 13. Você acha que essas diferenças são causadas pelo espaço ou pelo público? Isto é, se os públicos invertessem o espaço em que experienciam a peça, o resultado seria diferente?
 14. A relação dos autores com o espetáculo também muda a depender do espaço e público?
-15. Agora uma pergunta sobre um  tema um pouco distinto. Qual é a relação do Thíasos com outras associações artísticas e grupos de teatro? 
+15. Qual é a relação do Thíasos com outras associações artísticas e grupos de teatro? 
 
 Oi
 
