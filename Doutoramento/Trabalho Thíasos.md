@@ -185,7 +185,12 @@ Das duas, uma, ou as pessoas acabam achando que o nosso trabalho é complicado d
 
 A reflexão de Izabel sobre a inserção do Thíasos dentro de um ecosistema organizacional está muito próxima da reflexão elaborada por Borges, acerca do teatro comunitário (2016 p. 246). Organizações como esta têm muito a ganhar a partir do fortalecimento de vínculos comunitários. 
 
-É possível identificar alguns dos desafios referidos nos estudos de casos de Borges no caso do Thíasos, como a dependência para com alguns atores com contatos ou destaque institucional, bem como os casos de sucesso, como a cooperação entre entidades artísticas e a necessidade de construção de públicos 
+É possível identificar alguns dos desafios referidos nos estudos de casos de Borges no caso do Thíasos, como a dependência para com alguns atores com contatos ou destaque institucional, bem como os casos de sucesso, como a cooperação entre entidades artísticas e a necessidade de construção de públicos através da continuidade do trabalho. 
+
+Há, contudo, dois desafios  referidos por Izabel que não são evidenciados nos estudos de caso de Borges. São eles: o desafios de manter os membros da associação engajados, diante de uma ampla oferta de atividades universitárias; e o preconceito compartilhado por alguns grupos pela temática explorada pelos espetáculos do Thíasos. 
+
+# Conclusão
+A partir da comparação entre o enquadramento teórico deste trabalho e a experiência da Associação Cultural Thíasos, foi possível identificar um conjunto de  aproximações e distanciamentos. Assim como os Mundos da Arte de Becker, os espetáculos do Thíasos também passam por um conjunto de processo que envolvem grande número de pessoas. Sobre as relações entre performers e audiência, a reflexão de Abercrombie e Longhurst sobre o impacto dos espaços e media nos audiêntes foi demonstrado através da experiência do Thíasos e seus três públicos. 
 
 
 
