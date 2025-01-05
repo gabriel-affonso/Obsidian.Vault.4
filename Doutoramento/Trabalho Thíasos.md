@@ -129,7 +129,11 @@ Em razão da condição sem-fins lucrativos e amadora do Thíasos, todos os proc
 
 Em outra questão, Izabel teve a oportunidade de explorar os limites e vantagens de uma associação estudantil de teatro, bem como de que forma o Thíasos lida com esses elementos. 
 
-Izabel de Rohan: O Thíasos não tem nenhum requisito ou barreira para a participação. Por isso nós temos atores e membros da 
+Izabel de Rohan: O Thíasos não tem nenhum requisito ou barreira para a participação. Por isso nós temos atores e membros da produção que já sairam da UC, ou mesmo nunca passaram por aqui. Apesar disto, mais de 90% dos nossos membros são estudantes da UC e a maior parte deles não teve contato com atuação ou produção teatral antes do Thíasos. 
+
+A condição de estudantes e a pouca experiência naturalmente levanta algumas questões, a começar pela disponibilidade. Apesar do grande engajamento dos atores, o Thíasos nunca vai ser a prioridade única na vida deles. A faculdade e a vida social sempre estão por ali. Outra questão é que muitos estudantes não vivem em Coimbra, o que limita nosso tempo de ensaio em finais de semanas e férias da universidade. 
+
+Uma outra coisa que precisa ser tida em conta é que, as vezes, os estudantes não integram o Thíasos pela vontade latente de fazer arte ou de gerar reflexões artísticas, mas para conhecer pessoas novas, socializar ou sair da zona de conforto - o Thíasos também deve cumprir esse papel. 
 
 
 
