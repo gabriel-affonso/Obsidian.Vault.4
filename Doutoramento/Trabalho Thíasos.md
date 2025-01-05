@@ -135,6 +135,12 @@ A condição de estudantes e a pouca experiência naturalmente levanta algumas q
 
 Uma outra coisa que precisa ser tida em conta é que, as vezes, os estudantes não integram o Thíasos pela vontade latente de fazer arte ou de gerar reflexões artísticas, mas para conhecer pessoas novas, socializar ou sair da zona de conforto - o Thíasos também deve cumprir esse papel. 
 
+Essa conjuntura também exige da direção uma preocupação com aspetos pedagógicos da encenação. É essencial ter sempre em mente o quão jovens são todos os atores - os mais velhos têm cerca de 23 anos - e como aquela é a primeira ou segunda vez em que eles performam em um palco. 
+
+Sobre questões temáticas e artísticas, não acho que haja especial condicionamento por sermos estudantes. Nossas peças acabam sendo uma ponte, entre a antiguidade evidente no texto, e a presente da nossa adaptação. 
+
+Através desta reflexão, Izabel de Rohan destacou algumas peculiaridades do teatro produzido sem-fins lucrativos, especialmente em casos estudantis. Essas questões dialogam com Becker e seu paradigma, uma vez que ap
+
 
 
 Personificação
