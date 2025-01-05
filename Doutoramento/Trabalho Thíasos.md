@@ -175,9 +175,19 @@ Outra parte importante das conexões do Thíasos surgem e são mantidas por memb
 
 Agora, no que toca a comunidade estudantil de Coimbra, o Thíasos tem ótimas conexões com outros grupos de teatro, como  o TEUC e SITAC. Inclusive com atores e artistas que fazem ou fizeram parte de mais de uma Associação. Além disso, o vínculo do Thíasos com o CECH também é central para grupo. Assim os professores comentam sobre o nosso trabalho com seus alunos etc. 
 
+Certamente o Thíasos não seria uma iniciativa artística viável se existisse em isolamento, fora do contato com o CECH, as outras associações e a rede de conexões que fomos construindo. 
+
 Contudo, sobre os desafios que o grupo enfrenta diante da comunidade, Izabel afirma:
 
-Izabel de Rohan: Nesta questão sobre o nosso envolvimento com as aldeias, outros grupos e essas coisas, o 
+Izabel de Rohan: Nesta questão sobre o nosso envolvimento com as aldeias, outros grupos e essas coisas, o nosso principal problema é um certo preconceito que as pessoas têm sobre o que nós fazemos. É aquilo que mencionei antes sobre o público do teatro. Há uma ideia muito forte nas pessoas de que aquilo que fazemos é muito diferentes, elaborado e inacessível. É como se estivéssemos ´´falando grego´´ (risos). Essa crença de que o que fazemos é muito distante da realidade ou muito codificado acaba  sendo um problema. 
+
+Das duas, uma, ou as pessoas acabam achando que o nosso trabalho é complicado demais para elas, ou acabam achando que é mera experiência visual e artística sem nenhuma conexão com o presente. Combater esse preconceito sobre o teatro clássico é uma das minhas prioridades enquanto presidente. 
+
+A reflexão de Izabel sobre a inserção do Thíasos dentro de um ecosistema organizacional está muito próxima da reflexão elaborada por Borges, acerca do teatro comunitário (2016 p. 246). Organizações como esta têm muito a ganhar a partir do fortalecimento de vínculos comunitários. 
+
+É possível identificar alguns dos desafios referidos nos estudos de casos de Borges no caso do Thíasos, como a dependência para com alguns atores com contatos ou destaque institucional, bem como os casos de sucesso, como a cooperação entre entidades artísticas e a necessidade de construção de públicos 
+
+
 
 
 As Bennett (1997) puts it: ‘Spectators are thus trained to be passive in their demon- strated behaviour during a theatrical performance, but to be active in their decoding of the sign systems made available.
