@@ -190,7 +190,18 @@ A reflexão de Izabel sobre a inserção do Thíasos dentro de um ecosistema org
 Há, contudo, dois desafios  referidos por Izabel que não são evidenciados nos estudos de caso de Borges. São eles: o desafios de manter os membros da associação engajados, diante de uma ampla oferta de atividades universitárias; e o preconceito compartilhado por alguns grupos pela temática explorada pelos espetáculos do Thíasos. 
 
 # Conclusão
-A partir da comparação entre o enquadramento teórico deste trabalho e a experiência da Associação Cultural Thíasos, foi possível identificar um conjunto de  aproximações e distanciamentos. Assim como os Mundos da Arte de Becker, os espetáculos do Thíasos também passam por um conjunto de processo que envolvem grande número de pessoas. Sobre as relações entre performers e audiência, a reflexão de Abercrombie e Longhurst sobre o impacto dos espaços e media nos audiêntes foi demonstrado através da experiência do Thíasos e seus três públicos. 
+A partir da comparação entre o enquadramento teórico deste trabalho e a experiência da Associação Cultural Thíasos, foi possível identificar um conjunto de  aproximações e distanciamentos. Assim como os Mundos da Arte de Becker, os espetáculos do Thíasos também passam por um conjunto de processo que envolvem grande número de pessoas. Sobre as relações entre performers e audiência, a reflexão de Abercrombie e Longhurst sobre o impacto dos espaços e media nos audiêntes foi demonstrado através da experiência do Thíasos e seus três públicos. A experiência deo estudo de caso deste trabalho também evidenciou o papel dos hábitos de consumo culturais nas relações de audiência, como referido por Bennett e reforçado por Abercrombie e Longhurst. 
+Finalmente, as experiências comunitárias em Portugal, discutidas por Borges, em muito se parecem com às do Thíasos, ainda que o contexto universitário implique um conjunto de particularidades.
+
+No que toca as diferenças entre o enquadramento teórico e o estudo de caso aqui discutido, destacamos 3 que merecem maior destaque. 
+A primeira diz respeito à ênfase analítica de Becker em Mundos da Arte profissionais. Em razão deste foco, o potencial explicativo deste paradigma é mitigado em relações de produção e performance amadoras. Isto pois o trabalho de Becker engloba sobretudo motivações de natureza financeira e artísticas. Como referido por Izabel de Rohan, 
+
+
+1 - diferenla na motivação em becker
+
+2 - Como o enquadramento do Abercrombie parte só de audiência treinadas 
+
+3 - a relação que a comunidade discutida pode ter com o género ou tema artístico específico
 
 
 
