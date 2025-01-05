@@ -139,9 +139,13 @@ Essa conjuntura também exige da direção uma preocupação com aspetos pedagó
 
 Sobre questões temáticas e artísticas, não acho que haja especial condicionamento por sermos estudantes. Nossas peças acabam sendo uma ponte, entre a antiguidade evidente no texto, e a presente da nossa adaptação. 
 
-Através desta reflexão, Izabel de Rohan destacou algumas peculiaridades do teatro produzido sem-fins lucrativos, especialmente em casos estudantis. Essas questões dialogam com Becker e seu paradigma, uma vez que apresenta uma nova categoria de envolvimento entre indivíduos e a produção artística. Em síntese, Becker descreve duas categorias de envolvimento - financeiro, por parte atores que desempenham processos técnicos e não artísticos, como funcionários do governo, de manutenção e limpeza; e artística, por parte de atores e encenadores que, ainda que também preocupados com uma contrapateeetteteeeeetteteteettttttttttttttttttttttttttttttttttttttttttttttrytrttttttttttttttyrttttttttttttttrt6ttt444444444444444444444444446666666666666666666666666666666yyyyyr5                                                                                                444444444444444444444444444444444444444444444444444444444444444444444444444444444tftttttttttttttttttttttttttttyttrrrrrrrrrrrrrrrrrrttttttttt666666666666666666666666666666666rr4444444444444444444rrrrrrrrrrrr yyyyrrrrasdasdaataque on tittttasasd tttttt t t t t t t t t r r r r r tyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyytrrrrrettyyyyyyyy2rrrrrrrrrrrrrrrr
+Através desta reflexão, Izabel de Rohan destacou algumas peculiaridades do teatro produzido sem-fins lucrativos, especialmente em casos estudantis. Essas questões dialogam com Becker e seu paradigma, uma vez que apresenta uma nova categoria de envolvimento entre indivíduos e a produção artística. Em síntese, Becker descreve duas categorias de envolvimento - financeiro, por parte atores que desempenham processos técnicos e não artísticos, como funcionários do governo, de manutenção e limpeza; e artístico, por parte de atores e encenadores que, ainda que também preocupados com uma contraparte monetária, desempenham estas funções com outras motivações. De acordo com De Rohan, no caso do Thíasos, há uma terceira categoria de envolvimento, um pouco mais difusa que as outras duas. 
 
+Diferentemente das outras duas, esta categoria ´´social´´ de envolvimento, é visivel sobretudo em contextos amadores e estudantis. Isto pois, as exigências e obrigações que o teatro profissional impõe impossibilitam um envolvimento estritamente ´´social´´ por parte dos atores ou produção. 
 
+Assim, cabe à direção e os encenadores do Thíasos gerirem o envolvimento de seus membros com motivações artísticas e sociais. 
+
+Uma vez discutido 
 
 Personificação
 
