@@ -169,7 +169,15 @@ Izabel de Rohan: Talvez se o público académico ou leigo estivesse em espaços 
 
 Finalmente, de forma a explorar a terceira dimensão analítica proposata neste trabalho, sobre a relação entre produtores culturais e a comunidade em que se inserem, Izabel foi convidada a discorrer sobre a relaçaõ do Thíasos com as comunidades em que se insere. 
 
-O Thíasos já pode ser considerada uma associação relativamente antiga, tendo atividades desde o início dos anos 90, já se vão acumulando contatos e conexões com entidades, pessoas e outros grupos te
+O Thíasos já pode ser considerada uma associação relativamente antiga, tendo atividades desde o início dos anos 90, já se vão acumulando contatos e conexões com entidades, pessoas e outros grupos teatro. Por isso, nós já temos vários convites recorrentes, ou seja, antes mesmo de nós termos decididos qual vai ser a próxima encenação, já estamos convidados a nos apresentarmos. 
+
+Outra parte importante das conexões do Thíasos surgem e são mantidas por membros específicos. Os professores que nos acompanham, e que fizeram parte do Thíasos em seu tempo de estudantes, são essenciais para isto. Para além disto, os nossos membros que moram em outras cidades ou aldeias acabam sendo responsáveis por estabelecer conexões do Thíasos com entidades. Desta forma, nós nos apresentamos na Lousã no ano passado. O nosso atual tesoureiro mora lá e acabou sendo essa ponte entre o grupo e a autarquia. 
+
+Agora, no que toca a comunidade estudantil de Coimbra, o Thíasos tem ótimas conexões com outros grupos de teatro, como  o TEUC e SITAC. Inclusive com atores e artistas que fazem ou fizeram parte de mais de uma Associação. Além disso, o vínculo do Thíasos com o CECH também é central para grupo. Assim os professores comentam sobre o nosso trabalho com seus alunos etc. 
+
+Contudo, sobre os desafios que o grupo enfrenta diante da comunidade, Izabel afirma:
+
+Izabel de Rohan: Nesta questão sobre o nosso envolvimento com as aldeias, outros grupos e essas coisas, o 
 
 
 As Bennett (1997) puts it: ‘Spectators are thus trained to be passive in their demon- strated behaviour during a theatrical performance, but to be active in their decoding of the sign systems made available.
