@@ -153,7 +153,11 @@ O primeiro público, académico, por norma já tem algum contato com a antiguida
 
 O segundo público é esse público tradicional  de teatro, que não tem nenhuma aproximação particular com os nossos temas, mas que tem o hábito do teatro. A experiência desse público geralmente é marcada pela surpresa. Existe um certo preconceito por parte deste grupo. Eles possuem muito forte a ideia de que o teatro clássico é uma coisa muito distante, muito estranha e inacessível. Então, quando ele chega no teatro e entende, ri ou se emociona com a peça, é uma surpresa positiva. 
 
-Finalmente, o terceiro público, leigo. Es
+Finalmente, o terceiro público, leigo. Diferentemente dos outros dois públicos, que geralmente nos assistem no habitual teatro italiano, com um palco elevado, luzes apagadas etc., esse grupo costuma nos assistir em festas populares e outros eventos deste tipo. Nós temos esse hábito, de nos apresentarmos em festas tradicionais dos arredores de Coimbra, como na Festa do São João de Semide. 
+
+Nesses casos, a nossa apresentação é um dos eventos que vão decorrer naquele espaço, por isso não há necessariamente um interesse prévio desse público na nossa produção. Para além disso, é um público com menor contato com o teatro, de maneira geral. Por isso, esses grupos possuem menor familiaridade com as convenções e a etiqueta do teatro. 
+
+De acordo com o enquadramento de Abercrombie e Longhurst, as três audiências do Thíasos são simples, apresentando uma relação frontal e próxima à perfomance.  Há contudo, uma diferença no domínio de códigos e convenções entre os públicos. Os dois primeiros públicos, apesar de não terem a mesma familiariadade com o tema, dominam a linguagem deste media. O habitus, contuido
 
 Personificação
 
