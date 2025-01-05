@@ -157,7 +157,10 @@ Finalmente, o terceiro público, leigo. Diferentemente dos outros dois públicos
 
 Nesses casos, a nossa apresentação é um dos eventos que vão decorrer naquele espaço, por isso não há necessariamente um interesse prévio desse público na nossa produção. Para além disso, é um público com menor contato com o teatro, de maneira geral. Por isso, esses grupos possuem menor familiaridade com as convenções e a etiqueta do teatro. 
 
-De acordo com o enquadramento de Abercrombie e Longhurst, as três audiências do Thíasos são simples, apresentando uma relação frontal e próxima à perfomance.  Há contudo, uma diferença no domínio de códigos e convenções entre os públicos. Os dois primeiros públicos, apesar de não terem a mesma familiariadade com o tema, dominam a linguagem deste media. O habitus, contuido
+De acordo com o enquadramento de Abercrombie e Longhurst, as três audiências do Thíasos são simples, apresentando uma relação frontal e próxima à perfomance.  Há contudo, uma diferença no domínio de códigos e convenções entre os públicos. Os dois primeiros públicos, apesar de não terem a mesma familiariadade com o tema, dominam a linguagem deste media. O habitus, contudo, do público ´´leigol´´ distingue-se dos outros dois, decorrente do menor contato com essa forma de expressão artística. 
+
+Izabel de Rohan: Lembro-me de uma apresentação que fizemos em uma festa popular. Era uma festa onde haviam várias barracas com comidas e atividades, a nossa apresentação e posteriormente um jantar. Por isso, enquanto apresentávamos a nossa peça, várias pessoas da organização começaram a organizar talheres, pratos e mesas. Depois ficou claro que isso não era um
+
 
 Personificação
 
