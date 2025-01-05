@@ -20,19 +20,8 @@
               "icon": "lucide-file",
               "title": "Trabalho Thíasos"
             }
-          },
-          {
-            "id": "f4663e93c6caf259",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "New tab"
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -178,11 +167,12 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
-    "width": 427.5
+    "width": 427.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -198,9 +188,13 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "f4663e93c6caf259",
+  "active": "863890f2dbdfb095",
   "lastOpenFiles": [
+    "Doutoramento/Doutoramento.md",
     "Doutoramento/Trabalho Thíasos.md",
+    "Doutoramento/Trabalhos - Doc S01.md",
+    "Coisas/Semanas/2025/2025-01.md",
+    "Coisas/Semanas/2025/2025-01-06.md",
     "Untitled Kanban.md",
     "conflict-files-obsidian-git.md",
     "Leiturinhas/Livros/Legends & Lattes.md",
@@ -225,10 +219,6 @@
     "Coisas/Semanas/2024/Outubro 2024/Outubro Semana 4/2024-10-24.md",
     "Coisas/Semanas/2024/Outubro 2024/Outubro Semana 4/2024-10-23.md",
     "Coisas/Semanas/2024/Outubro 2024/Outubro Semana 4/2024-10-22.md",
-    "Coisas/Semanas/2024/Outubro 2024/Outubro Semana 4/!Semana 4 Outubro.md",
-    "Coisas/Semanas/2024/Outubro 2024/Outubro 3 Semana 14.10 - 20.10.2024/2024-10-19.md",
-    "Coisas/Semanas/2024/Outubro 2024/Outubro 3 Semana 14.10 - 20.10.2024/2024-10-16.md",
-    "Coisas/Semanas/2024/Outubro 2024/Outubro 3 Semana 14.10 - 20.10.2024/2024-10-15.md",
     "Coisas/Semanas/2024/Setembro 2024/Setembro 3 Semana 21.09 - 29.09.24",
     "Coisas/Semanas/2024/Outubro 2024/Outubro Semana 4",
     "Coisas/Semanas/2024/Outubro 2024/Outubro 3 Semana 14.10 - 20.10.2024",

@@ -124,6 +124,8 @@ Depois disto começa a produção mais concreta, com o casting e as etapas que s
 Depois disso temos os ensaios propriamente ditos. Por norma temos 5 meses de ensaios, com cerca de 5 horas de ensaios semanais. Concomitante a isso, a equipe técnica e a produção fazem a montagem. 
 Finalmente, o sexto passo é a apresentação propriamente dita. 
 
+As seis etapas da produção do Thíasos, apesar de apresentarem algumas especificações, decorrentes de sua condição enquanto teatro universitário e de sua temática da antiguidade, pouco difere de outras associações de teatro. Ao comparar essa linha de trabalho com os Mundos da Arte, de Becker, o elemento que mais se diferencia é a 
+
 
 Personificação
 
