@@ -139,7 +139,7 @@ Essa conjuntura também exige da direção uma preocupação com aspetos pedagó
 
 Sobre questões temáticas e artísticas, não acho que haja especial condicionamento por sermos estudantes. Nossas peças acabam sendo uma ponte, entre a antiguidade evidente no texto, e a presente da nossa adaptação. 
 
-Através desta reflexão, Izabel de Rohan destacou algumas peculiaridades do teatro produzido sem-fins lucrativos, especialmente em casos estudantis. Essas questões dialogam com Becker e seu paradigma, uma vez que ap
+Através desta reflexão, Izabel de Rohan destacou algumas peculiaridades do teatro produzido sem-fins lucrativos, especialmente em casos estudantis. Essas questões dialogam com Becker e seu paradigma, uma vez que apresenta uma nova categoria de envolvimento entre indivíduos e a produção artística. Em síntese, Becker descreve duas categorias de envolvimento - financeiro, por parte atores que desempenham processos técnicos e não artísticos, como funcionários do governo, de manutenção e limpeza; e artística, por parte de atores e encenadores que, ainda que também preocupados com uma contrapateeetteteeeeetteteteettttttttttttttttttttttttttttttttttttttttttttttrytrttttttttttttttyrttttttttttttttrt6ttt444444444444444444444444446666666666666666666666666666666yyyyyr5                                                                                                444444444444444444444444444444444444444444444444444444444444444444444444444444444tftttttttttttttttttttttttttttyttrrrrrrrrrrrrrrrrrrttttttttt666666666666666666666666666666666rr4444444444444444444rrrrrrrrrrrr
 
 
 
