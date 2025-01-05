@@ -20,8 +20,19 @@
               "icon": "lucide-file",
               "title": "Trabalho Thíasos"
             }
+          },
+          {
+            "id": "f4663e93c6caf259",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -171,8 +182,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 427.5,
-    "collapsed": true
+    "width": 427.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -188,10 +198,10 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "863890f2dbdfb095",
+  "active": "f4663e93c6caf259",
   "lastOpenFiles": [
-    "Untitled Kanban.md",
     "Doutoramento/Trabalho Thíasos.md",
+    "Untitled Kanban.md",
     "conflict-files-obsidian-git.md",
     "Leiturinhas/Livros/Legends & Lattes.md",
     "Coisas/Semanas/2025/Janeiro 2025/Semana 1/2025-W01.md",
