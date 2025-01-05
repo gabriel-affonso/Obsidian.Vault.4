@@ -159,9 +159,19 @@ Nesses casos, a nossa apresentação é um dos eventos que vão decorrer naquele
 
 De acordo com o enquadramento de Abercrombie e Longhurst, as três audiências do Thíasos são simples, apresentando uma relação frontal e próxima à perfomance.  Há contudo, uma diferença no domínio de códigos e convenções entre os públicos. Os dois primeiros públicos, apesar de não terem a mesma familiariadade com o tema, dominam a linguagem deste media. O habitus, contudo, do público ´´leigol´´ distingue-se dos outros dois, decorrente do menor contato com essa forma de expressão artística. 
 
-Izabel de Rohan: Lembro-me de uma apresentação que fizemos em uma festa popular. Era uma festa onde haviam várias barracas com comidas e atividades, a nossa apresentação e posteriormente um jantar. Por isso, enquanto apresentávamos a nossa peça, várias pessoas da organização começaram a organizar talheres, pratos e mesas. Depois ficou claro que isso não era um
+Izabel de Rohan: Lembro-me de uma apresentação que fizemos em uma festa popular. Era uma festa onde haviam várias barracas com comidas e atividades, a nossa apresentação e posteriormente um jantar. Por isso, enquanto apresentávamos a nossa peça, várias pessoas da organização começaram a organizar talheres, pratos e mesas. Depois ficou claro que isso não era uma forma de protesto ou uma ação mal-intencionada, mas simplesmente uma relação com a perfomance distinta daquela que esperavamos. 
 
+O contrate entre públicos habituados e leigos, identificado por De Rohan encontra ressoanacia no trabalho de Bennett, quando afirma que os espectadores são treinados para serem passivos em seu comportamento durante a performance teatral, mas ativios na decodificação dos signficados apresentados (206). Como consequência, audiências não treinadas, ou ´´habituadas´´ não seguem estas convenções. 
 
+Ainda sobre isto, Izabel destaca influencia do espaço das apresentações na relação com o público. 
+
+Izabel de Rohan: Talvez se o público académico ou leigo estivesse em espaços semelhantes ao dos leigos, em jardins ou claustros, eles tivessem comportamentos mais semelhantes. Mas o maior ou menor contato com o teatro acentua essa diferença.
+
+Finalmente, de forma a explorar a t
+
+As Bennett (1997) puts it: ‘Spectators are thus trained to be passive in their demon- strated behaviour during a theatrical performance, but to be active in their decoding of the sign systems made available.
+
+ Performers rely on the active decoding, but passive behaviour of the audience so that they can unfold the planned on-stage activity’ (p. 206).
 Personificação
 
 dependendencia doa apoio de atores institucionais
