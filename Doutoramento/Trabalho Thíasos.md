@@ -167,7 +167,8 @@ Ainda sobre isto, Izabel destaca influencia do espaço das apresentações na re
 
 Izabel de Rohan: Talvez se o público académico ou leigo estivesse em espaços semelhantes ao dos leigos, em jardins ou claustros, eles tivessem comportamentos mais semelhantes. Mas o maior ou menor contato com o teatro acentua essa diferença.
 
-Finalmente, de forma a explorar a t
+Finalmente, de forma a explorar a terceira dimensão analítica proposata neste trabalho, sobre a relação entre produtores culturais e a comunidade em que se inserem, Izabel foi convidada a discorrer sobre a relaçaõ do Thíasos com suas comunidades. 
+
 
 As Bennett (1997) puts it: ‘Spectators are thus trained to be passive in their demon- strated behaviour during a theatrical performance, but to be active in their decoding of the sign systems made available.
 
