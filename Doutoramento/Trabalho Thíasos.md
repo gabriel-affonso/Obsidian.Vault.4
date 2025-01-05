@@ -117,7 +117,9 @@ No meu caso, na próxima peça que faremos, uma adaptação de Helena, eu sou a 
 Uma vez apresentada a estrutura do Thíasos, Izabel passou a discorrer sobre a série de processos técnicos e artísticos que decorrem entre a idealização, produção e apresentação de um espetáculo. 
 
 Izabel de Rohan: Então, a primeira parte deste processo é a submissão do projeto para o espetáculo. Alguém precisa faze-lo chegar à presidência. O caso atual, da Helena, é um pouco diferente, já que o projeto veio de dentro da presidência, mas o princípio mantém-se. Uma vez submetido, ele tem de ser aprovado por toda a presidência. 
-A segunda etapa é a escolha do diretor. Aqui, dois caminhos são possíveis. O diret
+A segunda etapa é a escolha do encenador. Aqui, dois caminhos são possíveis. O encenador pode ser o propositor do projeto, ou pode ser outra pessoa. No primeiro caso é mais simples, já no segundo há que se encontrar um encenador que abrace o projeto e que seja aprovado pelo presidente. 
+Feito isto, há o trabalho de adaptação do texto. Como a nossa associação trabalha especificamente com peças da antiguidade, essa parte do trabalho tem uma importância especial. Nós temos uma equipe de adaptação que trabalha em todos os textos antes de avançarmos para a encenação. Esta parte é particularmente importante por duas razões - garantirmos que o texto é compreensível para audiências modernas e leiga; Evidenciar a mensagem que queremos passar com aquele texto específico, ainda que preservando o ´´espírito´´ do texto original. 
+
 
 
 Personificação
