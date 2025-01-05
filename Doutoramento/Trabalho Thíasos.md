@@ -145,7 +145,15 @@ Diferentemente das outras duas, esta categoria ´´social´´ de envolvimento, �
 
 Assim, cabe à direção e os encenadores do Thíasos gerirem o envolvimento de seus membros com motivações artísticas e sociais. 
 
-Uma vez discutido 
+Uma vez discutida a relação entre o Thíasos e seus diversos integrantes, Izabel foi convidada a discorrer sobre a relação entre o Thíasos e as audiências para as quais se apresenta. Quando questionada sobre quais são os públicos de seus espetáculos, a presidente afirmou: 
+
+O nosso principal público é o público académico e estudantil, por que afinal, nós somos parte de um centro universitário, da Faculdade de Letras. Mas de modo geral, posso dizer que nós temos três públicos: temos esse público académico, um público que gosta de teatro e um terceiro público, que podemos definir como um público ´´leigo´´.
+
+O primeiro público, académico, por norma já tem algum contato com a antiguidade e, quando não conhece a peça a ser apresentada, já tem alguma expectativa do que se trata. É um público que talvez não saiba em profundidade a narrativa da Medeia, mas sabe que ela mata os filhos. 
+
+O segundo público é esse público tradicional  de teatro, que não tem nenhuma aproximação particular com os nossos temas, mas que tem o hábito do teatro. A experiência desse público geralmente é marcada pela surpresa. Existe um certo preconceito por parte deste grupo. Eles possuem muito forte a ideia de que o teatro clássico é uma coisa muito distante, muito estranha e inacessível. Então, quando ele chega no teatro e entende, ri ou se emociona com a peça, é uma surpresa positiva. 
+
+Finalmente, o terceiro público, leigo. Es
 
 Personificação
 
