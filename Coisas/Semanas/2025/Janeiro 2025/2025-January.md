@@ -22,7 +22,6 @@ const transacoes = [
     { item: "Reserva Emergência", valor: -480, moeda: 'BRL', tipo: 'Investimento' },
     { item: "Ethereum", valor: -60, moeda: 'BRL', tipo: 'Investimento' },
     { item: "Reserva do Carro", valor: -555, moeda: 'BRL', tipo: 'Investimento' },
-    { item: "Revolut", valor: -200, moeda: 'EUR', tipo: 'Investimento' },
     { item: "Exemplo Gasto", valor: -0, moeda: 'EUR', tipo: 'Gasto' },
     { item: "Exemplo Investimento", valor: -0, moeda: 'EUR', tipo: 'Investimento' },
    
@@ -112,4 +111,5 @@ dv.paragraph(`**Total Líquido:** ${totalLiquido.toLocaleString('pt-PT', { style
 	- [ ] Pequeno caderninho
 - [ ] Viagem Braga
 - [ ] velas compridas da tiger
+- [ ] Carteira Magsafe
 - [ ] 
