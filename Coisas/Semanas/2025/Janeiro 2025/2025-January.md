@@ -112,4 +112,5 @@ dv.paragraph(`**Total Líquido:** ${totalLiquido.toLocaleString('pt-PT', { style
 - [ ] Viagem Braga
 - [ ] velas compridas da tiger
 - [ ] Carteira Magsafe
-- [ ] 
+- [ ] Mandar 100 eurs pro N26
+- [ ] pedir cartão do N26
