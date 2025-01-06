@@ -8,17 +8,17 @@
         "type": "tabs",
         "children": [
           {
-            "id": "863890f2dbdfb095",
+            "id": "243513deacea4124",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Doutoramento/Trabalho Thíasos.md",
+                "file": "Coisas/Semanas/2025/Janeiro 2025/Semana 2/2025-W02.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Trabalho Thíasos"
+              "title": "2025-W02"
             }
           }
         ]
@@ -77,8 +77,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 304.5,
-    "collapsed": true
+    "width": 304.5
   },
   "right": {
     "id": "3fc30dc42cda4f7f",
@@ -157,7 +156,7 @@
             }
           },
           {
-            "id": "095ec323cbc59d48",
+            "id": "3d1fe2fcfd9cbf53",
             "type": "leaf",
             "state": {
               "type": "calendar",
@@ -167,7 +166,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
@@ -188,44 +187,45 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "863890f2dbdfb095",
+  "active": "243513deacea4124",
   "lastOpenFiles": [
-    "Coisas/Semanas/2025/2025-01.md",
-    "Doutoramento/Trabalho Thíasos.md",
+    "Doutoramento/Poética e Cidadania/!nformações Gerais - Poética e Cidadania.md",
     "Doutoramento/Doutoramento.md",
     "Doutoramento/Trabalhos - Doc S01.md",
-    "Coisas/Semanas/2025/2025-01-06.md",
-    "Untitled Kanban.md",
-    "conflict-files-obsidian-git.md",
-    "Leiturinhas/Livros/Legends & Lattes.md",
+    "Pensamentos/pensamento/Artigo - Don L, Kim Robinson e Sonho enquanto extensão da política.md",
+    "Doutoramento/Trabalho Thíasos.md",
+    "Coisas/Semanas/2025/Janeiro 2025/Semana 2/2025-W02.md",
+    "Coisas/Semanas/2025/Janeiro 2025/2025-January.md",
+    "Coisas/Semanas/2025/Janeiro 2025/Semana 2/2025-01-06.md",
+    "Coisas/Semanas/2025/Janeiro 2025/Semana 2/2025-Jan.md",
+    "Coisas/Semanas/2025/Janeiro 2025/Semana 2",
     "Coisas/Semanas/2025/Janeiro 2025/Semana 1/2025-W01.md",
+    "Coisas/Semanas/2025/Janeiro 2025/Semana 2/2025-01-09.md",
+    "Coisas/Semanas/2025/Janeiro 2025/Semana 1/2025-01-03.md",
+    "Untitled Kanban.md",
+    "Coisas/Semanas/2025/Janeiro 2025/Semana 1/~syncthing~2025-01-03.md.tmp",
+    "Coisas/Aleatoriedade/Links.Para.Bel.md",
+    "logo.png",
+    "conflict-files-obsidian-git.md",
     "Coisas/Semanas/2025/Janeiro 2025/Semana 1/2025-01-02.md",
-    "Coisas/Semanas/2025/Janeiro 2025/Semana 1/2024-12-31.md",
+    "Coisas/Semanas/2025/Janeiro 2025/Semana 1/2025-W01.sync-conflict-20250103-105253-7TQ5V76.md",
+    "Coisas/Semanas/2025/Janeiro 2025/Semana 1/2025-W01.sync-conflict-20250102-214434-7TQ5V76.md",
+    "Coisas/Semanas/2025/Janeiro 2025/Semana 1/2025-01-02.sync-conflict-20250103-105253-7TQ5V76.md",
+    "Coisas/Semanas/2025/Janeiro 2025/Semana 1/2025-01-02.sync-conflict-20250102-214441-7TQ5V76.md",
     "Coisas/Semanas/2025/Janeiro 2025/Semana 1/2024-12-30.md",
+    "Coisas/Semanas/2025/Janeiro 2025/Semana 1/2024-12-30.sync-conflict-20250103-105253-7TQ5V76.md",
+    "Coisas/Semanas/2025/Janeiro 2025/Semana 1/2024-12-30.sync-conflict-20250102-214440-7TQ5V76.md",
+    "Doutoramento/Trabalho Thíasos.sync-conflict-20250103-105252-7TQ5V76.md",
+    "Doutoramento/Trabalho Thíasos.sync-conflict-20250102-214441-7TQ5V76.md",
+    "Leiturinhas/Livros/Legends & Lattes.md",
     "Coisas/Semanas/2025/Janeiro 2025/Semana 1",
     "Coisas/Semanas/2025/Janeiro 2025",
     "Coisas/Semanas/2025",
-    "Coisas/Semanas/2024/Setembro 2024/Setembro 3 Semana 21.09 - 29.09.24/2024-09-29.md",
-    "Coisas/Semanas/2024/Setembro 2024/Setembro 3 Semana 21.09 - 29.09.24/2024-09-27.md",
-    "Coisas/Semanas/2024/Setembro 2024/Setembro 3 Semana 21.09 - 29.09.24/2024-09-26.md",
-    "Coisas/Semanas/2024/Setembro 2024/Setembro 3 Semana 21.09 - 29.09.24/2024-09-25.md",
-    "Coisas/Semanas/2024/Setembro 2024/Setembro 3 Semana 21.09 - 29.09.24/!Semana 21.09 - 24.09.24.md",
-    "Coisas/Semanas/2024/Setembro 2024/Setembro 3 Semana 21.09 - 29.09.24/2024-09-21.md",
-    "Coisas/Semanas/2024/Novembro 2024/Novembro Semana 5/2024-11-29.md",
-    "Coisas/Semanas/2024/Novembro 2024/Novembro Semana 5/2024-11-28.md",
-    "Coisas/Semanas/2024/Outubro 2024/Outubro Semana 4/2024-10-27.md",
-    "Coisas/Semanas/2024/Outubro 2024/Outubro Semana 4/2024-10-26.md",
-    "Coisas/Semanas/2024/Outubro 2024/Outubro Semana 4/2024-10-25.md",
-    "Coisas/Semanas/2024/Outubro 2024/Outubro Semana 4/2024-10-24.md",
-    "Coisas/Semanas/2024/Outubro 2024/Outubro Semana 4/2024-10-23.md",
-    "Coisas/Semanas/2024/Outubro 2024/Outubro Semana 4/2024-10-22.md",
     "Coisas/Semanas/2024/Setembro 2024/Setembro 3 Semana 21.09 - 29.09.24",
     "Coisas/Semanas/2024/Outubro 2024/Outubro Semana 4",
     "Coisas/Semanas/2024/Outubro 2024/Outubro 3 Semana 14.10 - 20.10.2024",
     "Coisas/Semanas/2024/Outubro 2024/Outubro 2 Semana 07.10 - 13.10.2024",
     "Coisas/Semanas/2024/Novembro 2024/Novembro Semana 5",
-    "Coisas/Semanas/2024/Outubro 2024/Outubro 1 Semana 30.09 - 05.10.2024",
-    "Coisas/Semanas/2024/Novembro 2024/Novembro Semana 4",
     "Untitled.canvas",
     "Pasted image 20241209163924.png",
     "Pasted image 20241205163110.png",

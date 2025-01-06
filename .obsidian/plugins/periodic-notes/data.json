@@ -15,7 +15,7 @@
     "enabled": true
   },
   "monthly": {
-    "format": "",
+    "format": "YYYY-MMMM",
     "template": "Template/Templates/Template Orçamento.md",
     "folder": "Coisas/Semanas/2025",
     "enabled": true
