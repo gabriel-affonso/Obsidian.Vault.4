@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Doutoramento/Trabalho Thíasos.md",
+                "file": "Coisas/Semanas/2025/Janeiro 2025/Semana 2/2025-W02.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Trabalho Thíasos"
+              "title": "2025-W02"
             }
           }
         ]
@@ -167,12 +167,11 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
-    "width": 427.5,
-    "collapsed": true
+    "width": 427.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -190,6 +189,9 @@
   },
   "active": "863890f2dbdfb095",
   "lastOpenFiles": [
+    "Coisas/Semanas/2025/2025-01-06.md",
+    "Doutoramento/Trabalho Thíasos.md",
+    "Untitled Kanban.sync-conflict-20250106-180053-NKXW6QZ.md",
     "Coisas/Semanas/2025/Janeiro 2025/2025-January.md",
     "Untitled Kanban.sync-conflict-20250106-203709-NKXW6QZ.md",
     "Coisas/Semanas/2025/Janeiro 2025/Semana 2/2025-W02.md",
@@ -197,10 +199,8 @@
     "Coisas/Semanas/2025/Janeiro 2025/Semana 2/2025-01-06.md",
     "Coisas/Semanas/2025/Janeiro 2025/Semana 2",
     "Coisas/Semanas/2025/2025-01.md",
-    "Doutoramento/Trabalho Thíasos.md",
     "Doutoramento/Doutoramento.md",
     "Doutoramento/Trabalhos - Doc S01.md",
-    "Coisas/Semanas/2025/2025-01-06.md",
     "Untitled Kanban.md",
     "conflict-files-obsidian-git.md",
     "Leiturinhas/Livros/Legends & Lattes.md",
@@ -219,7 +219,6 @@
     "Coisas/Semanas/2024/Setembro 2024/Setembro 3 Semana 21.09 - 29.09.24/2024-09-21.md",
     "Coisas/Semanas/2024/Novembro 2024/Novembro Semana 5/2024-11-29.md",
     "Coisas/Semanas/2024/Novembro 2024/Novembro Semana 5/2024-11-28.md",
-    "Coisas/Semanas/2024/Outubro 2024/Outubro Semana 4/2024-10-27.md",
     "Coisas/Semanas/2024/Setembro 2024/Setembro 3 Semana 21.09 - 29.09.24",
     "Coisas/Semanas/2024/Outubro 2024/Outubro Semana 4",
     "Coisas/Semanas/2024/Outubro 2024/Outubro 3 Semana 14.10 - 20.10.2024",
