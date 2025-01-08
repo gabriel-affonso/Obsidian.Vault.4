@@ -2,6 +2,7 @@
 date: 2025-01-07
 hora: 15:03
 tags:
+  - Pensamentos
 ---
 
 O cachorro sempre tem que morrer em filme de cachorro, se não não é um bom filme. 
