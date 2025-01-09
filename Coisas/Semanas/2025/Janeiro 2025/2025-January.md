@@ -3,6 +3,13 @@ date: 2025-01-01
 tags:
 ---
 
+# Pendencias
+- [ ] instalar pixelos
+- [ ] marcar exames
+- [ ] 
+
+
+
 ```dataviewjs
 // Defina a taxa de câmbio atual de BRL para EUR
 const taxaCambioBRLparaEUR = 6; // 1 EUR = 6 BRL
@@ -109,7 +116,7 @@ dv.paragraph(`**Total Líquido:** ${totalLiquido.toLocaleString('pt-PT', { style
 	- [ ] Cabo USBC grande
 	- [ ] camiseta cult of the lamb Bel
 	- [ ] Pequeno caderninho
-- [ ] Viagem Braga
+- [ ] acumpultura
 - [ ] velas compridas da tiger
 - [ ] Carteira Magsafe
 - [ ] Mandar 100 eurs pro N26
