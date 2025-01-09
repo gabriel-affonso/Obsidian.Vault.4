@@ -2,6 +2,7 @@
 date: 2025-01-09
 hora: 00:33
 tags:
+  - Pensamentos
 ---
 - [](https://bigfive-test.com/pt-br)
 
