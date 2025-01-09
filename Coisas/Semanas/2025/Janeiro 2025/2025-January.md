@@ -6,7 +6,7 @@ tags:
 # Pendencias
 - [ ] instalar pixelos
 - [ ] marcar exames
-- [ ] 
+- [ ] trocar cardano pra binance
 
 
 
