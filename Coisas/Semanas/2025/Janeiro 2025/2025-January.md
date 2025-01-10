@@ -121,3 +121,5 @@ dv.paragraph(`**Total Líquido:** ${totalLiquido.toLocaleString('pt-PT', { style
 - [ ] Carteira Magsafe
 - [ ] Mandar 100 eurs pro N26
 - [ ] pedir cartão do N26
+- [ ] bermudinha nova
+- [ ] perdir cartão revolut (outro)
