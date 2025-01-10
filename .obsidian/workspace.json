@@ -11,12 +11,14 @@
             "id": "863890f2dbdfb095",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "logo.png"
+                "file": "Pessoas/Gírio.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-image",
-              "title": "logo"
+              "icon": "lucide-file",
+              "title": "Gírio"
             }
           }
         ]
@@ -187,6 +189,7 @@
   },
   "active": "863890f2dbdfb095",
   "lastOpenFiles": [
+    "logo.png",
     "Coisas/Aleatoriedade/Depósito de Aleatoriedades/Depósito de Registros/Letterboxd Review 2024.md",
     "Coisas/Aleatoriedade/Depósito de Aleatoriedades/Depósito de Registros/Big Five.md",
     "Coisas/Aleatoriedade/Depósito de Aleatoriedades/Depósito de Registros",
@@ -213,9 +216,7 @@
     "Leiturinhas/Livros/Ficções.sync-conflict-20250103-105252-7TQ5V76.md",
     "Leiturinhas/Livros/Ficções.sync-conflict-20250102-214441-7TQ5V76.md",
     "Leiturinhas/Livros/Babel.sync-conflict-20250103-105252-7TQ5V76.md",
-    "Leiturinhas/Livros/Babel.sync-conflict-20250102-214437-7TQ5V76.md",
     "Coisas/Semanas/2025/~syncthing~2025-01-07.md.tmp",
-    "logo.png",
     "defaultTopImage.jpg",
     "Pasted image 20250107101619.png",
     "Coisas/Semanas/2025/Janeiro 2025/Semana 2",
