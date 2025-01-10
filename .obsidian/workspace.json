@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Coisas/Semanas/2025/Janeiro 2025/Semana 2/2025-01-10.md",
+                "file": "Coisas/Semanas/2025/Janeiro 2025/Semana 2/2025-W02.md",
                 "mode": "source",
-                "source": false
+                "source": true
               },
               "icon": "lucide-file",
-              "title": "2025-01-10"
+              "title": "2025-W02"
             }
           }
         ]
@@ -189,9 +189,12 @@
   },
   "active": "863890f2dbdfb095",
   "lastOpenFiles": [
-    "Coisas/Semanas/2025/2025-01-17.md",
     "Coisas/Semanas/2025/Janeiro 2025/2025-January.md",
+    "Coisas/Semanas/2025/Janeiro 2025/Semana 1/2025-01-03.md",
+    "Coisas/Semanas/2025/Janeiro 2025/Semana 1/2025-W01.md",
+    "Coisas/Semanas/2025/Janeiro 2025/Semana 2/2025-W02.md",
     "Coisas/Semanas/2025/Janeiro 2025/Semana 2/2025-01-10.md",
+    "Coisas/Semanas/2025/2025-01-17.md",
     "Pessoas/Gírio.md",
     "logo.png",
     "Coisas/Aleatoriedade/Depósito de Aleatoriedades/Depósito de Registros/Letterboxd Review 2024.md",
@@ -201,7 +204,6 @@
     "Coisas/Aleatoriedade/Depósito de Aleatoriedades/Depósito de Registros/Saudações Jovem dama.md",
     "Pensamentos/pensamento/Rappers e Relógios.md",
     "Coisas/Aleatoriedade/Candidaturas.md",
-    "Coisas/Semanas/2025/Janeiro 2025/Semana 2/2025-W02.md",
     "Coisas/Semanas/2025/Janeiro 2025/Semana 2/2025-01-09.md",
     "Leiturinhas/Livros/Legends & Lattes.md",
     "Leiturinhas/Livros/Telling About Society - ENTREGUE.md",
@@ -215,8 +217,6 @@
     "Leiturinhas/Livros/Legends & Lattes.sync-conflict-20250103-105252-7TQ5V76.md",
     "Leiturinhas/Livros/Ficções.md",
     "Leiturinhas/Livros/Legends & Lattes.sync-conflict-20250102-214439-7TQ5V76.md",
-    "Leiturinhas/Livros/Ficções.sync-conflict-20250103-105252-7TQ5V76.md",
-    "Leiturinhas/Livros/Ficções.sync-conflict-20250102-214441-7TQ5V76.md",
     "Coisas/Semanas/2025/~syncthing~2025-01-07.md.tmp",
     "defaultTopImage.jpg",
     "Pasted image 20250107101619.png",
