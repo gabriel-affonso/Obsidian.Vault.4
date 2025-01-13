@@ -27,4 +27,5 @@ tags:
 - [ ] zerar uma máquina da academia
 - [ ] ter um contrato
 - [ ] devolver o kirbo pro Arthur 
+- [ ] Criar o clube do switch
 - [ ] 
