@@ -123,3 +123,5 @@ dv.paragraph(`**Total Líquido:** ${totalLiquido.toLocaleString('pt-PT', { style
 - [ ] pedir cartão do N26
 - [ ] bermudinha nova
 - [ ] perdir cartão revolut (outro)
+- [x] conta de água 
+- [x] conta de telefone 
