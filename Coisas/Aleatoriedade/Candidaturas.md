@@ -3,11 +3,11 @@ date: 2024-10-22
 tags:
 ---
 # Artigos
-- [ ] MSA 2025
+	- [x] MSA 2025
 - [x] CAPS 2025
-- [x] APA 2025
+	- [x]  APA 2025 [aceito]
 - [ ] [[QALI 2025]]
-- [ ] [[Prisma]]
+- [x] [[Prisma]]
 # Empregos
 
 > [!note]- Acho que uma coisa que eu preciso fazer é definir quais são os cargos que eu posso desempenhar
