@@ -119,7 +119,7 @@ dv.paragraph(`**Total Líquido:** ${totalLiquido.toLocaleString('pt-PT', { style
 - [ ] acumpultura
 - [ ] velas compridas da tiger
 - [ ] Carteira Magsafe
-- [ ] Mandar 100 eurs pro N26
+- [ ] Mandar 100 eurs pro N26 - assim que chegar o dinheiro no rev
 - [ ] pedir cartão do N26
 - [ ] bermudinha nova
 - [ ] perdir cartão revolut (outro)
