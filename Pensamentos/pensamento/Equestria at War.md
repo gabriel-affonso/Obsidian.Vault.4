@@ -2,6 +2,7 @@
 date: 2025-01-13
 hora: 14:52
 tags:
+  - Pensamentos
 ---
 Hoje eu descobri que EAW, a sigla do European Arrest Warrant também é a sigla de Equestria at war, um mod de Iron Heart IV onde você joga no mundo de My Little Ponny. 
 
