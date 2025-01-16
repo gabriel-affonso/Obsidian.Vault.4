@@ -4,7 +4,7 @@
   "hasMigratedWeeklyNoteSettings": true,
   "daily": {
     "format": "",
-    "template": "Template/Templates/Nova Nota.md",
+    "template": "Template/Templates/Nova Nota 1.md",
     "folder": "Coisas/Semanas/2025",
     "enabled": true
   },
