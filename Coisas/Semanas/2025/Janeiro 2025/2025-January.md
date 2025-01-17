@@ -8,10 +8,10 @@ tags:
 - [ ] marcar exames
 - [ ] trocar cardano pra binance
 - [ ] Pagar DC
-- [ ] Falar com o claudino sobre minha apresentação na MSA
-- [ ] Entregar trabalho de teatro
-- [ ] Entregar trabalho de poética
-- [ ] Entregar trabalho de memória
+- [x] Falar com o claudino sobre minha apresentação na MSA
+- [x] Entregar trabalho de teatro
+- [x] Entregar trabalho de poética
+- [x] Entregar trabalho de memória
 
 
 

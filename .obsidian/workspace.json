@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Coisas/Semanas/2025/Janeiro 2025/2025-February.md",
+                "file": "Coisas/Semanas/2025/Janeiro 2025/Semana 3/2025-W03.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2025-February"
+              "title": "2025-W03"
             }
           }
         ]
@@ -170,7 +170,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 427.5
+    "width": 427.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -189,7 +190,8 @@
   "active": "863890f2dbdfb095",
   "lastOpenFiles": [
     "Coisas/Semanas/2025/Janeiro 2025/2025-January.md",
-    "Coisas/Semanas/2025/Janeiro 2025/2025-February.md",
+    "Coisas/Semanas/2025/Fevereiro 2025/2025-February.md",
+    "Coisas/Semanas/2025/Fevereiro 2025",
     "Coisas/Semanas/2025/Janeiro 2025/Semana 3/2025-W03.md",
     "Coisas/Semanas/2025/Janeiro 2025/Semana 3/2025-01-17.md",
     "Coisas/Semanas/2025/Janeiro 2025/Semana 3/2025-01-16.md",
@@ -223,8 +225,6 @@
     "Coisas/Semanas/2025/~syncthing~2025-01-13.md.tmp",
     "Coisas/Semanas/2025/Janeiro 2025/Semana 2/2025-W02.sync-conflict-20250113-150624-NKXW6QZ.md",
     "Pessoas/Bel.sync-conflict-20250113-150623-NKXW6QZ.md",
-    "Não pode haver consentimento entre classes.sync-conflict-20250113-150621-NKXW6QZ.md",
-    "Coisas/Semanas/2025/Janeiro 2025/Semana 2/~syncthing~2025-W02.sync-conflict-20250113-150624-NKXW6QZ.md.tmp",
     "Coisas/Aleatoriedade/Depósito de Aleatoriedades/Imagens/logo.png",
     "defaultTopImage.jpg",
     "Pasted image 20250107101619.png",

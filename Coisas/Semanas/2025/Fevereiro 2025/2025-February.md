@@ -109,17 +109,4 @@ dv.paragraph(`**Total Líquido:** ${totalLiquido.toLocaleString('pt-PT', { style
 ```
 
 # Gastos Previstos
-- [ ] Comprar 
-	- [ ] Carregador USBC
-	- [ ] Cabo USBC grande
-	- [ ] camiseta cult of the lamb Bel
-	- [ ] Pequeno caderninho
-- [ ] acumpultura
-- [ ] velas compridas da tiger
-- [ ] Carteira Magsafe
-- [ ] Mandar 100 eurs pro N26 - assim que chegar o dinheiro no rev (já mandei 30)
-- [ ] pedir cartão do N26
-- [ ] bermudinha nova
-- [ ] perdir cartão revolut (outro)
-- [x] conta de água 
-- [x] conta de telefone 
+- [ ] Google one 30 eurs
