@@ -11,14 +11,12 @@
             "id": "863890f2dbdfb095",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "Coisas/Semanas/2025/Janeiro 2025/Semana 3/2025-W03.md",
-                "mode": "source",
-                "source": false
+                "file": "Coisas/Aleatoriedade/Depósito de Aleatoriedades/Imagens/IMG_20250116_224039125.jpg"
               },
-              "icon": "lucide-file",
-              "title": "2025-W03"
+              "icon": "lucide-image",
+              "title": "IMG_20250116_224039125"
             }
           }
         ]
@@ -77,8 +75,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 304.5,
-    "collapsed": true
+    "width": 304.5
   },
   "right": {
     "id": "3fc30dc42cda4f7f",
@@ -188,13 +185,15 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "863890f2dbdfb095",
+  "active": "95fb0fd6edbd311d",
   "lastOpenFiles": [
-    "IMG_20250116_224039125.jpg",
+    "Coisas/Aleatoriedade/Depósito de Aleatoriedades/Imagens/skyrim-lydia.png",
+    "Coisas/Aleatoriedade/Depósito de Aleatoriedades/Imagens/legoração.png",
+    "Coisas/Semanas/2025/Janeiro 2025/Semana 3/2025-W03.md",
+    "Coisas/Aleatoriedade/Depósito de Aleatoriedades/Imagens/IMG_20250116_224039125.jpg",
     "~syncthing~IMG_20250116_224039125.jpg.tmp",
     "Coisas/Semanas/2025/Janeiro 2025/Semana 3/~syncthing~2025-01-17.md.tmp",
     "Coisas/Semanas/2025/Janeiro 2025/Semana 3/2025-01-17.md",
-    "Coisas/Semanas/2025/Janeiro 2025/Semana 3/2025-W03.md",
     "Coisas/Semanas/2025/Janeiro 2025/2025-January.md",
     "Coisas/Semanas/2025/Fevereiro 2025/2025-February.md",
     "Coisas/Semanas/2025/Fevereiro 2025",
@@ -235,8 +234,6 @@
     "Pasted image 20241205163110.png",
     "Pasted image 20241205163100.png",
     "Pasted image 20241205163107.png",
-    "meeting Albania 22 to 24 Nov 2021.jpg",
-    "Pasted image 20241127165806.png",
     "Untitled 1.canvas",
     "Untitled 2.canvas"
   ]
