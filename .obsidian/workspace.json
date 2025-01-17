@@ -11,12 +11,14 @@
             "id": "863890f2dbdfb095",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "Coisas/Aleatoriedade/Depósito de Aleatoriedades/Imagens/IMG_20250116_224039125.jpg"
+                "file": "Coisas/Semanas/2025/Janeiro 2025/Semana 2/2025-01-10.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-image",
-              "title": "IMG_20250116_224039125"
+              "icon": "lucide-file",
+              "title": "2025-01-10"
             }
           }
         ]
@@ -185,12 +187,12 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "95fb0fd6edbd311d",
+  "active": "863890f2dbdfb095",
   "lastOpenFiles": [
+    "Coisas/Aleatoriedade/Depósito de Aleatoriedades/Imagens/IMG_20250116_224039125.jpg",
     "Coisas/Aleatoriedade/Depósito de Aleatoriedades/Imagens/skyrim-lydia.png",
     "Coisas/Aleatoriedade/Depósito de Aleatoriedades/Imagens/legoração.png",
     "Coisas/Semanas/2025/Janeiro 2025/Semana 3/2025-W03.md",
-    "Coisas/Aleatoriedade/Depósito de Aleatoriedades/Imagens/IMG_20250116_224039125.jpg",
     "~syncthing~IMG_20250116_224039125.jpg.tmp",
     "Coisas/Semanas/2025/Janeiro 2025/Semana 3/~syncthing~2025-01-17.md.tmp",
     "Coisas/Semanas/2025/Janeiro 2025/Semana 3/2025-01-17.md",
