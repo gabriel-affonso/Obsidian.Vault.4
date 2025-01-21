@@ -11,10 +11,14 @@
             "id": "efc355b619472d3f",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Coisas/Semanas/2024/Dezembro 2024/Semana 3 Dezembro/2024-12-16.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "2024-12-16"
             }
           }
         ]
@@ -185,7 +189,18 @@
   },
   "active": "efc355b619472d3f",
   "lastOpenFiles": [
+    "Coisas/Semanas/2024/Dezembro 2024/Semana 3 Dezembro/2024-12-22.sync-conflict-20250103-105252-7TQ5V76.md",
+    "Coisas/Semanas/2024/Dezembro 2024/Semana 3 Dezembro/2024-12-16.md",
+    "Coisas/Semanas/2024/Dezembro 2024/Semana 3 Dezembro/2024-12-22.sync-conflict-20250102-214435-7TQ5V76.md",
+    "Coisas/Semanas/2024/Dezembro 2024/Semana 3 Dezembro/2024-12-20.sync-conflict-20250103-105253-7TQ5V76.md",
     "Coisas/Semanas/2024/Dezembro 2024/Semana 3 Dezembro/2024-12-20.sync-conflict-20250102-214440-7TQ5V76.md",
+    "Coisas/Semanas/2024/Dezembro 2024/Semana 3 Dezembro/2024-12-19.sync-conflict-20250103-105253-7TQ5V76.md",
+    "Coisas/Semanas/2024/Dezembro 2024/Semana 3 Dezembro/2024-12-19.sync-conflict-20250102-214436-7TQ5V76.md",
+    "Coisas/Semanas/2024/Dezembro 2024/Semana 3 Dezembro/2024-12-18.sync-conflict-20250103-105252-7TQ5V76.md",
+    "Coisas/Semanas/2024/Dezembro 2024/Semana 3 Dezembro/2024-12-18.sync-conflict-20250102-214435-7TQ5V76.md",
+    "Coisas/Semanas/2024/Dezembro 2024/Semana 3 Dezembro/2024-12-17.sync-conflict-20250103-105251-7TQ5V76.md",
+    "Coisas/Semanas/2024/Dezembro 2024/Semana 3 Dezembro/2024-12-17.sync-conflict-20250102-214438-7TQ5V76.md",
+    "Coisas/Semanas/2024/Dezembro 2024/Semana 3 Dezembro/2024-12-16.sync-conflict-20250103-105253-7TQ5V76.md",
     "Coisas/Semanas/2024/Dezembro 2024/Semana 3 Dezembro/2024-12-16.sync-conflict-20250102-214435-7TQ5V76.md",
     "Coisas/Semanas/2024/Novembro 2024/Novembro Semana 5/2024-11-30.sync-conflict-20250102-214436-7TQ5V76.md",
     "Coisas/Semanas/2024/Novembro 2024/Novembro Semana 5/2024-11-29.sync-conflict-20250103-105252-7TQ5V76.md",
@@ -200,17 +215,6 @@
     "Coisas/Semanas/2024/Novembro 2024/Novembro Semana 5/2024-11-25.sync-conflict-20250102-214439-7TQ5V76.md",
     "Coisas/Semanas/2024/Novembro 2024/Novembro Semana 5/!Semana 5 Novembro.sync-conflict-20250103-105252-7TQ5V76.md",
     "Coisas/Semanas/2024/Novembro 2024/Novembro Semana 5/!Semana 5 Novembro.sync-conflict-20250102-214439-7TQ5V76.md",
-    "Coisas/Semanas/2024/Novembro 2024/Novembro Semana 5/2024-11-30.sync-conflict-20250103-105252-7TQ5V76.md",
-    "Coisas/Semanas/2024/Outubro 2024/Outubro 1 Semana 30.09 - 05.10.2024/2024-10-03.sync-conflict-20250103-105252-7TQ5V76 - Cópia.md",
-    "Coisas/Semanas/2024/Outubro 2024/Outubro 1 Semana 30.09 - 05.10.2024/2024-10-03.sync-conflict-20250102-214437-7TQ5V76 - Cópia.md",
-    "Coisas/Semanas/2024/Outubro 2024/Outubro 1 Semana 30.09 - 05.10.2024/2024-10-02.sync-conflict-20250103-105251-7TQ5V76 - Cópia.md",
-    "Coisas/Semanas/2024/Outubro 2024/Outubro 1 Semana 30.09 - 05.10.2024/2024-10-02.sync-conflict-20250102-214434-7TQ5V76 - Cópia.md",
-    "Coisas/Semanas/2024/Outubro 2024/Outubro 1 Semana 30.09 - 05.10.2024/2024-10-01.sync-conflict-20250103-105253-7TQ5V76 - Cópia.md",
-    "Coisas/Semanas/2024/Outubro 2024/Outubro 1 Semana 30.09 - 05.10.2024/2024-10-01.sync-conflict-20250102-214438-7TQ5V76 - Cópia.md",
-    "Coisas/Semanas/2024/Outubro 2024/Outubro 1 Semana 30.09 - 05.10.2024/2024-09-30.sync-conflict-20250103-105252-7TQ5V76 - Cópia.md",
-    "Coisas/Semanas/2024/Outubro 2024/Outubro 1 Semana 30.09 - 05.10.2024/2024-09-30.sync-conflict-20250102-214439-7TQ5V76 - Cópia.md",
-    "Coisas/Semanas/2024/Outubro 2024/Outubro 1 Semana 30.09 - 05.10.2024/!Semana 30.09 - 05.10.24.sync-conflict-20250103-105253-7TQ5V76 - Cópia.md",
-    "Coisas/Semanas/2024/Outubro 2024/Outubro 1 Semana 30.09 - 05.10.2024/!Semana 30.09 - 05.10.24.sync-conflict-20250102-214439-7TQ5V76 - Cópia.md",
     "Coisas/Semanas/2025/Janeiro 2025/Semana 5",
     "Coisas/Semanas/2025/Janeiro 2025/Semana 4/~syncthing~2025-01-20.sync-conflict-20250121-095035-NKXW6QZ.md.tmp",
     "Coisas/Semanas/2025/~syncthing~2025-01-20.md.tmp",
