@@ -11,6 +11,8 @@ media: Livro
 género:
   - Fantasia
   - Dark Academia
+ano:
+  - "2022"
 ---
 
 Que isso cara. Essa mulher é genial

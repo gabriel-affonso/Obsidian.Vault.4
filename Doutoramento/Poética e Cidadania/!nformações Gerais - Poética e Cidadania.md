@@ -17,7 +17,7 @@ Rothenberg, Jerome. 1989. “[[Ethnopoetics & Politics  The Politics of Ethnopoe
 > [!note]- Trabalho Final
 > **Tamanho:** definir
 > **Data:** definir
-> **Tema:** [[Artigo - Don L, Kim Robinson e Sonho enquanto extensão da política]]
+> **Tema:** [[Artigo - Don L, Kim Robinson e Sonho enquanto extensão da política - ENTREGUE]]
 > Apresentação Preliminar: [[Apresentação Preliminar - Poética]]
 >  
 > 

@@ -4,7 +4,7 @@ hora: 09:57
 tags:
   - Doutoramento
 ---
-# Trabalho Memória
+# Trabalho Memória - ENTREGUE
 4.000 a 6.000 palavras, até 15 páginas
 Data: 15/01/2025
 Falar sobre o papel do complexo eclesiástico Sé-nova Sé-velha na memória de Coimbra 
@@ -16,8 +16,8 @@ Recolha Bibliográfica: https://www.one-tab.com/page/DpBjkSmGScCCGqpltFJXmg
 
 
 
-# Trabalho Poética
-[[Artigo - Don L, Kim Robinson e Sonho enquanto extensão da política]]
+# Trabalho Poética - ENTREGUE
+[[Artigo - Don L, Kim Robinson e Sonho enquanto extensão da política - ENTREGUE]]
 ### Apresentação do tema - 12/12
 Semana que vem
 
@@ -25,7 +25,7 @@ Defesa 24/01
 
 
 
-# Trabalho Teatro
+# Trabalho Teatro - ENTREGUE
 Tamanho: 6.500 palavras, 15 páginas
 Data: 06/01/2025
 Mandar email para o professor
