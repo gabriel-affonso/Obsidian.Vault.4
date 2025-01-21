@@ -7,7 +7,7 @@ tags:
 - [ ] instalar pixelos
 - [ ] marcar exames
 - [ ] trocar cardano pra binance
-- [ ] Pagar DC
+- [x] Pagar DC
 - [x] Falar com o claudino sobre minha apresentação na MSA
 - [x] Entregar trabalho de teatro
 - [x] Entregar trabalho de poética
