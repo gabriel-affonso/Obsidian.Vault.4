@@ -10,7 +10,7 @@ Madrinhas de Guerra
 Casamento por procuração
 
 Portugal era a idade média
-	a maior parte das crianças ia descalço pra escola
+	a maior parte das crianças iam descalças pra escola
 
 Enquanto uma sociedade não baseada em trabalho assalariado, pouco monetizado.
 

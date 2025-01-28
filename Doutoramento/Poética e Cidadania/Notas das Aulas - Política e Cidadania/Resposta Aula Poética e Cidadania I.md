@@ -21,3 +21,7 @@ Gostei muito do monólogo do ricardo quando ele reconhece que foi a vida, no ato
 
 ## Reflexão 4 
 Estou lendo um livro muito interessante Babel, ele fala sobre o papel da linguagem na construção de linguagem e, especialmente, no processo de colonização.
+
+Coisas que me chamaram atenção foram as discussões sobre como o Robin deixa de ser ele pra se tornar outra pessoa, num processo de assimilação. E como a linguagem é ferramenta essencial nesse processo.
+
+>	There was nothing to cling to, nothing to escape back to. His world now was Professor Lovell, Mrs Piper, and the promise of a country on the other side of the ocean. He buried his past life, not because it was so terrible but because abandoning it was the only way to survive. He pulled on his English accent like a new coat, adjusted everything he could about himself to make it fit, and, within weeks, wore it with comfort. In weeks, no one was asking him to speak a few words in Chinese for their entertainment. In weeks, no one seemed to remember he was Chinese at all (Babel, Kuang, 2022 p. 29)

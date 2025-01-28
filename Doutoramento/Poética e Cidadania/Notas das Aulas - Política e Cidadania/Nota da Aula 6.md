@@ -40,7 +40,7 @@ um trabalho mt difícil
 
 # Máfia
 
-e o filme do scorcese hein
+e o filme do scorcese
 
 A américa vai ser o mundo todo.
 
@@ -50,9 +50,6 @@ a única não que não tem uma lingua oficial
 > acho que isso não é verdade, acho que a índia tbm não tem
 
 é surpreendente o quão despolitizado é esse discurso. 
-
-é um monte de fala difusa sobre como as coisas deveriam ser
-
 
 
 O tato atua ativamente na imaginação da américa

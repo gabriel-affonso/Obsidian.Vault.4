@@ -24,7 +24,6 @@ A língua enquanto um saber. Porque é impossível desvincular o conhecimento da
 
 A gramática fragilizada pela correção automática  - será? Isso sempre me soa um pouco estranho, parece sempre uma revisitação da narrativa do Hesíodo da perdida era de ouro. Por um lado 
 
-As pessoas não sabem construir frases? mas nas últimas décadas é que nós alcançamos uma maioria do mundo alfabetizado. Esse tipo de narrativa é meio estranha. 
 
 
 *O Benedict Anderson e o tik tok*
