@@ -11,12 +11,14 @@
             "id": "efc355b619472d3f",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "Coisas/Aleatoriedade/Depósito de Aleatoriedades/Imagens/ch150420.gif"
+                "file": "Coisas/Semanas/2025/Janeiro 2025/Semana 5/2025-01-30.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-image",
-              "title": "ch150420"
+              "icon": "lucide-file",
+              "title": "2025-01-30"
             }
           }
         ]
@@ -187,8 +189,8 @@
   },
   "active": "efc355b619472d3f",
   "lastOpenFiles": [
-    "Coisas/Semanas/2025/2025-02-04.md",
     "Coisas/Aleatoriedade/Depósito de Aleatoriedades/Imagens/ch150420.gif",
+    "Coisas/Semanas/2025/2025-02-04.md",
     "Coisas/Semanas/2025/Janeiro 2025/Semana 5/2025-01-30.md",
     "Coisas/Semanas/2025/Janeiro 2025/Semana 5/2025-01-29.md",
     "Leiturinhas/Livros/Catcher in the Rye.md",
