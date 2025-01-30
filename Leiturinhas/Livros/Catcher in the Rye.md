@@ -30,4 +30,39 @@ Apesar de gostar muito do chapéu vermelho, são poucas
 
 
 
+# capítulo 24. 
+All right--the Mr. Vinsons. Once you get past all the Mr. Vinsons, you're going  to start getting closer and closer--that is, if you want to, and if you look for it and wait for it--to the kind of information that will be very, very dear to your heart. Among other 
+
+things, you'll find that you're not the first person who was ever confused and frightened 
+
+and even sickened by human behavior. You're by no means alone on that score, you'll be 
+
+excited and stimulated to know. Many, many men have been just as troubled morally and 
+
+spiritually as you are right now. Happily, some of them kept records of their troubles. 
+
+You'll learn from them--if you want to. Just as someday, if you have something to offer, 
+
+someone will learn something from you. It's a beautiful reciprocal arrangement. And it 
+
+isn't education. It's history. It's poetry." He stopped and took a big drink out of his 
+
+highball. Then he started again. Boy, he was really hot. I was glad I didn't try to stop him 
+
+or anything. "I'm not trying to tell you," he said, "that only educated and scholarly men 
+
+are able to contribute something valuable to the world. It's not so. But I do say that 
+
+educated and scholarly men, if they're brilliant and creative to begin with--which, 
+
+unfortunately, is rarely the case--tend to leave infinitely more valuable records behind 
+
+them than men do who are merely brilliant and creative. They tend to express themselves 
+
+more clearly, and they usually have a passion for following their thoughts through to the 
+
+end. And--most important--nine times out of ten they have more humility than the 
+
+unscholarly thinker. Do you follow me at all?
+
 
