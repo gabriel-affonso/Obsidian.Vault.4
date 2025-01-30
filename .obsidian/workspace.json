@@ -11,14 +11,12 @@
             "id": "efc355b619472d3f",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "Coisas/Semanas/2025/2025-02-04.md",
-                "mode": "source",
-                "source": false
+                "file": "Coisas/Aleatoriedade/Depósito de Aleatoriedades/Imagens/ch150420.gif"
               },
-              "icon": "lucide-file",
-              "title": "2025-02-04"
+              "icon": "lucide-image",
+              "title": "ch150420"
             }
           }
         ]
@@ -77,8 +75,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 304.5,
-    "collapsed": true
+    "width": 304.5
   },
   "right": {
     "id": "3fc30dc42cda4f7f",
@@ -190,8 +187,9 @@
   },
   "active": "efc355b619472d3f",
   "lastOpenFiles": [
-    "Coisas/Semanas/2025/Janeiro 2025/Semana 5/2025-01-30.md",
     "Coisas/Semanas/2025/2025-02-04.md",
+    "Coisas/Aleatoriedade/Depósito de Aleatoriedades/Imagens/ch150420.gif",
+    "Coisas/Semanas/2025/Janeiro 2025/Semana 5/2025-01-30.md",
     "Coisas/Semanas/2025/Janeiro 2025/Semana 5/2025-01-29.md",
     "Leiturinhas/Livros/Catcher in the Rye.md",
     "Coisas/Semanas/2025/Janeiro 2025/Semana 5/2025-01-28.md",
@@ -217,7 +215,6 @@
     "Coisas/Semanas/2025/Janeiro 2025/Semana 4/2025-01-23.md",
     "Pensamentos/pensamento/Chatham House Rule.md",
     "Coisas/Semanas/2025/Fevereiro 2025/2025-02-11.md",
-    "Coisas/Aleatoriedade/Candidaturas.md",
     "~syncthing~Mensagem do Diego.md.tmp",
     "Coisas/Semanas/2025/Janeiro 2025/Semana 5",
     "Coisas/Semanas/2025/Janeiro 2025/Semana 4/~syncthing~2025-01-20.sync-conflict-20250121-095035-NKXW6QZ.md.tmp",
@@ -236,7 +233,6 @@
     "Untitled.canvas",
     "Pasted image 20241209163924.png",
     "Pasted image 20241205163110.png",
-    "Pasted image 20241205163100.png",
     "Untitled 1.canvas",
     "Untitled 2.canvas"
   ]
