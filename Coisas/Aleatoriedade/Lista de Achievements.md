@@ -25,7 +25,9 @@ tags:
 - [ ] apostar em um cassino
 - [ ] ter um SEIKO 5 SNXF05K1
 - [ ] zerar uma máquina da academia
-- [ ] ter um contrato
+- [x] ter um contrato
 - [ ] devolver o kirbo pro Arthur 
 - [x] Criar o clube do switch
 - [ ] atualizar a wikipedia da minha estátua
+- [ ] ver o génio indovamel
+- [ ] ver todos os filmes do sonic
