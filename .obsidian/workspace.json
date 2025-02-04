@@ -20,8 +20,21 @@
               "icon": "lucide-file",
               "title": "2025-W06"
             }
+          },
+          {
+            "id": "103e749c422b9a96",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.8.4"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.8.4"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -188,7 +201,7 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "8b12deade159580a",
+  "active": "103e749c422b9a96",
   "lastOpenFiles": [
     "Coisas/Semanas/2025/Fevereiro 2025/Semana 1/2025-02-03.md",
     "Coisas/Semanas/2025/Fevereiro 2025/Semana 1/2025-W06.md",
