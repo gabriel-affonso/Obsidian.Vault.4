@@ -8,35 +8,20 @@
         "type": "tabs",
         "children": [
           {
-            "id": "8b12deade159580a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Coisas/Semanas/2025/Fevereiro 2025/Semana 1/2025-W06.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "2025-W06"
-            }
-          },
-          {
             "id": "103e749c422b9a96",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Coisas/Semanas/2025/Fevereiro 2025/Semana 1/2025-02-04.md",
+                "file": "Coisas/Semanas/2025/Fevereiro 2025/2025-02-11.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2025-02-04"
+              "title": "2025-02-11"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -205,14 +190,15 @@
   },
   "active": "103e749c422b9a96",
   "lastOpenFiles": [
+    "Coisas/Semanas/2025/Fevereiro 2025/Semana 1/2025-W06.md",
+    "Coisas/Semanas/2025/Fevereiro 2025/2025-02-11.md",
+    "Coisas/Semanas/2025/Fevereiro 2025/2025-February.md",
+    "Coisas/Semanas/2025/Fevereiro 2025/Semana 1/2025-02-05.md",
+    "Coisas/Semanas/2025/Fevereiro 2025/Semana 1/2025-02-04.md",
     "Coisas/Aleatoriedade/Lista de Achievements.md",
     "Coisas/Aleatoriedade/Lista de Compras.md",
     "Coisas/Semanas/2025/Fevereiro 2025/Semana 1/2025-02-03.md",
-    "Coisas/Semanas/2025/Fevereiro 2025/Semana 1/2025-W06.md",
-    "Coisas/Semanas/2025/Fevereiro 2025/Semana 1/2025-02-04.md",
     "Coisas/Semanas/2025/Janeiro 2025/Semana 5/2025-01-31.md",
-    "Coisas/Semanas/2025/Fevereiro 2025/2025-02-11.md",
-    "Coisas/Semanas/2025/Fevereiro 2025/2025-February.md",
     "Coisas/Semanas/2025/Fevereiro 2025/Semana 1",
     "Leiturinhas/Livros/~syncthing~Catcher in the Rye.md.tmp",
     "Coisas/Semanas/2025/Janeiro 2025/Semana 5/2025-01-30.md",
@@ -235,7 +221,6 @@
     "Doutoramento/Poética e Cidadania/Notas das Aulas - Política e Cidadania/Nota da Aula 4.md",
     "Doutoramento/Poética e Cidadania/Notas das Aulas - Política e Cidadania/Nota da aula 3 - Poética e Cidadania.md",
     "Doutoramento/Poética e Cidadania/Notas das Aulas - Política e Cidadania/Resposta Aula Poética e Cidadania II.md",
-    "Doutoramento/Poética e Cidadania/Notas das Aulas - Política e Cidadania/Resposta Aula Poética e Cidadania I.md",
     "~syncthing~Mensagem do Diego.md.tmp",
     "Coisas/Semanas/2025/Janeiro 2025/Semana 5",
     "Coisas/Semanas/2025/Janeiro 2025/Semana 4/~syncthing~2025-01-20.sync-conflict-20250121-095035-NKXW6QZ.md.tmp",

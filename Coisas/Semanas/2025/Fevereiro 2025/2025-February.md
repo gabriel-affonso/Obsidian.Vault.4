@@ -2,7 +2,12 @@
 date: 2025-02-01
 tags:
 ---
+# Coisas Boas
+Descobri que na verdade eu vou mediar um painel, e não fazer uma apresentação dentro de um painel no meu congresso. Ai meu deus.
 
+Assinei o contrato do CES
+
+Fui visitar o luciano no porto
 # Pendencias
 
 
