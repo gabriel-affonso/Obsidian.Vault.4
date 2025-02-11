@@ -3,12 +3,12 @@ date: 2024-10-22
 tags:
 ---
 # Artigos
-	- [x] MSA 2025 [aceito]
+- [x] MSA 2025 [aceito]
 - [x] CAPS 2025
 	- [x]  APA 2025 [aceito]
 - [ ] [[QALI 2025]]
 	- [x] [[Prisma]] [aceito]
-- [ ] Enviar abstract do trabalho IA para https://www.oii.ox.ac.uk/news-events/events/global-southing-internet-and-data-studies-workshop/ até 11/02/25
+- [ ] Enviar abstract do trabalho IA para https://www.oii.ox.ac.uk/news-events/events/global-southing-internet-and-data-studies-workshop/ até 11/02/25 [[Abstract - Chat GPT e a Guerra Colonial]]
 # Empregos
 
 > [!note]- Acho que uma coisa que eu preciso fazer é definir quais são os cargos que eu posso desempenhar
