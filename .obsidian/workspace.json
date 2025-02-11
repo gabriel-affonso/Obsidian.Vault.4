@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Coisas/Aleatoriedade/Candidaturas.md",
+                "file": "ADovpm ADotpm.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Candidaturas"
+              "title": "ADovpm ADotpm"
             }
           }
         ]
@@ -78,7 +78,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 304.5
+    "width": 304.5,
+    "collapsed": true
   },
   "right": {
     "id": "3fc30dc42cda4f7f",
@@ -190,12 +191,15 @@
   },
   "active": "103e749c422b9a96",
   "lastOpenFiles": [
-    "Pensamentos/pensamento/Abstract - Chat GPT e a Guerra Colonial.md",
+    "Bibliografia Complementar - Heretic, 2024.md",
+    "Pessoas/Gírio.md",
     "Coisas/Semanas/2025/Fevereiro 2025/2025-02-11.md",
+    "ADovpm ADotpm.md",
+    "Coisas/Aleatoriedade/Candidaturas.md",
+    "Pensamentos/pensamento/Abstract - Chat GPT e a Guerra Colonial.md",
     "Coisas/Semanas/2025/2025-02-13.md",
     "Coisas/Semanas/2025/2025-02-14.md",
     "Pensamentos/pensamento/Artigo - uma etnografia de mulheres que pintam o cabelo de vermelho.md",
-    "Bibliografia Complementar - Heretic, 2024.md",
     "Pensamentos/pensamento/Pergunta - Qual será que é república soviética que tem a melhor bandeira.md",
     "Coisas/Semanas/2025/2025-02-10.md",
     "Coisas/Semanas/2025/2025-W07.md",
@@ -217,10 +221,7 @@
     "Coisas/Semanas/2025/Janeiro 2025/Semana 5/2025-01-28.md",
     "Coisas/Semanas/2025/Janeiro 2025/Semana 5/~syncthing~2025-01-28.md.tmp",
     "Coisas/Semanas/2025/Janeiro 2025/Semana 5/2025-01-27.md",
-    "Coisas/Semanas/2025/Janeiro 2025/Semana 4/2025-01-20.sync-conflict-20250127-205831-NKXW6QZ.md",
     "Coisas/Semanas/2025/Janeiro 2025/Semana 4/~syncthing~2025-01-20.sync-conflict-20250127-205831-NKXW6QZ.md.tmp",
-    "Coisas/Semanas/2025/Janeiro 2025/Semana 5/2025-W05.md",
-    "Coisas/Semanas/2025/Janeiro 2025/Semana 4/2025-W04.md",
     "~syncthing~Mensagem do Diego.md.tmp",
     "Coisas/Semanas/2025/Janeiro 2025/Semana 5",
     "Coisas/Semanas/2025/Janeiro 2025/Semana 4/~syncthing~2025-01-20.sync-conflict-20250121-095035-NKXW6QZ.md.tmp",
