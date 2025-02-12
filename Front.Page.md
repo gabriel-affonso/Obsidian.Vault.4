@@ -76,7 +76,7 @@
         </div>
     </header>
     <div class="container main">
-        <img src="your-photo.jpg" alt="Gabriel Affonso" width="150">
+        <img src="https://github.com/gabriel-affonso/Obsidian.Vault.4/blob/master/Coisas/Aleatoriedade/Dep%C3%B3sito%20de%20Aleatoriedades/Imagens/foto%20passe.jpg?raw=true" alt="Gabriel Affonso" width="150">
         <h2>Gabriel Affonso</h2>
         <p>Coimbra, PT</p>
         <p>Email: <a href="mailto:gabrielaffonso@ces.uc.pt">gabrielaffonso@ces.uc.pt</a></p>
