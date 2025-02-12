@@ -142,6 +142,7 @@
 ```
 
 Future Presentations and Publication:
+
 From Statue to Discourse: Continuities in the Memory of the Portuguese Colonial War in Coimbra - 9th Annual Conference of the Memory Studies Association, Praha 2025
 
  Monumentos Contestados: Uma sistematização dos atos de contestação monumental em Portugal entre 2017 e 2024 - XIII Congresso Português de Sociologia, 2025
