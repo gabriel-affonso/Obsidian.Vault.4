@@ -2,12 +2,19 @@
 date:
   "{ date:YYYY-MM-DD }": 
 hora: 17:58
-tags: 
-autor: 
-ano: 
-género: 
-contexto: 
+tags:
+  - Leiturinha
+autor: J. D. Salinger
+ano:
+  - "1951"
+género:
+  - romance
+contexto:
+  - Leiturinhas
 status:
+  - Lido
+nota:
+  - ⭐⭐⭐⭐⭐
 ---
 Catcher in the Rye
 

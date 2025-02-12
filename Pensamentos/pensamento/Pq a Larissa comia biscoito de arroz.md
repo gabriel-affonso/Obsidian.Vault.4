@@ -2,6 +2,7 @@
 date: 2025-02-12
 hora: 14:45
 tags:
+  - Pensamentos
 ---
 
 Acabei de ter um insight de pq a larissa comia biscoito fudido de arroz. Essa demonstração passa pelo reconhecimento de duas premissas:

@@ -115,3 +115,5 @@ dv.paragraph(`**Total Líquido:** ${totalLiquido.toLocaleString('pt-PT', { style
 
 # Gastos Previstos
 - [ ] Google one 30 eurs
+- [ ] jogo da bel - 25
+- [ ] coisas pra mim 40 - livro teméio e caderno
