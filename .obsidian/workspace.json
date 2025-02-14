@@ -11,12 +11,14 @@
             "id": "0ab260f2cf4cf9eb",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "Coisas/Aleatoriedade/Depósito de Aleatoriedades/Imagens/Pasted image 20250213101711.png"
+                "file": "Pensamentos/pensamento/Artigo - Documentar todas as notícias do TRUMP.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-image",
-              "title": "Pasted image 20250213101711"
+              "icon": "lucide-file",
+              "title": "Artigo - Documentar todas as notícias do TRUMP"
             }
           }
         ]
@@ -188,16 +190,17 @@
   },
   "active": "95fb0fd6edbd311d",
   "lastOpenFiles": [
+    "Coisas/Semanas/2025/Fevereiro 2025/Semana 2/2025-02-14.md",
+    "Pensamentos/pensamento/Artigo - Documentar todas as notícias do TRUMP.md",
+    "Coisas/Aleatoriedade/Depósito de Aleatoriedades/Imagens/Pasted image 20250213101711.png",
     "index.md",
     "Front.Page.md",
-    "Coisas/Semanas/2025/Fevereiro 2025/Semana 2/2025-02-14.md",
     "Coisas/Semanas/2025/Fevereiro 2025/Semana 2/2025-02-13.md",
     "Coisas/Semanas/2025/Fevereiro 2025/Semana 2/2025-02-11.md",
     "Coisas/Semanas/2025/Fevereiro 2025/Semana 2/2025-02-12.md",
     "Coisas/Semanas/2025/Fevereiro 2025/Semana 2/2025-W07.md",
     "Pessoas/Gírio.sync-conflict-20250213-101757-NKXW6QZ.md",
     "Pessoas/~syncthing~Gírio.sync-conflict-20250213-101757-NKXW6QZ.md.tmp",
-    "Coisas/Aleatoriedade/Depósito de Aleatoriedades/Imagens/Pasted image 20250213101711.png",
     "front.page2.html",
     "Coisas/Aleatoriedade/Depósito de Aleatoriedades/Imagens/front.page2.html",
     "frontpage.html",
@@ -223,7 +226,6 @@
     "Pensamentos/pensamento/Artigo - uma etnografia de mulheres que pintam o cabelo de vermelho.md",
     "Pensamentos/pensamento/Pergunta - Qual será que é república soviética que tem a melhor bandeira.md",
     "Coisas/Semanas/2025/Fevereiro 2025/Semana 1/2025-02-07.md",
-    "Coisas/Semanas/2025/Fevereiro 2025/Semana 1/2025-W06.md",
     "Coisas/Semanas/2025/Fevereiro 2025/Semana 1",
     "Leiturinhas/Livros/~syncthing~Catcher in the Rye.md.tmp",
     "Coisas/Aleatoriedade/Depósito de Aleatoriedades/Imagens/ch150420.gif",
