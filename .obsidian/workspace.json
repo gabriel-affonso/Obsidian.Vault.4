@@ -25,12 +25,14 @@
             "id": "52105ce8833a73c5",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.8.7"
+                "file": "Coisas/Semanas/2025/2025-02-19.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.8.7"
+              "icon": "lucide-file",
+              "title": "2025-02-19"
             }
           }
         ],
@@ -204,6 +206,13 @@
   },
   "active": "52105ce8833a73c5",
   "lastOpenFiles": [
+    "Coisas/Semanas/2025/2025-02-18.sync-conflict-20250219-121922-NKXW6QZ.md",
+    "Coisas/Semanas/2025/~syncthing~2025-02-18.sync-conflict-20250219-121922-NKXW6QZ.md.tmp",
+    "Screenshot_20250217-222718.png",
+    "Screenshot_20250218-095652.png",
+    "~syncthing~Screenshot_20250217-222718.png.tmp",
+    "~syncthing~Screenshot_20250218-095652.png.tmp",
+    "Coisas/Semanas/2025/2025-02-19.md",
     "Coisas/Semanas/2025/2025-W08.md",
     "Coisas/Semanas/2025/2025-02-18.md",
     "Coisas/Semanas/2025/Fevereiro 2025/Semana 2/2025-02-13.md",
@@ -238,18 +247,11 @@
     "Leiturinhas/Índice de Leiturinhas.md",
     "Leiturinhas/Livros/Catcher in the Rye.md",
     "Coisas/Aleatoriedade/Depósito de Aleatoriedades/Untitled 4.md",
-    "Coisas/Aleatoriedade/Depósito de Aleatoriedades/Untitled 1.md",
-    "Pensamentos/pensamento/Pq a Larissa comia biscoito de arroz.md",
-    "OPJ",
-    "Coisas/Semanas/2025/Fevereiro 2025/Semana 2",
-    "Coisas/Semanas/2025/Fevereiro 2025/Semana 1",
     "Coisas/Aleatoriedade/Depósito de Aleatoriedades/Imagens/ch150420.gif",
     "Coisas/Aleatoriedade/Depósito de Aleatoriedades/Imagens/IMG_20250116_224039125.jpg",
     "Coisas/Aleatoriedade/Depósito de Aleatoriedades/Imagens/skyrim-lydia.png",
     "Coisas/Aleatoriedade/Depósito de Aleatoriedades/Imagens/legoração.png",
     "Coisas/Aleatoriedade/Depósito de Aleatoriedades/Imagens/IMG_20250110_220707444.jpg",
-    "Coisas/Aleatoriedade/Depósito de Aleatoriedades/Imagens/logo.png",
-    "defaultTopImage.jpg",
     "Untitled.canvas",
     "Untitled 1.canvas",
     "Untitled 2.canvas"
