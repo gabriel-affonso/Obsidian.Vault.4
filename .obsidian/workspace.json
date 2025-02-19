@@ -13,20 +13,6 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Coisas/Semanas/2025/2025-02-18.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "2025-02-18"
-            }
-          },
-          {
-            "id": "52105ce8833a73c5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
                 "file": "Coisas/Semanas/2025/2025-02-19.md",
                 "mode": "source",
                 "source": false
@@ -35,8 +21,7 @@
               "title": "2025-02-19"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -93,8 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 304.5,
-    "collapsed": true
+    "width": 304.5
   },
   "right": {
     "id": "3fc30dc42cda4f7f",
@@ -204,15 +188,22 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "52105ce8833a73c5",
+  "active": "0ab260f2cf4cf9eb",
   "lastOpenFiles": [
+    "Coisas/Aleatoriedade/Candidaturas.md",
+    "Coisas/Semanas/2025/2025-02-19.md",
+    "Coisas/Aleatoriedade/Depósito de Aleatoriedades/Imagens/Pasted image 20250213101711.png",
+    "Coisas/Aleatoriedade/Depósito de Aleatoriedades/Imagens/logo.png",
+    "Front.Page.md",
+    "index.md",
+    "Screenshot_20250218-095652.png",
+    "Screenshot_20250217-222718.png",
+    "tsete.md",
+    "Coisas/Aleatoriedade/Depósito de Aleatoriedades/Depósito de Registros/Newsletter do Clube do Switch - 04.md",
     "Coisas/Semanas/2025/2025-02-18.sync-conflict-20250219-121922-NKXW6QZ.md",
     "Coisas/Semanas/2025/~syncthing~2025-02-18.sync-conflict-20250219-121922-NKXW6QZ.md.tmp",
-    "Screenshot_20250217-222718.png",
-    "Screenshot_20250218-095652.png",
     "~syncthing~Screenshot_20250217-222718.png.tmp",
     "~syncthing~Screenshot_20250218-095652.png.tmp",
-    "Coisas/Semanas/2025/2025-02-19.md",
     "Coisas/Semanas/2025/2025-W08.md",
     "Coisas/Semanas/2025/2025-02-18.md",
     "Coisas/Semanas/2025/Fevereiro 2025/Semana 2/2025-02-13.md",
@@ -227,9 +218,6 @@
     "Pessoas/Gírio.sync-conflict-20250213-101757-NKXW6QZ.md",
     "Coisas/Semanas/2025/Fevereiro 2025/Semana 2/2025-02-14.md",
     "Pensamentos/pensamento/Artigo - Documentar todas as notícias do TRUMP.md",
-    "Coisas/Aleatoriedade/Depósito de Aleatoriedades/Imagens/Pasted image 20250213101711.png",
-    "index.md",
-    "Front.Page.md",
     "Coisas/Semanas/2025/Fevereiro 2025/Semana 2/2025-02-11.md",
     "Coisas/Semanas/2025/Fevereiro 2025/Semana 2/2025-02-12.md",
     "Coisas/Semanas/2025/Fevereiro 2025/Semana 2/2025-W07.md",
@@ -238,20 +226,15 @@
     "Coisas/Aleatoriedade/Depósito de Aleatoriedades/Imagens/front.page2.html",
     "frontpage.html",
     "Coisas/Aleatoriedade/Depósito de Aleatoriedades/Imagens/frontpage.html",
-    "tsete.md",
     "Coisas/Aleatoriedade/Depósito de Aleatoriedades/Imagens/foto passe.jpg",
     "Coisas/Aleatoriedade/Depósito de Aleatoriedades/Imagens/IMG_20250122_142001279~2(1).jpg",
-    "Coisas/Aleatoriedade/Candidaturas.md",
     "Pensamentos/pensamento/Abstract - Chat GPT e a Guerra Colonial.md",
     "Pensamentos/pensamento/Atualizar frontpage do github.md",
     "Leiturinhas/Índice de Leiturinhas.md",
-    "Leiturinhas/Livros/Catcher in the Rye.md",
-    "Coisas/Aleatoriedade/Depósito de Aleatoriedades/Untitled 4.md",
     "Coisas/Aleatoriedade/Depósito de Aleatoriedades/Imagens/ch150420.gif",
     "Coisas/Aleatoriedade/Depósito de Aleatoriedades/Imagens/IMG_20250116_224039125.jpg",
     "Coisas/Aleatoriedade/Depósito de Aleatoriedades/Imagens/skyrim-lydia.png",
     "Coisas/Aleatoriedade/Depósito de Aleatoriedades/Imagens/legoração.png",
-    "Coisas/Aleatoriedade/Depósito de Aleatoriedades/Imagens/IMG_20250110_220707444.jpg",
     "Untitled.canvas",
     "Untitled 1.canvas",
     "Untitled 2.canvas"

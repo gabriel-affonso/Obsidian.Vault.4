@@ -8,7 +8,8 @@ tags:
 	- [x]  APA 2025 [aceito]
 - [ ] [[QALI 2025]]
 	- [x] [[Prisma]] [aceito]
-- [ ] Enviar abstract do trabalho IA para https://www.oii.ox.ac.uk/news-events/events/global-southing-internet-and-data-studies-workshop/ até 11/02/25 [[Abstract - Chat GPT e a Guerra Colonial]]
+- [x] Enviar abstract do trabalho IA para https://www.oii.ox.ac.uk/news-events/events/global-southing-internet-and-data-studies-workshop/ até 11/02/25 [[Abstract - Chat GPT e a Guerra Colonial]]
+- [ ] [Festschrift](https://aps.pt/call-for-papers-newsletter-aps-no-821/?utm_source_platform=mailpoet) - até [[2025-04-24]] sobre estudos críticos, culturais e  urbanos
 # Empregos
 
 > [!note]- Acho que uma coisa que eu preciso fazer é definir quais são os cargos que eu posso desempenhar
