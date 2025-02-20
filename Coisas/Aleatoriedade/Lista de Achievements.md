@@ -19,6 +19,7 @@ tags:
 - [ ] Ver batman 2
 - [ ] Terminar um jogo do switch
 - [ ] Ter um projeto de tese
+- [ ] fazer a barba com uma navalha
 - [ ] Ir para Roma
 - [ ] Ir pra China
 - [ ] comer rodízio de sushi sozinho
