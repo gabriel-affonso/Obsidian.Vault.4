@@ -57,6 +57,7 @@ tags:
 - [ ] dar ficções pro gírio
 - [ ] pensei que o fred namorava com a ana, esqueci o sobrenome, minha nossa
 - [ ] à benfica
+- [ ] Perguntar sobre o inquérito para o Thíasos 
 
 # Coisas
 
