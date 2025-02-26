@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Coisas/Semanas/2025/2025-02-25.md",
+                "file": "Coisas/Semanas/2025/2025-02-26.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2025-02-25"
+              "title": "2025-02-26"
             }
           }
         ]
@@ -79,7 +79,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 304.5
+    "width": 304.5,
+    "collapsed": true
   },
   "right": {
     "id": "3fc30dc42cda4f7f",
@@ -191,8 +192,9 @@
   },
   "active": "0ab260f2cf4cf9eb",
   "lastOpenFiles": [
-    "Coisas/Semanas/2025/2025-02-20.md",
     "Coisas/Semanas/2025/2025-02-25.md",
+    "Coisas/Semanas/2025/2025-02-26.md",
+    "Coisas/Semanas/2025/2025-02-20.md",
     "Coisas/Semanas/2025/2025-02-21.md",
     "Pessoas/Gírio.md",
     "Pessoas/Luciano.md",
@@ -226,7 +228,6 @@
     "Pessoas/Bel.md",
     "~syncthing~Artigo - as representações da guerrilha urbana no fim da ditadura em livros de história.md.tmp",
     "~syncthing~Artigo - o Terrorismo como um não conceito.md.tmp",
-    "Pessoas/Gírio.sync-conflict-20250213-101757-NKXW6QZ.md",
     "Pessoas/~syncthing~Gírio.sync-conflict-20250213-101757-NKXW6QZ.md.tmp",
     "front.page2.html",
     "Coisas/Aleatoriedade/Depósito de Aleatoriedades/Imagens/front.page2.html",
