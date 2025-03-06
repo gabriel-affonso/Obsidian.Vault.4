@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:pensa",
                 "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": false,
@@ -78,8 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 304.5,
-    "collapsed": true
+    "width": 304.5
   },
   "right": {
     "id": "3fc30dc42cda4f7f",
@@ -191,10 +190,11 @@
   },
   "active": "d17299bd7c4aea0d",
   "lastOpenFiles": [
+    "Smint.md",
+    "Coisas/Semanas/2025/2025-03-06.md",
     "Artigo - percepção de discriminação em Portugal.md",
     "~syncthing~Artigo - percepção de discriminação em Portugal.md.tmp",
     "Coisas/Semanas/2025/~syncthing~2025-03-06.md.tmp",
-    "Coisas/Semanas/2025/2025-03-06.md",
     "Pensamentos/Índice de Pensamentos.md",
     "Pensamentos/pensamento/Coisas - enviador de mensagens pro gírio.md",
     "Coisas/Aleatoriedade/Depósito de Aleatoriedades/Imagens/lindo.png",
@@ -220,7 +220,6 @@
     "Coisas/Semanas/2025/2025-W08.md",
     "~syncthing~ADovpm ADotpm.md.tmp",
     "Pensamentos/pensamento/Artigo - Pornhub e o fascismo.md",
-    "Coisas/Aleatoriedade/Lista de Compras.md",
     "Coisas/Aleatoriedade/Depósito de Aleatoriedades/Imagens/Pasted image 20250213101711.png",
     "Coisas/Aleatoriedade/Depósito de Aleatoriedades/Imagens/logo.png",
     "Screenshot_20250218-095652.png",
