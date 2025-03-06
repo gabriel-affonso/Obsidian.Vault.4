@@ -20,8 +20,21 @@
               "icon": "lucide-file",
               "title": "2025-03-05"
             }
+          },
+          {
+            "id": "d17299bd7c4aea0d",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.8.9"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.8.9"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -189,7 +202,7 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "0ab260f2cf4cf9eb",
+  "active": "d17299bd7c4aea0d",
   "lastOpenFiles": [
     "Pensamentos/Índice de Pensamentos.md",
     "Pensamentos/pensamento/Coisas - enviador de mensagens pro gírio.md",
