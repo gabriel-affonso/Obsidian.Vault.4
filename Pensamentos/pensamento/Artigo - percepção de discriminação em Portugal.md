@@ -2,6 +2,8 @@
 date: 2025-03-06
 hora: 13:02
 tags:
+  - Pensamentos
+  - Artigo
 ---
 
 
