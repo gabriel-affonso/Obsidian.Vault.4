@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Front.Page.md",
+                "file": "Coisas/Semanas/2025/Março 2025/2025-03-12.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Front.Page"
+              "title": "2025-03-12"
             }
           }
         ]
@@ -78,7 +78,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 304.5
+    "width": 304.5,
+    "collapsed": true
   },
   "right": {
     "id": "3fc30dc42cda4f7f",
@@ -190,11 +191,22 @@
   },
   "active": "d17299bd7c4aea0d",
   "lastOpenFiles": [
+    "Coisas/Semanas/2025/2025-W08.sync-conflict-20250312-100535-7TQ5V76.md",
+    "Coisas/Semanas/2025/2025-W08.sync-conflict-20250312-100539-7TQ5V76.md",
+    "Coisas/Semanas/2025/Fevereiro 2025/2025-02-28.md",
+    "Coisas/Semanas/2025/Fevereiro 2025/2025-02-17 1.md",
+    "Coisas/Semanas/2025/Março 2025/2025-03-12.md",
+    "Coisas/Semanas/2025/Março 2025/2025-03-11.sync-conflict-20250311-110328-NH3ZHI2.md",
+    "ADovpm ADotpm.md",
+    "enviador de mensagens pro gírio.md",
+    "Artigo - referências sexuais na 100 billboard.md",
+    "lindo.png",
+    "Front.Page.md",
+    "Front.Page.sync-conflict-20250312-100535-7TQ5V76.md",
     "index.md",
     "tsete.md",
     "Pensamentos/pensamento/Smint.md",
     "Pensamentos/pensamento/Artigo - percepção de discriminação em Portugal.md",
-    "Coisas/Semanas/2025/Março 2025/2025-03-11.sync-conflict-20250311-110328-NH3ZHI2.md",
     "Coisas/Semanas/2025/Fevereiro 2025/2025-02-26.md",
     "Coisas/Semanas/2025/Março 2025/2025-03-03.md",
     "Coisas/Semanas/2025/Março 2025",
@@ -213,16 +225,6 @@
     "Pensamentos/Índice de Pensamentos.md",
     "Pensamentos/pensamento/Coisas - enviador de mensagens pro gírio.md",
     "Coisas/Aleatoriedade/Depósito de Aleatoriedades/Imagens/lindo.png",
-    "Front.Page.md",
-    "ADovam ADotam.md",
-    "Template/Templates/Nova Nota.md",
-    "Template/Templates/Ficha de leitura.md",
-    "Template/Templates/Nova Nota 1.md",
-    "Template/Índice Template.md",
-    "Leiturinhas/Livros/Frankestein.md",
-    "Leiturinhas/Índice de Leiturinhas.md",
-    "Pensamentos/pensamento/Artigo - referências sexuais na 100 billboard.md",
-    "Coisas/Semanas/2025/Março 2025/2025-03-05.md",
     "~syncthing~ADovpm ADotpm.md.tmp",
     "Coisas/Aleatoriedade/Depósito de Aleatoriedades/Imagens/Pasted image 20250213101711.png",
     "Coisas/Aleatoriedade/Depósito de Aleatoriedades/Imagens/logo.png",
@@ -235,7 +237,6 @@
     "Coisas/Aleatoriedade/Depósito de Aleatoriedades/Imagens/IMG_20250122_142001279~2(1).jpg",
     "Coisas/Aleatoriedade/Depósito de Aleatoriedades/Imagens/ch150420.gif",
     "Coisas/Aleatoriedade/Depósito de Aleatoriedades/Imagens/IMG_20250116_224039125.jpg",
-    "Coisas/Aleatoriedade/Depósito de Aleatoriedades/Imagens/skyrim-lydia.png",
     "Untitled.canvas",
     "Untitled 1.canvas",
     "Untitled 2.canvas"
