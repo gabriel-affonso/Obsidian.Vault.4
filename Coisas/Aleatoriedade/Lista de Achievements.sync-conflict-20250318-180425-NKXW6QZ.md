@@ -32,6 +32,3 @@ tags:
 - [ ] atualizar a wikipedia da minha estátua
 - [ ] ver o génio indovamel
 - [ ] ver todos os filmes do sonic
-- [ ] fazer um relógio pro meu pai
-- [ ] ir numa aula de mma
-- [ ] tocar a música do kung fu panda em algum instrumento de sopro ou brass
