@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Tema - A Memória Jurídico-Económica.md",
+                "file": "Coisas/Semanas/2025/2025-03-19.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Tema - A Memória Jurídico-Económica"
+              "title": "2025-03-19"
             }
           }
         ]
@@ -78,7 +78,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 304.5
+    "width": 304.5,
+    "collapsed": true
   },
   "right": {
     "id": "3fc30dc42cda4f7f",
@@ -190,8 +191,8 @@
   },
   "active": "d17299bd7c4aea0d",
   "lastOpenFiles": [
-    "Coisas/Semanas/2025/2025-03-19.md",
     "Tema - A Memória Jurídico-Económica.md",
+    "Coisas/Semanas/2025/2025-03-19.md",
     "Pensamentos/pensamento/Tema - A Teoria Política do Fim do Mundo.md",
     "Coisas/Semanas/2025/Março 2025/2025-03-11.sync-conflict-20250311-110328-NH3ZHI2.md",
     "Coisas/Semanas/2025/Março 2025/~syncthing~2025-03-11.sync-conflict-20250311-110328-NH3ZHI2.md.tmp",
