@@ -20,8 +20,21 @@
               "icon": "lucide-file",
               "title": "2025-03-18"
             }
+          },
+          {
+            "id": "09cdb94ed25ca79d",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.8.9"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.8.9"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -188,7 +201,7 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "d17299bd7c4aea0d",
+  "active": "09cdb94ed25ca79d",
   "lastOpenFiles": [
     "Coisas/Semanas/2025/2025-W12.md",
     "Coisas/Semanas/2025/2025-03-18.md",
