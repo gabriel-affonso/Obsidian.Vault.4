@@ -78,7 +78,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 304.5
+    "width": 304.5,
+    "collapsed": true
   },
   "right": {
     "id": "3fc30dc42cda4f7f",
@@ -188,7 +189,7 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "95fb0fd6edbd311d",
+  "active": "d17299bd7c4aea0d",
   "lastOpenFiles": [
     "Sem título.png",
     "ADovpm ADotpm.md",
