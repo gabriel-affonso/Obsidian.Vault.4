@@ -17,4 +17,6 @@ O primeiro tema, que mais se aproxima daquilo que eu já fiz e li pretende explo
 
 Acho que esse é um tema interessante, que contribui para a compreensão de como outros quadros meta-teóricos constituem a relação do presente com a memória do colonialismo. 
 
-Os problemas do tema são, por um lado, logísticos e, por outro aqueles naturais dos estudos da memória
+Os problemas do tema são, por um lado, logísticos e, por outro aqueles naturais dos estudos da memória, que eu gosto de definir com a ausência de um átomo da memória. Isto é, a dificuldade epistemológica em encontrar a memória "real" de um grupo ou comunidade. 
+
+Por isso, a metodologia vislumbrada pra um trabalho como este assente em entrevistas semi-
