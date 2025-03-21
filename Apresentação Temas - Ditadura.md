@@ -39,3 +39,4 @@ Tipo isso.
 Em contrapartida, acho que o tema do fim do mundo contribui para a formação de um léxico analítico adequado para compreender a modernidade tardia. 
 
 Agora temos o terceiro tema - o menos formado entre os 3 - que é uma exploração sobre uma memória jurídica 
+A idea é explorar os diferentes esforços de memória codificam crises económicas e redução de direitos. A id
