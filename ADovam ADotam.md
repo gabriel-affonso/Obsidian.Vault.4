@@ -19,4 +19,5 @@ Acho que esse é um tema interessante, que contribui para a compreensão de como
 
 Os problemas do tema são, por um lado, logísticos e, por outro aqueles naturais dos estudos da memória, que eu gosto de definir com a ausência de um átomo da memória. Isto é, a dificuldade epistemológica em encontrar a memória "real" de um grupo ou comunidade. 
 
-Por isso, a metodologia vislumbrada pra um trabalho como este assente em entrevistas semi-
+Por isso, a metodologia vislumbrada pra um trabalho como este assente em entrevistas semi-abertas em profundidade com lideranças religiosas, análise documental e investigação patrimonial e urbana, talvez algum inquérito com muçulmanos "comuns" também será interessante. A ideia desta metodologia mista é encontrar a intersecção entre o pensamento das elites religiosas, do corpo teológico estabelecido e da memória social vigente.
+
