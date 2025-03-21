@@ -33,4 +33,9 @@ A partir disto, o que eu pensei em fazer é analisar os usos deste projeto, cate
 
 Como vcs devem ter percebido, esse projeto esta menos desenvolvido, possui uma problemática menso clara, mas pretende compreender o fim do mundo enquanto um fenómeno definidor da política na modernidade tardia. ACho que isso já é um pouco batido, tendo sido explorado pela ficção há pelo menos uns 30 anos, mas acho que isso pode contribuir pra identificar esse fenomeno cultural que, apesar que estar presente nas subjetividades há mt tempo, começa a assumir recortes mais claros com o fim da urss,
 
-Os problemas deste tema são os mesmos de outros projetos sobre teoria política sobre fenómenos pouco concretos e concensualizados. ACaba sendo mais uma opnião minha intrumentalizada a partir de uma metodologia meio dúbia. O ponto positivo é a amplitude e relevância deste processo. Isso fica bem claro em comparação com o anteior, que apesar de ter uma problemática clara, não representa um contributo para trabalho futuros. é tipo um galho pra trás 
+Os problemas deste tema são os mesmos de outros projetos sobre teoria política sobre fenómenos pouco concretos e concensualizados. ACaba sendo mais uma opnião minha intrumentalizada a partir de uma metodologia meio dúbia. O ponto positivo é a amplitude e relevância deste processo. Isso fica bem claro em comparação com o anteior, que apesar de ter uma problemática clara, não representa um contributo para trabalho futuros. é tipo um galho pra trás ![[Sem título.png]]
+
+Tipo isso. 
+Em contrapartida, acho que o tema do fim do mundo contribui para a formação de um léxico analítico adequado para compreender a modernidade tardia. 
+
+Agora temos o terceiro tema - o menos formado entre os 3 - que é uma exploração sobre uma memória jurídica 

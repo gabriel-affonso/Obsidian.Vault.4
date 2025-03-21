@@ -74,8 +74,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -189,8 +188,9 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "d17299bd7c4aea0d",
+  "active": "95fb0fd6edbd311d",
   "lastOpenFiles": [
+    "Sem título.png",
     "ADovpm ADotpm.md",
     "Coisas/Semanas/2025/2025-03-21.md",
     "Apresentação Temas - Ditadura.md",
@@ -218,7 +218,6 @@
     "Coisas/Aleatoriedade/Lista de Achievements.sync-conflict-20250312-100537-7TQ5V76.md",
     "Coisas/Aleatoriedade/Lista de Achievements.sync-conflict-20250312-100539-7TQ5V76.md",
     "Coisas/Aleatoriedade/Lista de Achievements.sync-conflict-20250318-180425-NKXW6QZ.md",
-    "Coisas/Aleatoriedade/Lista de Compras.sync-conflict-20250312-100535-7TQ5V76.md",
     "Coisas/Semanas/2025/~syncthing~2025-03-13.md.tmp",
     "Coisas/Semanas/2025/Março 2025/~syncthing~2025-03-12.md.tmp",
     "lindo.png",
