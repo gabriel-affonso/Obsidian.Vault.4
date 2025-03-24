@@ -58,7 +58,7 @@ visibilidade:
 |[[Coisas - Calculadora de regra de 3]](app://obsidian.md/Pensamentos/pensamento/Coisas%20-%20Calculadora%20de%20regra%20de%203.md)|dezembro 04, 2024|
 |[[Coisas - Colocar um localizador no meu fone de ouvido]](app://obsidian.md/Pensamentos/pensamento/Coisas%20-%20Colocar%20um%20localizador%20no%20meu%20fone%20de%20ouvido.md)|dezembro 09, 2024|
 |[[Coisas - Começar a mandar 100 eur pro rev do br]](app://obsidian.md/Pensamentos/pensamento/Coisas%20-%20Come%C3%A7ar%20a%20mandar%20100%20eur%20pro%20rev%20do%20br.md)|dezembro 05, 2024|
-|[[Coisas - enviador de mensagens pro gírio]](app://obsidian.md/Pensamentos/pensamento/Coisas%20-%20enviador%20de%20mensagens%20pro%20g%C3%ADrio.md)|fevereiro 20, 2025|
+|[[Pensamentos/pensamento/Coisas - enviador de mensagens pro gírio]](app://obsidian.md/Pensamentos/pensamento/Coisas%20-%20enviador%20de%20mensagens%20pro%20g%C3%ADrio.md)|fevereiro 20, 2025|
 |[[Coisas - Eu deveria montar uma necessairesinha]](app://obsidian.md/Pensamentos/pensamento/Coisas%20-%20Eu%20deveria%20montar%20uma%20necessairesinha.md)|dezembro 05, 2024|
 |[[Coisas - Fazer aquela camiseta go vegan com um brócolis samurai e com vegan escrito em katagana ou um bravo e uma lata ade espinafre]](app://obsidian.md/Pensamentos/pensamento/Coisas%20-%20Fazer%20aquela%20camiseta%20go%20vegan%20com%20um%20br%C3%B3colis%20samurai%20e%20com%20vegan%20escrito%20em%20katagana%20ou%20um%20bravo%20e%20uma%20lata%20ade%20espinafre.md)|dezembro 15, 2024|
 |[[Coisas - Fazer lista de emails do cristiano ronaldo de natal]](app://obsidian.md/Pensamentos/pensamento/Coisas%20-%20Fazer%20lista%20de%20emails%20do%20cristiano%20ronaldo%20de%20natal.md)|dezembro 05, 2024|
