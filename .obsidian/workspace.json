@@ -152,8 +152,8 @@
             "state": {
               "type": "advanced-tables-toolbar",
               "state": {},
-              "icon": "lucide-file",
-              "title": "Plugin no longer active"
+              "icon": "spreadsheet",
+              "title": "Advanced Tables"
             }
           },
           {
@@ -171,8 +171,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 427.5,
-    "collapsed": true
+    "width": 427.5
   },
   "left-ribbon": {
     "hiddenItems": {
