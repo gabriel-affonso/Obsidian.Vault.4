@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "senha",
+                "query": "obsidian",
                 "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": false,
@@ -74,7 +74,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -189,7 +190,7 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "65087f8aa8e27ff5",
+  "active": "f3944d77e7a6b5c4",
   "lastOpenFiles": [
     "Coisas/Semanas/2025/2025-03-25.md",
     "Coisas/Semanas/2025/2025-03-26.md",
