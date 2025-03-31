@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "264c347a9482d5e6",
+        "id": "6f97d180bd1b3a1b",
         "type": "tabs",
         "children": [
           {
-            "id": "8b42d4f83770c4c5",
+            "id": "65087f8aa8e27ff5",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Coisas/Semanas/2025/2025-03-26.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "2025-03-26"
             }
           }
         ]
@@ -49,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "muçulm",
+                "query": "obsidian",
                 "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": false,
@@ -70,12 +74,12 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 304.5,
-    "collapsed": true
+    "width": 304.5
   },
   "right": {
     "id": "3fc30dc42cda4f7f",
@@ -154,7 +158,7 @@
             }
           },
           {
-            "id": "095ec323cbc59d48",
+            "id": "52c2ad783db84843",
             "type": "leaf",
             "state": {
               "type": "calendar",
@@ -164,7 +168,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -173,8 +177,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "obsidian-kanban:Create new board": false,
-      "obsidian-git:Open Git source control": false,
+      "smart-second-brain:Open S2B Chat": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
@@ -182,57 +185,59 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "obsidian-git:Open Git source control": false,
+      "obsidian-kanban:Create new board": false,
       "periodic-notes:Open today": false
     }
   },
-  "active": "8b42d4f83770c4c5",
+  "active": "f3944d77e7a6b5c4",
   "lastOpenFiles": [
-    "Coisas/Semanas/2025/2025-03-26.md",
     "Coisas/Semanas/2025/2025-03-25.md",
-    "Pensamentos/pensamento/Coisas - Livro com a Bel.md",
-    "Coisas/Semanas/2025/2025-W13.md",
+    "Coisas/Semanas/2025/2025-03-26.md",
     "Coisas/Semanas/2025/2025-03-24.md",
-    "Coisas/Semanas/2025/2025-04-11.md",
-    "Coisas/Semanas/2025/~syncthing~2025-03-21.md.tmp",
-    "Coisas/Semanas/2025/~syncthing~2025-03-25.md.tmp",
-    "Pensamentos/pensamento/Apresentação Temas - Ditadura.md",
-    "Coisas/Semanas/2025/~syncthing~2025-03-26.md.tmp",
-    "Coisas/Aleatoriedade/Depósito de Aleatoriedades/Imagens/Sem título.png",
-    "Pensamentos/pensamento/~syncthing~Coisas - Livro com a Bel.md.tmp",
-    "Coisas/Semanas/2025/~syncthing~2025-W13.md.tmp",
-    "Pensamentos/~syncthing~Índice de Pensamentos.md.tmp",
     "Coisas/Semanas/2025/~syncthing~2025-03-24.md.tmp",
-    "Coisas/Semanas/2025/~syncthing~2025-04-11.md.tmp",
-    "Coisas/Semanas/2025/2025-04-07.md",
-    "Coisas/Semanas/2025/~syncthing~2025-04-07.md.tmp",
-    "Pensamentos/pensamento/Coisas - enviador de mensagens pro gírio 1.md",
-    "George Orwell, literatura e a cia.md",
+    "Coisas/Semanas/2025/2025-W13.md",
     "Coisas/Aleatoriedade/Depósito de Aleatoriedades/Imagens/lindo 1.png",
-    "~syncthing~George Orwell, literatura e a cia.md.tmp",
-    "Coisas/Semanas/2025/2025-03-31.md",
-    "Coisas/Semanas/2025/2025-03-28.md",
-    "ADovpm ADotpm.md",
-    "Apresentação Temas - Ditadura.md",
-    "Sem título.png",
-    "Coisas/Semanas/2025/2025-03-21.md",
+    "Coisas/Aleatoriedade/Depósito de Aleatoriedades/Imagens/Sem título.png",
+    "index.md",
+    "tsete.md",
+    "Pensamentos/pensamento/Coisas - enviador de mensagens pro gírio 1.md",
     "Untitled.md",
+    "Front.Page.md",
+    "Pensamentos/pensamento/Apresentação Temas - Ditadura.md",
+    "Apresentação Temas - Ditadura.sync-conflict-20250324-101811-NKXW6QZ.md",
+    "ADovpm ADotpm.sync-conflict-20250324-101811-NKXW6QZ.md",
+    "Pensamentos/pensamento/Coisas - Livro com a Bel.md",
+    "Coisas/Semanas/2025/2025-04-11.md",
+    "Coisas/Semanas/2025/2025-04-07.md",
+    "Coisas/Semanas/2025/2025-03-21.md",
+    "~syncthing~Apresentação Temas - Ditadura.sync-conflict-20250324-101811-NKXW6QZ.md.tmp",
+    "~syncthing~ADovpm ADotpm.sync-conflict-20250324-101811-NKXW6QZ.md.tmp",
+    "Coisas/Semanas/2025/~syncthing~2025-03-21.md.tmp",
+    "ADovam ADotam.md",
     "Tema - A Memória Jurídico-Económica.sync-conflict-20250319-194811-7TQ5V76.md",
     "Coisas/Semanas/2025/2025-03-20.md",
     "Pensamentos/pensamento/Pq o Thesaurus é tão ruim.md",
     "Coisas/Semanas/2025/2025-03-19.sync-conflict-20250320-222020-NKXW6QZ.md",
     "Coisas/Semanas/2025/2025-03-19.sync-conflict-20250320-150446-NKXW6QZ.md",
     "Pensamentos/pensamento/Tema - A Memória Jurídico-Económica 1.md",
-    "Front.Page.md",
+    "~syncthing~Tema - A Memória Jurídico-Económica.md.tmp",
+    "Coisas/Semanas/2025/Março 2025/~syncthing~2025-03-11.sync-conflict-20250311-110328-NH3ZHI2.md.tmp",
     "Pensamentos/pensamento/Hiper identidades angustiadas.md",
     "Pensamentos/pensamento/Tema - A Memória Jurídico-Económica.md",
-    "tsete.md",
-    "lindo.png",
+    "Pensamentos/pensamento/Artigo - Existe uma correlação entre transtornos de neurodesenvolvimento e ideologia política.md",
+    "Coisas/Semanas/2025/~syncthing~2025-03-13.md.tmp",
+    "Coisas/Semanas/2025/Março 2025/~syncthing~2025-03-12.md.tmp",
+    "Coisas/Semanas/2025/Março 2025",
+    "Coisas/Semanas/2025/~syncthing~2025-03-11.md.tmp",
     "Coisas/Aleatoriedade/Depósito de Aleatoriedades/Imagens/lindo.png",
     "Coisas/Aleatoriedade/Depósito de Aleatoriedades/Imagens/Pasted image 20250213101711.png",
     "Coisas/Aleatoriedade/Depósito de Aleatoriedades/Imagens/logo.png",
     "Screenshot_20250218-095652.png",
     "Screenshot_20250217-222718.png",
     "Coisas/Aleatoriedade/Depósito de Aleatoriedades/Imagens/foto passe.jpg",
+    "Coisas/Aleatoriedade/Depósito de Aleatoriedades/Imagens/IMG_20250122_142001279~2(1).jpg",
+    "Coisas/Aleatoriedade/Depósito de Aleatoriedades/Imagens/ch150420.gif",
     "Untitled.canvas",
     "Untitled 1.canvas",
     "Untitled 2.canvas"
