@@ -2,6 +2,7 @@
 date: 2025-03-27
 hora: 18:48
 tags:
+  - Pensamentos
 ---
 
 
