@@ -30,3 +30,7 @@ e deveria fazer isso num pais tipo lituania
 como fica o imposto sobre o tesouro de uma empresa
 
 acho que deveria ser uma corretora transatlântica
+
+se eu deixar o lucro no brasil fica até mais fácil
+
+criar uma conta oof shore melhora de alguma forma?
