@@ -8,3 +8,13 @@ tags:
 
 
 # Coisas pra fazer
+- [ ] epicura
+- [ ] pizza do amigo
+- [ ] solar
+- [ ] gruta
+- [ ] cantinho
+- [ ] cortar cabelo
+- [ ] machado de castro
+- [ ] ir no cinema
+- [ ] ir na praxis
+- [ ] ir no lidl
