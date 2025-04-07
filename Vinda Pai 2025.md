@@ -20,3 +20,4 @@ tags:
 - [ ] ir no lidl
 - [ ] Bel 
 	- [ ] Muca Muriçoca
+- [ ] https://www.google.com/finance/quote/VIX:INDEXCBOE?authuser=0&window=MAX
