@@ -18,3 +18,4 @@ tags:
 - [ ] ir no cinema
 - [ ] ir na praxis
 - [ ] ir no lidl
+- [ ] assistir sounds of metal
