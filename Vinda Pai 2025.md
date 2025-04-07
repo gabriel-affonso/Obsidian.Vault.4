@@ -18,3 +18,5 @@ tags:
 - [ ] ir no cinema
 - [ ] ir na praxis
 - [ ] ir no lidl
+- [ ] Bel 
+	- [ ] Muca Muriçoca
