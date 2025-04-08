@@ -19,3 +19,7 @@ tags:
 - [ ] ir na praxis
 - [ ] ir no lidl
 - [ ] assistir sounds of metal
+- [ ] tomar vinho
+- [ ] fazer café
+- [ ] comprar moedor
+- [ ] fazer relógio

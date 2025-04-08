@@ -24,8 +24,8 @@ tags:
 - [x] comprar potinhos
 - [ ] chamar o girio pra sair com o Roberto 
 - [ ] ono roller
-- [ ] comprar cabo USB c
-- [ ] 
+- [x] comprar cabo USB c
+- [ ] carregador
 
 
 

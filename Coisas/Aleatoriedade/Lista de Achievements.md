@@ -17,7 +17,7 @@ tags:
 - [ ] Publicar um artigo
 - [x] Ter todas as minhas notas do obsidian online
 - [ ] Ver batman 2
-- [ ] Terminar um jogo do switch
+- [x] Terminar um jogo do switch
 - [ ] Ter um projeto de tese
 - [ ] fazer a barba com uma navalha
 - [ ] Ir para Roma
@@ -35,3 +35,5 @@ tags:
 - [ ] fazer um relógio pro meu pai
 - [ ] ir numa aula de mma
 - [ ] tocar a música do kung fu panda em algum instrumento de sopro ou brass
+- [ ] Comprar Super Mario 3D superstars
+- [ ] 
