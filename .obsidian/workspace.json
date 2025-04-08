@@ -74,8 +74,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -172,7 +171,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 427.5
+    "width": 427.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -189,7 +189,7 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "f3944d77e7a6b5c4",
+  "active": "95fb0fd6edbd311d",
   "lastOpenFiles": [
     "Coisas/Semanas/2025/2025-04-07.md",
     "Coisas/Semanas/2025/2025-04-08.md",
