@@ -23,3 +23,4 @@ tags:
 - [ ] fazer café
 - [ ] comprar moedor
 - [ ] fazer relógio
+- [x] comprar chip
