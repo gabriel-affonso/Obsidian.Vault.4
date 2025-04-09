@@ -7,7 +7,9 @@ Jogos que eu quero jogar nele:
 - [ ] Cyberpunk
 - [ ] God of War
 - [ ] Red Dead II
-- [ ] 
+- [ ] Shadow of the collossus
+- [ ] AstroBot
+- [ ] Horizont
 
 
 
