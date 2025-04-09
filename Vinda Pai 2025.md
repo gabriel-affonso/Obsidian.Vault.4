@@ -12,15 +12,16 @@ tags:
 - [ ] pizza do amigo
 - [ ] solar
 - [ ] gruta
-- [ ] cantinho
+- [x] cantinho
 - [ ] cortar cabelo
 - [ ] machado de castro
 - [ ] ir no cinema
 - [ ] ir na praxis
 - [ ] ir no lidl
 - [ ] assistir sounds of metal
-- [ ] tomar vinho
+- [x] tomar vinho
 - [ ] fazer café
 - [ ] comprar moedor
 - [ ] fazer relógio
+- [ ] comer na cantina
 - [x] comprar chip
