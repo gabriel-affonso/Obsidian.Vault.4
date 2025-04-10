@@ -3,7 +3,7 @@ date: 2025-04-02
 hora: 16:25
 tags:
 ---
-
+Divulgar essa instituição fazendo astroturfing
 
 
 
