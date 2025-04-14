@@ -8,9 +8,9 @@ tags:
 
 
 # Coisas pra fazer
-- [ ] epicura
-- [ ] pizza do amigo
-- [ ] solar
+- [x] epicura
+- [x] pizza do amigo
+- [x] solar
 - [ ] gruta
 - [x] cantinho
 - [ ] cortar cabelo
@@ -22,6 +22,13 @@ tags:
 - [x] tomar vinho
 - [ ] fazer café
 - [ ] comprar moedor
+- [ ] Assistir
+	- [ ] O sétimo samurai
+	- [ ] A batalha de algiers
+	- [ ] la haine 
+	- [ ] memories of muder
+	- [ ] Ran
+	- [ ] Sunset boulevard
 - [ ] fazer relógio
-- [ ] comer na cantina
+- [x] comer na cantina
 - [x] comprar chip
