@@ -6,7 +6,6 @@ tags:
 
 
 
-
 # Coisas pra fazer
 - [x] epicura
 - [x] pizza do amigo
@@ -22,13 +21,9 @@ tags:
 - [x] tomar vinho
 - [ ] fazer café
 - [ ] comprar moedor
-- [ ] Assistir
-	- [ ] O sétimo samurai
-	- [ ] A batalha de algiers
-	- [ ] la haine 
-	- [ ] memories of muder
-	- [ ] Ran
-	- [x] Sunset boulevard
 - [ ] fazer relógio
 - [x] comer na cantina
 - [x] comprar chip
+- [ ] o bolotas
+- [x] oni
+- [ ] 
