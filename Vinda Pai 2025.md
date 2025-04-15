@@ -26,4 +26,4 @@ tags:
 - [x] comprar chip
 - [ ] o bolotas
 - [x] oni
-- [ ] 
+- [ ] jogar papersplease
