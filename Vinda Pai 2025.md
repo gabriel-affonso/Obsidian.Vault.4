@@ -28,7 +28,7 @@ tags:
 	- [ ] la haine 
 	- [ ] memories of muder
 	- [ ] Ran
-	- [ ] Sunset boulevard
+	- [x] Sunset boulevard
 - [ ] fazer relógio
 - [x] comer na cantina
 - [x] comprar chip
