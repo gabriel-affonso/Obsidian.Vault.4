@@ -2,6 +2,7 @@
 date: 2025-04-15
 hora: 10:26
 tags:
+  - Pensamentos
 ---
 Perfeito. Vou investigar oportunidades de investimento na Europa focadas em rentabilidade de médio prazo (até 5 anos), com risco baixo a moderado, e que sejam acessíveis a investidores individuais com aportes mensais entre 200 e 1000 euros. Também vou incluir ativos que gerem dividendos regulares, sempre que forem vantajosos economicamente. Assim que tiver tudo pronto, volto com uma proposta de carteira diversificada e um plano de investimento claro para o cenário atual europeu.
 

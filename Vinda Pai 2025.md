@@ -27,5 +27,5 @@ tags:
 - [ ] o bolotas
 - [x] oni
 - [ ] jogar papersplease
-- [ ] falar do morning brew
+- [x] falar do morning brew
 - [ ] falar do bot de cripto
