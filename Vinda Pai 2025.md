@@ -19,11 +19,13 @@ tags:
 - [ ] ir no lidl
 - [ ] assistir sounds of metal
 - [x] tomar vinho
-- [ ] fazer café
-- [ ] comprar moedor
-- [ ] fazer relógio
+- [x] fazer café
+- [x] emprestar moedor
+- [x] fazer relógio
 - [x] comer na cantina
 - [x] comprar chip
 - [ ] o bolotas
 - [x] oni
 - [ ] jogar papersplease
+- [ ] falar do morning brew
+- [ ] falar do bot de cripto
