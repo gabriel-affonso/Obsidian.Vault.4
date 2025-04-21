@@ -13,7 +13,7 @@ tags:
 - [ ] gruta
 - [x] cantinho
 - [ ] cortar cabelo
-- [ ] machado de castro
+- [x] machado de castro
 - [ ] ir no cinema
 - [ ] ir na praxis
 - [ ] ir no lidl
@@ -26,6 +26,6 @@ tags:
 - [x] comprar chip
 - [ ] o bolotas
 - [x] oni
-- [ ] jogar papersplease
+- [x] jogar papersplease
 - [x] falar do morning brew
-- [ ] falar do bot de cripto
+- [x] falar do bot de cripto
