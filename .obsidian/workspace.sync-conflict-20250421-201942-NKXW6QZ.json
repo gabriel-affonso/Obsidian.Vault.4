@@ -1,0 +1,259 @@
+{
+  "main": {
+    "id": "70c7b8e9cd73da4f",
+    "type": "split",
+    "children": [
+      {
+        "id": "264c347a9482d5e6",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1e5862696af7ff2b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Depressão.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Depressão"
+            }
+          },
+          {
+            "id": "23a90c276b6b39ee",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Coisas/Semanas/2025/2025-03-31.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "2025-03-31"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "a94bb89e9c2661fb",
+    "type": "split",
+    "children": [
+      {
+        "id": "dd276648f5b240dc",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "95fb0fd6edbd311d",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "f3944d77e7a6b5c4",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "muçulm",
+                "matchingCase": false,
+                "explainSearch": true,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "byModifiedTime"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "059a614c97c883f7",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 304.5,
+    "collapsed": true
+  },
+  "right": {
+    "id": "3fc30dc42cda4f7f",
+    "type": "split",
+    "children": [
+      {
+        "id": "128cbb4ed732c79d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "aedbe4cc7655d20a",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Coisas/Aleatoriedade/Lista de Achievements.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": false
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Lista de Achievements"
+            }
+          },
+          {
+            "id": "b73c597d889e867f",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Poética e Cidadania/Notas das Aulas - Política e Cidadania/Nota da Aula 5.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Nota da Aula 5"
+            }
+          },
+          {
+            "id": "5b92d5f49e04a9ba",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "e3a29d4fd3f4cddf",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Orçamento.md"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Orçamento"
+            }
+          },
+          {
+            "id": "d7a2f4f645eac6f4",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {},
+              "icon": "spreadsheet",
+              "title": "Advanced Tables"
+            }
+          },
+          {
+            "id": "095ec323cbc59d48",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {},
+              "icon": "calendar-with-checkmark",
+              "title": "Calendar"
+            }
+          }
+        ],
+        "currentTab": 5
+      }
+    ],
+    "direction": "horizontal",
+    "width": 427.5,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "smart-second-brain:Open S2B Chat": false,
+      "obsidian-kanban:Create new board": false,
+      "obsidian-git:Open Git source control": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "periodic-notes:Open today": false
+    }
+  },
+  "active": "1e5862696af7ff2b",
+  "lastOpenFiles": [
+    "ADovpm ADotpm.md",
+    "Depressão.md",
+    "conflict-files-obsidian-git.md",
+    "Pensamentos/pensamento/Exuste uma psicologia profunda na forma como as pessoas usam seus telefones.md",
+    "Pensamentos/pensamento/Coisas - Criar uma instituição financeira especializada em investir capital europeu em renda fixa no brasil.md",
+    "Coisas/Aleatoriedade/Depósito de Aleatoriedades/Imagens/Pasted image 20250409155626.png",
+    "Coisas/Semanas/2025/2025-04-03.md",
+    "Pensamentos/pensamento/Coisas - Fazer uma cabana dentro do meu quarto.md",
+    "Coisas/Semanas/2025/2025-04-04.md",
+    "Coisas/Semanas/2025/2025-04-05.md",
+    "Coisas/Semanas/2025/~syncthing~2025-04-05.md.tmp",
+    "Comprar um PS5.md",
+    "Coisas/Semanas/2025/2025-W14.md",
+    "Pensamentos/Livro - Série de Tweets ou de posts em 1 blog.md",
+    "Pensamentos/Coisas - Pintar um quadro do kirby pro arthur.md",
+    "Coisas/Semanas/2025/2025-04-16.md",
+    "Coisas/Semanas/2025/2025-04-14.md",
+    "Coisas/Semanas/2025/2025-04-01.md",
+    "Pensamentos/pensamento/Coisas - Montar um kit de emergências na minha mochila verde.md",
+    "Pensamentos/pensamento/George Orwell, literatura e a cia.md",
+    "Coisas/Semanas/2025/Março 2025/2025-03-24.md",
+    "Coisas/Semanas/2025/~syncthing~2025-04-03.md.tmp",
+    "Coisas/Semanas/2025/Março 2025/2025-03-28.md",
+    "Pensamentos/pensamento/~syncthing~Coisas - Criar uma instituição financeira especializada em investir capital europeu em renda fixa no brasil.md.tmp",
+    "Coisas/Semanas/2025/~syncthing~2025-04-04.md.tmp",
+    "Pensamentos/pensamento/~syncthing~Coisas - Fazer uma cabana dentro do meu quarto.md.tmp",
+    "Pensamentos/pensamento/~syncthing~Exuste uma psicologia profunda na forma como as pessoas usam seus telefones.md.tmp",
+    "~syncthing~Comprar um PS5.md.tmp",
+    "Coisas/Semanas/2025/Março 2025/2025-03-31.md",
+    "Coisas/Semanas/2025/Março 2025/2025-03-20.md",
+    "Coisas/Semanas/2025/~syncthing~2025-W14.md.tmp",
+    "Pensamentos/~syncthing~Coisas - Pintar um quadro do kirby pro arthur.md.tmp",
+    "Pensamentos/~syncthing~Livro - Série de Tweets ou de posts em 1 blog.md.tmp",
+    "Coisas/Aleatoriedade/Depósito de Aleatoriedades/Email Laurinha.md",
+    "Vinda Pai 2025.md",
+    "Coisas/Aleatoriedade/Depósito de Aleatoriedades/Imagens/batman_thecobblebotcaper_p.jpg",
+    "Coisas/Semanas/2025/Março 2025/2025-03-25.md",
+    "Coisas/Semanas/2025/Março 2025/2025-03-21.md",
+    "Coisas/Aleatoriedade/Depósito de Aleatoriedades/Imagens/Sem título.png",
+    "Coisas/Aleatoriedade/Depósito de Aleatoriedades/Imagens/lindo 1.png",
+    "Sem título.png",
+    "lindo.png",
+    "Coisas/Aleatoriedade/Depósito de Aleatoriedades/Imagens/lindo.png",
+    "Coisas/Aleatoriedade/Depósito de Aleatoriedades/Imagens/Pasted image 20250213101711.png",
+    "Coisas/Aleatoriedade/Depósito de Aleatoriedades/Imagens/logo.png",
+    "Screenshot_20250218-095652.png",
+    "Untitled.canvas",
+    "Untitled 1.canvas",
+    "Untitled 2.canvas"
+  ]
+}
