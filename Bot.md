@@ -10,4 +10,7 @@ venda por estagnação
 
 
 
-
+Adcionar
+- [ ] Saldo do USDC
+- [ ] Função de validação robusta
+- [ ] 
