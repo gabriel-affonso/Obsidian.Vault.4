@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Coisas/Semanas/2025/Abril 2025/2025-04-21.md",
+                "file": "Depressão.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2025-04-21"
+              "title": "Depressão"
             }
           }
         ]
@@ -78,8 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 304.5,
-    "collapsed": true
+    "width": 304.5
   },
   "right": {
     "id": "3fc30dc42cda4f7f",
@@ -202,9 +201,9 @@
   },
   "active": "ff66bca6ee346671",
   "lastOpenFiles": [
+    "Coisas/Semanas/2025/Abril 2025/2025-04-21.md",
     "Coisas/Semanas/2025/Abril 2025/2025-04-22.md",
     "Depressão.md",
-    "Coisas/Semanas/2025/Abril 2025/2025-04-21.md",
     "Coisas/Semanas/2025/Abril 2025/2025-04-21.sync-conflict-20250422-205018-7TQ5V76.md",
     "Coisas/Semanas/2025/Abril 2025/2025-04-07.sync-conflict-20250422-205018-7TQ5V76.md",
     "Coisas/Semanas/2025/Abril 2025/2025-04-08.sync-conflict-20250422-205018-7TQ5V76.md",

@@ -30,3 +30,5 @@ O que eu tenho sentido é que independente do que eu faça eu tenho me sentindo 
 Sinto que as únicas motivações para os meus dias são ir para o trabalho para poder pagar minhas contas e ter meus momentos de lazer. Mas os meus momentos de lazer não são muito bons, e eu frequentemente termino eles pensando que foram um desperdício de tempo, energia e dinheiro. É como se todos os dias fossem um pequeno túnel, com começo meio e fim. Mas agora eles não tem uma luz no final, então é como se fosse só um  tunel ligado em outro túnel ligado em outro túnel. Nessa situação, continuar andando até o próximo túnel ou ficar parado parece indiferente. E nesse lugar sem luz, tem se tornado mais difícil achar que as coisas valem a pena.
 
 Essa minha situação tem afetado a minha experiência 
+
+# O que seria uma vida inder ess questãoi alg
