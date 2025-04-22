@@ -31,8 +31,8 @@ from binance.exceptions import BinanceAPIException
 import threading
 
 # ========== CONFIGURAÇÃO ==========
-API_KEY = 'v2K6tSlwcynU3AteaNXmjARw3mckhNzmLgoqJD2zycS9lNMtYIbCEJBcnlSjCEm0'
-API_SECRET = 'FHPzYCev4wVE4fp9YqzRWAz5xXhGxpa5SISDJxWVlDElQrMCTfldwB7Bm6epieiI'
+API_KEY = ''
+API_SECRET = ''
 
 PAIRS = ["BTCUSDC", "ETHUSDC", "ADAUSDC", "SOLUSDC", "XRPUSDC"]
 TIMEFRAME = Client.KLINE_INTERVAL_1MINUTE
@@ -49,8 +49,8 @@ MIN_TRADE_BY_PAIR = {
 }
 
 ENABLE_TELEGRAM = True
-TELEGRAM_TOKEN = "7957669844:AAE3FKc3VUlOaB7klJsZ0RJrVA9OkjoHHxo"
-TELEGRAM_CHAT_ID = "2053034555"
+TELEGRAM_TOKEN = ":"
+TELEGRAM_CHAT_ID = ""
 
 LOG_FILE = "registro_operacoes.csv"
 
