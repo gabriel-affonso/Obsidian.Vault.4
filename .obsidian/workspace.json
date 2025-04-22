@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Coisas/Semanas/2025/2025-04-21.md",
+                "file": "Coisas/Semanas/2025/2025-04-22.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2025-04-21"
+              "title": "2025-04-22"
             }
           }
         ]
@@ -195,13 +195,14 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "periodic-notes:Open today": false
     }
   },
   "active": "e6d570e9db1074e0",
   "lastOpenFiles": [
     "Coisas/Semanas/2025/2025-04-21.md",
-    "Coisas/Semanas/2025/2025-04-21.md",
+    "Coisas/Semanas/2025/2025-04-22.md",
     "Vinda Pai 2025.sync-conflict-20250421-115147-NKXW6QZ.md",
     "~syncthing~Vinda Pai 2025.sync-conflict-20250421-115147-NKXW6QZ.md.tmp",
     "Coisas/Semanas/2025/~syncthing~2025-04-21.md.tmp",
@@ -232,7 +233,6 @@
     "Coisas/Aleatoriedade/Lista de Compras.md",
     "Coisas/Aleatoriedade/Lista de Achievements.md",
     "Coisas/Aleatoriedade/Coisas que eu deveria aprender.md",
-    "Coisas/Aleatoriedade/Candidaturas.sync-conflict-20250312-100532-7TQ5V76.md",
     "Coisas/Semanas/2025/Abril 2025",
     "Coisas/Semanas/2025/~syncthing~2025-03-21.md.tmp",
     "Coisas/Semanas/2025/~syncthing~2025-03-25.md.tmp",
