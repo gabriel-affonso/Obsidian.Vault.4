@@ -6,6 +6,8 @@ tags:
 O bot tem que ter:
 compra parcial
 	só executar venda parcial 
+venda por estagnação
+
 
 
 
