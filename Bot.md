@@ -11,9 +11,12 @@ venda por estagnação
 
 
 Adcionar
-- [ ] Saldo do USDC
-- [ ] Função de validação robusta
-- [ ] 
+- [x] Saldo do USDC
+- [x] Função de validação robusta
+- [ ] melhorar o relatório diário
+- [ ] O modelo de ML deve usar RandomForest, o data.set deve ter mais de 100k entradas
+- [ ] falar com o chatgpt sobre adicionar mais pares
+	- [ ] Acho que eu vou me comprometer a adicionar mais pares depois da versão 10, refinar todas as funções base e depois aumentar o número de pares
 
 
 
