@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Coisas/Semanas/2025/Abril 2025/2025-04-22.md",
+                "file": "Bot.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2025-04-22"
+              "title": "Bot"
             }
           }
         ]
@@ -78,7 +78,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 304.5
+    "width": 304.5,
+    "collapsed": true
   },
   "right": {
     "id": "3fc30dc42cda4f7f",
@@ -201,15 +202,15 @@
   },
   "active": "e6d570e9db1074e0",
   "lastOpenFiles": [
-    "Vinda Pai 2025.sync-conflict-20250421-115147-NKXW6QZ.md",
     "Coisas/Semanas/2025/Abril 2025/2025-04-22.md",
+    "Vinda Pai 2025.sync-conflict-20250421-115147-NKXW6QZ.md",
     "Coisas/Semanas/2025/Abril 2025/2025-04-11.md",
     "Coisas/Semanas/2025/Abril 2025/2025-04-17.md",
     "Coisas/Semanas/2025/Abril 2025/2025-04-21.md",
     "Coisas/Semanas/2025/Abril 2025 1",
     "~syncthing~Vinda Pai 2025.sync-conflict-20250421-115147-NKXW6QZ.md.tmp",
     "Coisas/Semanas/2025/~syncthing~2025-04-21.md.tmp",
-    "ADovpm ADotpm.md",
+    "Bot.md",
     "Depressão.md",
     "Untitled.md",
     "~syncthing~Untitled.md.tmp",
