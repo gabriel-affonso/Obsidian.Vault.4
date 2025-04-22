@@ -11,10 +11,14 @@
             "id": "ff66bca6ee346671",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Coisas/Semanas/2025/Abril 2025/2025-04-21.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "2025-04-21"
             }
           }
         ]
@@ -74,7 +78,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 304.5
+    "width": 304.5,
+    "collapsed": true
   },
   "right": {
     "id": "3fc30dc42cda4f7f",
@@ -173,7 +178,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
@@ -195,8 +200,9 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "95fb0fd6edbd311d",
+  "active": "ff66bca6ee346671",
   "lastOpenFiles": [
+    "Coisas/Semanas/2025/Abril 2025/2025-04-22.md",
     "Coisas/Semanas/2025/Abril 2025/2025-04-21.sync-conflict-20250422-205018-7TQ5V76.md",
     "Coisas/Semanas/2025/Abril 2025/2025-04-07.sync-conflict-20250422-205018-7TQ5V76.md",
     "Coisas/Semanas/2025/Abril 2025/2025-04-08.sync-conflict-20250422-205018-7TQ5V76.md",
@@ -227,7 +233,6 @@
     "conflict-files-obsidian-git.md",
     "Bot.md",
     "Coisas/Semanas/2025/2025-04-21.md",
-    "Coisas/Semanas/2025/Abril 2025/2025-04-22.md",
     "Coisas/Semanas/2025/Abril 2025/2025-04-21.md",
     "Coisas/Semanas/2025/Abril 2025/2025-04-17.md",
     "Coisas/Semanas/2025/Abril 2025/2025-04-16.md",
