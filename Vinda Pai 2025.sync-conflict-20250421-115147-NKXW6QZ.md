@@ -28,4 +28,4 @@ tags:
 - [x] oni
 - [ ] jogar papersplease
 - [x] falar do morning brew
-- [ ] falar do bot de cripto
+- [x] falar do bot de cripto
