@@ -17,6 +17,8 @@ Adcionar
 - [ ] O modelo de ML deve usar RandomForest, o data.set deve ter mais de 100k entradas
 - [ ] falar com o chatgpt sobre adicionar mais pares
 	- [ ] Acho que eu vou me comprometer a adicionar mais pares depois da versão 10, refinar todas as funções base e depois aumentar o número de pares
+- [ ] podia fazer uma análise macro, sobre ciclos de subida ou descida e coisas assim, mas não sei se faz sentido, ou se o negócio é deixar o 
+- [ ] ativos estagnados - fazer com que ele recomece a contar os 15 minutos caso o código seja reiniciado (talvez ele já esteja fazendo isso)
 
 
 
