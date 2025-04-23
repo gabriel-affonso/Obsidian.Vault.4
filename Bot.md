@@ -24,7 +24,7 @@ Adcionar
 - [ ] quero adicionar a cópia do csv para o dropbox
 - [ ] O trailing dinamico parece estar vendendo frequentemente com prejuízo. Será que eu devo deixar ele um pouco mais sensível?
 - [ ] fazer backtesting com o meu código
-- [ ] se eu tenho uma posição aberta, e o 
+- [ ] se eu tenho uma posição aberta, e o bot emite uma ordem de compra pro mesmo ativl, mas por um preço ligeiramente mais alto. Ele entende isso como duas posições ou uma posição só?
 
 
 # Código
