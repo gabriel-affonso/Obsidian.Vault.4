@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Bot.md",
+                "file": "Coisas/Semanas/2025/2025-04-23.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Bot"
+              "title": "2025-04-23"
             }
           }
         ]
@@ -201,10 +201,10 @@
   },
   "active": "fa499b83f86feaa8",
   "lastOpenFiles": [
+    "Bot.md",
     "~syncthing~Bot.md.tmp",
     "Coisas/Semanas/2025/2025-04-23.md",
     "Coisas/Semanas/2025/~syncthing~2025-04-23.md.tmp",
-    "Bot.md",
     "Vinda Pai 2025.md",
     "Vinda Pai 2025.sync-conflict-20250421-115147-NKXW6QZ.md",
     "Bot.sync-conflict-20250422-205018-NKXW6QZ.md",
