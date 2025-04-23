@@ -20,7 +20,7 @@ Adcionar
 - [ ] podia fazer uma análise macro, sobre ciclos de subida ou descida e coisas assim, mas não sei se faz sentido, ou se o negócio é deixar o 
 - [x] ativos estagnados - fazer com que ele recomece a contar os 15 minutos caso o código seja reiniciado (talvez ele já esteja fazendo isso)
 - [ ] adicionei o DOT e o HYPER na versão 11
-- [ ] Agora o % máximo é 30%. Mas ainda não fica menos de 60 usdc na conta. Talvez deva mudar isso
+- [ ] Agora o % máximo é 30%. Mas ainda não fica menos de 60 usdc na conta. Talvez deva mudar isso. PErguntar pro chat
 - [ ] quero adicionar a cópia do csv para o dropbox
 - [ ] O trailing dinamico parece estar vendendo frequentemente com prejuízo. Será que eu devo deixar ele um pouco mais sensível?
 
