@@ -29,7 +29,7 @@ Adcionar
 - [ ] adicionar mensagem de erro pelo telegram
 - [ ]  o relatório ainda é pouco útil
 
-
+Esse erro está sendo gerado, quais são as suas causas?
 # Código
 Estou rodando esse código, é um bot de trade de cripto que opera com 5 pares. ao iniciar o bot e depois de cada operação de compra e venda ele atualiza as posições abertas. Contudo, ele não está atualizando o saldo de USDC, que forma que o bot não vê o saldo disponível para fazer novas compras. Atualize isso. 
 import time
