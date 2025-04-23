@@ -20,8 +20,21 @@
               "icon": "lucide-file",
               "title": "2025-04-23"
             }
+          },
+          {
+            "id": "d380118e72f7f981",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.8.10"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.8.10"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -195,11 +208,10 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "periodic-notes:Open today": false
+      "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "fa499b83f86feaa8",
+  "active": "d380118e72f7f981",
   "lastOpenFiles": [
     "Bot.md",
     "~syncthing~Bot.md.tmp",
