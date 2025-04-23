@@ -23,6 +23,8 @@ Adcionar
 - [ ] Agora o % máximo é 30%. Mas ainda não fica menos de 60 usdc na conta. Talvez deva mudar isso. PErguntar pro chat
 - [ ] quero adicionar a cópia do csv para o dropbox
 - [ ] O trailing dinamico parece estar vendendo frequentemente com prejuízo. Será que eu devo deixar ele um pouco mais sensível?
+- [ ] fazer backtesting com o meu código
+- [ ] se eu tenho uma posição aberta, e o 
 
 
 # Código
