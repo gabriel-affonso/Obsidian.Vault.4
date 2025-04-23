@@ -14,14 +14,18 @@ Adcionar
 - [x] Saldo do USDC
 - [x] Função de validação robusta
 - [ ] melhorar o relatório diário
-- [ ] O modelo de ML deve usar RandomForest, o data.set deve ter mais de 100k entradas
+- [x] O modelo de ML deve usar RandomForest, o data.set deve ter mais de 100k entradas
 - [ ] falar com o chatgpt sobre adicionar mais pares
 	- [ ] Acho que eu vou me comprometer a adicionar mais pares depois da versão 10, refinar todas as funções base e depois aumentar o número de pares
 - [ ] podia fazer uma análise macro, sobre ciclos de subida ou descida e coisas assim, mas não sei se faz sentido, ou se o negócio é deixar o 
-- [ ] ativos estagnados - fazer com que ele recomece a contar os 15 minutos caso o código seja reiniciado (talvez ele já esteja fazendo isso)
+- [x] ativos estagnados - fazer com que ele recomece a contar os 15 minutos caso o código seja reiniciado (talvez ele já esteja fazendo isso)
+- [ ] adicionei o DOT e o HYPER na versão 11
+- [ ] Agora o % máximo é 30%. Mas ainda não fica menos de 60 usdc na conta. Talvez deva mudar isso
+- [ ] quero adicionar a cópia do csv para o dropbox
+- [ ] O trailing dinamico parece estar vendendo frequentemente com prejuízo. Será que eu devo deixar ele um pouco mais sensível?
 
 
-
+# Código
 Estou rodando esse código, é um bot de trade de cripto que opera com 5 pares. ao iniciar o bot e depois de cada operação de compra e venda ele atualiza as posições abertas. Contudo, ele não está atualizando o saldo de USDC, que forma que o bot não vê o saldo disponível para fazer novas compras. Atualize isso. 
 import time
 import math
@@ -35,7 +39,7 @@ from binance.client import Client
 from binance.exceptions import BinanceAPIException
 import threading
 
-# ========== CONFIGURAÇÃO ==========
+## ========== CONFIGURAÇÃO ==========
 API_KEY = ''
 API_SECRET = ''
 

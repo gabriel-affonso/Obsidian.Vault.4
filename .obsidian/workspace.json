@@ -11,12 +11,14 @@
             "id": "fa499b83f86feaa8",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.8.10"
+                "file": "Bot.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.8.10"
+              "icon": "lucide-file",
+              "title": "Bot"
             }
           }
         ]
@@ -199,6 +201,10 @@
   },
   "active": "fa499b83f86feaa8",
   "lastOpenFiles": [
+    "Vinda Pai 2025.md",
+    "Vinda Pai 2025.sync-conflict-20250421-115147-NKXW6QZ.md",
+    "Bot.md",
+    "Bot.sync-conflict-20250422-205018-NKXW6QZ.md",
     "Coisas/Semanas/2025/Abril 2025/2025-04-21.md",
     "Coisas/Semanas/2025/Abril 2025/2025-04-22.md",
     "Depressão.md",
@@ -228,13 +234,9 @@
     "Coisas/Semanas/2025/Abril 2025/~syncthing~2025-04-04.sync-conflict-20250422-205018-7TQ5V76.md.tmp",
     "Coisas/Semanas/2025/Abril 2025/~syncthing~2025-04-02.sync-conflict-20250422-205018-7TQ5V76.md.tmp",
     "Coisas/Semanas/2025/Abril 2025/~syncthing~2025-04-11.sync-conflict-20250422-205019-7TQ5V76.md.tmp",
-    "Bot.sync-conflict-20250422-205018-NKXW6QZ.md",
     "conflict-files-obsidian-git.md",
-    "Bot.md",
     "Coisas/Semanas/2025/2025-04-21.md",
     "Coisas/Semanas/2025/Abril 2025/2025-04-17.md",
-    "Coisas/Semanas/2025/Abril 2025/2025-04-16.md",
-    "Coisas/Semanas/2025/Abril 2025/2025-04-15.md",
     "Coisas/Aleatoriedade/Depósito de Aleatoriedades/Imagens/Pasted image 20250409155626.png",
     "Coisas/Aleatoriedade/Depósito de Aleatoriedades/Imagens/batman_thecobblebotcaper_p.jpg",
     "Coisas/Aleatoriedade/Depósito de Aleatoriedades/Imagens/Sem título.png",
