@@ -26,8 +26,9 @@ Adcionar
 - [ ] fazer backtesting com o meu código
 - [ ] se eu tenho uma posição aberta, e o bot emite uma ordem de compra pro mesmo ativl, mas por um preço ligeiramente mais alto. Ele entende isso como duas posições ou uma posição só?
 - [ ] gerar uma função que adicione moedas emergentes. É relativamente comum que surjam moedas novas que crescem 100 ou 200% num intervalo de poucas horas. Quero uma função que identifique esse comportamento e adicione essa moeda como um par das moedas operadas pelo bot
-- [ ] adicionar mensagem de erro pelo telegram
+- [ ] adicionar mensagem de erro pelo telegram, informar que eu devo fazer uma venda manual
 - [ ]  o relatório ainda é pouco útil
+- [ ]
 
 Esse erro está sendo gerado, quais são as suas causas?
 # Código
