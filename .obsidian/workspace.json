@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Coisas/Semanas/2025/2025-04-23.md",
+                "file": "Coisas/Semanas/2025/2025-05-05.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2025-04-23"
+              "title": "2025-05-05"
             }
           },
           {
@@ -27,16 +27,15 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Coisas/Semanas/2025/2025-W18.md",
+                "file": "Coisas/Semanas/2025/2025-05-05.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2025-W18"
+              "title": "2025-05-05"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -215,23 +214,23 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "d380118e72f7f981",
+  "active": "fa499b83f86feaa8",
   "lastOpenFiles": [
+    "Coisas/Semanas/2025/2025-04-23.md",
+    "Coisas/Semanas/2025/2025-05-05.md",
+    "Coisas/Semanas/2025/2025-W18.md",
     "Coisas/Semanas/2025/2025-04-24.md",
     "Coisas/Semanas/2025/~syncthing~2025-04-24.md.tmp",
     "Coisas/Semanas/2025/2025-04-30.md",
     "conflict-files-obsidian-git.md",
     "Coisas/Semanas/2025/~syncthing~2025-04-30.md.tmp",
     "~syncthing~conflict-files-obsidian-git.md.tmp",
-    "Coisas/Semanas/2025/2025-05-05.md",
     "Coisas/Semanas/2025/~syncthing~2025-05-05.md.tmp",
     "Coisas/Semanas/2025/~syncthing~2025-04-23.md.tmp",
     "Coisas/Semanas/2025/2025-04-29.md",
-    "Coisas/Semanas/2025/2025-W18.md",
     "Bot.md",
     "~syncthing~Bot.md.tmp",
     "Bot.sync-conflict-20250424-095129-NKXW6QZ.md",
-    "Coisas/Semanas/2025/2025-04-23.md",
     "Vinda Pai 2025.md",
     "Vinda Pai 2025.sync-conflict-20250421-115147-NKXW6QZ.md",
     "Bot.sync-conflict-20250422-205018-NKXW6QZ.md",
