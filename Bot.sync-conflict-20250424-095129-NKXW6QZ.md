@@ -28,7 +28,25 @@ Adcionar
 - [ ] gerar uma função que adicione moedas emergentes. É relativamente comum que surjam moedas novas que crescem 100 ou 200% num intervalo de poucas horas. Quero uma função que identifique esse comportamento e adicione essa moeda como um par das moedas operadas pelo bot
 - [ ] adicionar mensagem de erro pelo telegram, informar que eu devo fazer uma venda manual
 - [ ]  o relatório ainda é pouco útil
+- [ ] código para fechar
+- [ ] o 4 está funcionando muito bem. O importante é ter tudo em usdc logo no começo. Vou recomeçar o trabalho a partir daí
+- [ ] faz sentido usar meu telefone reserva como um rasbery pi que rode o bot 24 horas?
+- [ ] talvez aumentar o threshold do valor total de cada operação?
+- [ ] tem sido comum encontrar tendencias semelhantes, eu devia ter um par que não acompanhe esse comportamento
 - [ ]
+
+
+
+Tendo em conta os inumeráveis erros que este código está gerando, fui revisitar as versões anteriores do meu bot. A versão 4, apesar de extremamente mais simples. tem se mostrado muito mais funcional. O problema dela é que ela perde as posições abertas uma vez que o bot é parado. Qual é o jeito mais simples de resolver isso?
+
+Quero adicionar uma função no bot que aumente a abertura dele para moedas de maior volatilidade, mas de maneira relativamente conservadora. Quero que você gere uma função que adiciona um par dentro das operações do bot por dia. Esse par escolhido deve ser com maiores oportunidades de ganho para o bot nas 24 horas. Me ajude a definir uma métrica para essa escolha.
+
+
+
+
+
+
+
 
 Esse erro está sendo gerado, quais são as suas causas?
 # Código
