@@ -210,15 +210,18 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "periodic-notes:Open today": false
     }
   },
   "active": "fa499b83f86feaa8",
   "lastOpenFiles": [
+    "Coisas/Semanas/2025/2025-W20.md",
+    "Coisas/Semanas/2025/2025-05-12.md",
+    "Coisas/Semanas/2025/2025-W19.md",
     "Coisas/Semanas/2025/2025-05-08.md",
     "Projeto Bieletário.md",
     "Coisas/Semanas/2025/2025-05-07.md",
-    "Coisas/Semanas/2025/2025-W19.md",
     "Bot do Facebook.md",
     "~syncthing~Bot do Facebook.md.tmp",
     "Coisas/Semanas/2025/2025-05-06.md",
@@ -246,8 +249,6 @@
     "Coisas/Semanas/2025/Abril 2025/2025-04-21.sync-conflict-20250422-205018-7TQ5V76.md",
     "Coisas/Semanas/2025/Abril 2025/2025-04-07.sync-conflict-20250422-205018-7TQ5V76.md",
     "Coisas/Semanas/2025/Abril 2025/2025-04-08.sync-conflict-20250422-205018-7TQ5V76.md",
-    "Coisas/Semanas/2025/Abril 2025/2025-04-03.sync-conflict-20250422-205018-7TQ5V76.md",
-    "Coisas/Semanas/2025/Abril 2025/2025-04-22.sync-conflict-20250422-205018-7TQ5V76.md",
     "Coisas/Semanas/2025/Abril 2025/~syncthing~2025-04-17.sync-conflict-20250422-205019-7TQ5V76.md.tmp",
     "Coisas/Semanas/2025/Abril 2025/~syncthing~2025-04-22.sync-conflict-20250422-205018-7TQ5V76.md.tmp",
     "Coisas/Semanas/2025/Abril 2025/~syncthing~2025-04-09.sync-conflict-20250422-205019-7TQ5V76.md.tmp",
