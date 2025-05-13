@@ -1,6 +1,6 @@
 ---
 date:
-  "{ date:YYYY-MM-DD }": 
+  18/01/2024: 
 hora: 17:58
 tags:
   - Leiturinha

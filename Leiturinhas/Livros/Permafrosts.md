@@ -18,7 +18,7 @@ nota:
 ---
 
 Que livro incrível. 
-Me pareceu muito com o ritmo de catcher in the rye, só que mais triste e humanamente mais interessante. Ótima leitura, muito interessante m
+Me pareceu muito com o ritmo de catcher in the rye, só que mais triste e humanamente mais interessante. Ótima leitura, muito interessante mesmo
 
 
 
