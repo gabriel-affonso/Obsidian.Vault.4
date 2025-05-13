@@ -13,12 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Coisas/Semanas/2025/2025-W19.md",
+                "file": "Coisas/Semanas/2025/2025-05-09.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2025-W19"
+              "title": "2025-05-09"
+            }
+          },
+          {
+            "id": "70f8dd5e83688816",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "conflict-files-obsidian-git.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "conflict-files-obsidian-git"
             }
           },
           {
@@ -35,7 +49,8 @@
               "title": "2025-05-05"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -210,33 +225,26 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "periodic-notes:Open today": false
     }
   },
-  "active": "fa499b83f86feaa8",
+  "active": "70f8dd5e83688816",
   "lastOpenFiles": [
-    "Coisas/Semanas/2025/2025-W19.sync-conflict-20250512-173347-NKXW6QZ.md",
-    "Coisas/Semanas/2025/~syncthing~2025-W19.sync-conflict-20250512-173347-NKXW6QZ.md.tmp",
     "Coisas/Semanas/2025/2025-05-09.md",
-    "Coisas/Semanas/2025/2025-05-08.sync-conflict-20250512-173343-7TQ5V76.md",
-    "Coisas/Semanas/2025/~syncthing~2025-05-08.md.tmp",
-    "Coisas/Semanas/2025/2025-W19.sync-conflict-20250509-180855-7TQ5V76.md",
-    "Coisas/Semanas/2025/~syncthing~2025-W19.sync-conflict-20250509-180855-7TQ5V76.md.tmp",
-    "Projeto Bieletário.sync-conflict-20250512-173343-7TQ5V76.md",
-    "Coisas/Semanas/2025/2025-05-07.sync-conflict-20250512-173343-7TQ5V76.md",
     "conflict-files-obsidian-git.md",
-    "~syncthing~conflict-files-obsidian-git.md.tmp",
-    "Coisas/Semanas/2025/~syncthing~2025-05-09.md.tmp",
-    "Coisas/Semanas/2025/2025-05-08.sync-conflict-20250509-180856-7TQ5V76.md",
-    "Coisas/Semanas/2025/~syncthing~2025-05-07.md.tmp",
+    "Coisas/Semanas/2025/2025-W19.sync-conflict-20250509-180855-7TQ5V76.md",
     "Coisas/Semanas/2025/2025-05-07.sync-conflict-20250509-180857-7TQ5V76.md",
     "Projeto Bieletário.sync-conflict-20250509-180856-7TQ5V76.md",
-    "Coisas/Semanas/2025/2025-W20.md",
-    "Coisas/Semanas/2025/2025-05-12.md",
-    "Coisas/Semanas/2025/2025-W19.md",
-    "Coisas/Semanas/2025/2025-05-08.md",
+    "Coisas/Semanas/2025/2025-05-08.sync-conflict-20250509-180856-7TQ5V76.md",
+    "Coisas/Semanas/2025/~syncthing~2025-W19.sync-conflict-20250509-180855-7TQ5V76.md.tmp",
+    "Coisas/Semanas/2025/~syncthing~2025-05-07.sync-conflict-20250509-180857-7TQ5V76.md.tmp",
+    "~syncthing~Projeto Bieletário.sync-conflict-20250509-180856-7TQ5V76.md.tmp",
+    "Coisas/Semanas/2025/~syncthing~2025-05-08.sync-conflict-20250509-180856-7TQ5V76.md.tmp",
     "Projeto Bieletário.md",
+    "Coisas/Semanas/2025/2025-05-08.md",
     "Coisas/Semanas/2025/2025-05-07.md",
+    "Coisas/Semanas/2025/2025-W19.md",
     "Bot do Facebook.md",
     "~syncthing~Bot do Facebook.md.tmp",
     "Coisas/Semanas/2025/2025-05-06.md",
@@ -247,10 +255,18 @@
     "Coisas/Semanas/2025/~syncthing~2025-04-24.md.tmp",
     "Coisas/Semanas/2025/2025-04-30.md",
     "Coisas/Semanas/2025/~syncthing~2025-04-30.md.tmp",
+    "~syncthing~conflict-files-obsidian-git.md.tmp",
     "Coisas/Semanas/2025/~syncthing~2025-05-05.md.tmp",
+    "Coisas/Semanas/2025/~syncthing~2025-04-23.md.tmp",
     "Coisas/Semanas/2025/2025-04-29.md",
     "Bot.md",
     "Bot.sync-conflict-20250424-095129-NKXW6QZ.md",
+    "Vinda Pai 2025.md",
+    "Vinda Pai 2025.sync-conflict-20250421-115147-NKXW6QZ.md",
+    "Bot.sync-conflict-20250422-205018-NKXW6QZ.md",
+    "Coisas/Semanas/2025/Abril 2025/2025-04-21.md",
+    "Coisas/Semanas/2025/Abril 2025/2025-04-22.md",
+    "Depressão.md",
     "Coisas/Aleatoriedade/Depósito de Aleatoriedades/Imagens/Pasted image 20250409155626.png",
     "Coisas/Aleatoriedade/Depósito de Aleatoriedades/Imagens/batman_thecobblebotcaper_p.jpg",
     "Coisas/Aleatoriedade/Depósito de Aleatoriedades/Imagens/Sem título.png",
