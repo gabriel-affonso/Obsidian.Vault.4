@@ -20,3 +20,6 @@ Como eu vou fazer isso?
 Quais certificados eu preciso?
 	O certificado da microsoft 
 https://learn.microsoft.com/en-us/credentials/certifications/data-analyst-associate/?tab=credentials-tab&ns-enrollment-type=Collection&ns-enrollment-id=r37qu8xedk0rdw&practice-assessment-type=certification
+
+
+[[2025-05-13]] eu já terminei mais um módulo do meu curso de power Bi da microsoft. Agora faltam 4 dos 5 módulos para a minha certificação. Parece uma boa ideia priorizar a formação em Power BI. Assim eu sei que pelo menos essa plataforma eu domino, e já vou poder começar a procurar emprego que exijam ela. Paralelamente eu vou fazendo o curso pelo youtube de introdução à análise de dados. Vou fazer mais um pouco dele agora. 
