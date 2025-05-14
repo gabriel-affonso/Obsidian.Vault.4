@@ -24,7 +24,7 @@ https://learn.microsoft.com/en-us/credentials/certifications/data-analyst-associ
 
 [[2025-05-13]] eu já terminei mais um módulo do meu curso de power Bi da microsoft. Agora faltam 4 dos 5 módulos para a minha certificação. Parece uma boa ideia priorizar a formação em Power BI. Assim eu sei que pelo menos essa plataforma eu domino, e já vou poder começar a procurar emprego que exijam ela. Paralelamente eu vou fazendo o curso pelo youtube de introdução à análise de dados. Vou fazer mais um pouco dele agora. 
 
-
+# Currículo Copilot
 Perguntei pro Copilot como deveria ser um currículo para conseguir um emprego como analista de dados em uma empresa financeira de renome, ele me passou isso:
 
 Para conquistar uma vaga como **analista de dados em instituições financeiras de renome**, é essencial que seu currículo seja estratégico, claro e destaque tanto suas habilidades técnicas quanto sua capacidade de gerar valor para o negócio. Com base nas melhores práticas atuais [[1]](https://br.indeed.com/conselho-de-carreira/curriculos-cartas-apresentacao/curriculo-analista-dados) [[2]](https://criarcv.com/cv/analista-de-dados), aqui está um modelo ideal de currículo:
@@ -103,3 +103,8 @@ References
 [1] [Como escrever um currículo de analista de dados em 5 passos | Indeed ...](https://br.indeed.com/conselho-de-carreira/curriculos-cartas-apresentacao/curriculo-analista-dados)
 
 [2] [Currículo de Analista de Dados | Exemplo & Dicas + Modelos - CriarCV](https://criarcv.com/cv/analista-de-dados)
+
+
+
+# [[2025-05-14]] 
+Hoje eu já terminei mais uma das 24 aulas do curso do MIT. Estou na terceira aula. Sinto que eu não tenho prestado toda a atenção que eu podia nas aulas. mas se eu estivesse tendo essa aula presencialmente eu também não teria atenção plena, então é sobre ir fazendo e aceitar que não vão existir momentos perfeitos, mas sim várias sessões boas o suficiente.
