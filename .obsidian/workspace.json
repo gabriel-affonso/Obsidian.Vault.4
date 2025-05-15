@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Coisas/Semanas/2025/2025-W20.md",
+                "file": "como fazer uma prova anti-chat gpt.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2025-W20"
+              "title": "como fazer uma prova anti-chat gpt"
             }
           }
         ]
@@ -196,11 +196,14 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "periodic-notes:Open today": false
     }
   },
   "active": "d380118e72f7f981",
   "lastOpenFiles": [
+    "Coisas/Semanas/2025/2025-W20.md",
+    "como fazer uma prova anti-chat gpt.md",
     "Coisas/Semanas/2025/2025-05-14.md",
     "Coisas/Aleatoriedade/Projeto Bieletário.md",
     "Coisas/Semanas/2025/2025-05-13.md",
@@ -228,10 +231,8 @@
     "Coisas/Semanas/2025/2025-W19.sync-conflict-20250509-180855-7TQ5V76.md",
     "Coisas/Semanas/2025/~syncthing~2025-W19.sync-conflict-20250509-180855-7TQ5V76.md.tmp",
     "Coisas/Semanas/2025/2025-05-07.sync-conflict-20250512-173343-7TQ5V76.md",
-    "conflict-files-obsidian-git.md",
     "~syncthing~conflict-files-obsidian-git.md.tmp",
     "Coisas/Semanas/2025/~syncthing~2025-05-09.md.tmp",
-    "Coisas/Semanas/2025/2025-05-08.sync-conflict-20250509-180856-7TQ5V76.md",
     "Coisas/Semanas/2025/~syncthing~2025-05-07.md.tmp",
     "~syncthing~Bot do Facebook.md.tmp",
     "Coisas/Semanas/2025/~syncthing~2025-04-24.md.tmp",
