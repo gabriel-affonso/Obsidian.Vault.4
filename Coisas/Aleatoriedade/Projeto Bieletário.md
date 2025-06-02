@@ -108,3 +108,6 @@ References
 
 # [[2025-05-14]] 
 Hoje eu já terminei mais uma das 24 aulas do curso do MIT. Estou na terceira aula. Sinto que eu não tenho prestado toda a atenção que eu podia nas aulas. mas se eu estivesse tendo essa aula presencialmente eu também não teria atenção plena, então é sobre ir fazendo e aceitar que não vão existir momentos perfeitos, mas sim várias sessões boas o suficiente.
+
+# [[2025-06-02]] 
+Hoje eu estava triste e pensei como um trabalho remoto o me deixaria mais feliz. isso reviveu em mim o plano de conseguir uma vaga que seja 100% remota. vou continuar com o meu plano de conseguir uma vaga 100% remota em finanças
