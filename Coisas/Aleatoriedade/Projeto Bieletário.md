@@ -21,6 +21,7 @@ Quais certificados eu preciso?
 	O certificado da microsoft 
 https://learn.microsoft.com/en-us/credentials/certifications/data-analyst-associate/?tab=credentials-tab&ns-enrollment-type=Collection&ns-enrollment-id=r37qu8xedk0rdw&practice-assessment-type=certification
 
+https://www.edx.org/learn/economics-finance/the-international-monetary-fund-introduction-to-financial-programming-and-policies?index=product&position=1&queryId=d9aaf0d08c626368adcea612bcd286ce
 
 [[2025-05-13]] eu já terminei mais um módulo do meu curso de power Bi da microsoft. Agora faltam 4 dos 5 módulos para a minha certificação. Parece uma boa ideia priorizar a formação em Power BI. Assim eu sei que pelo menos essa plataforma eu domino, e já vou poder começar a procurar emprego que exijam ela. Paralelamente eu vou fazendo o curso pelo youtube de introdução à análise de dados. Vou fazer mais um pouco dele agora. 
 
@@ -111,3 +112,5 @@ Hoje eu já terminei mais uma das 24 aulas do curso do MIT. Estou na terceira au
 
 # [[2025-06-02]] 
 Hoje eu estava triste e pensei como um trabalho remoto o me deixaria mais feliz. isso reviveu em mim o plano de conseguir uma vaga que seja 100% remota. vou continuar com o meu plano de conseguir uma vaga 100% remota em finanças
+encontrei esse curso. parece ser bem rápido e já posso adicionar ao currículo - https://www.edx.org/learn/economics-finance/the-international-monetary-fund-introduction-to-financial-programming-and-policies?index=product&position=1&queryId=d9aaf0d08c626368adcea612bcd286ce 
+
