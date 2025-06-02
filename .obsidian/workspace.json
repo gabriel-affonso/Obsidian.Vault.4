@@ -74,13 +74,11 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 304.5,
-    "collapsed": true
+    "width": 304.5
   },
   "right": {
     "id": "3fc30dc42cda4f7f",
@@ -201,7 +199,7 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "d380118e72f7f981",
+  "active": "95fb0fd6edbd311d",
   "lastOpenFiles": [
     "Coisas/Aleatoriedade/Comprar um PS5.md",
     "Coisas/Semanas/2025/2025-06-02.md",
