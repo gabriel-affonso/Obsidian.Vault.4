@@ -5,21 +5,23 @@ tags:
 ---
 Jogos que eu quero jogar nele:
 - [ ] Cyberpunk
-- [ ] God of War
+- [ ] God of War (comprei)
 - [ ] Red Dead II
-- [ ] Shadow of the collossus
+- [ ] Shadow of the collossus (PSN)
 - [ ] AstroBot
 - [ ] Horizont
-- [ ] Final Fantasy VII
+- [ ] Final Fantasy VII (PSN)
 - [ ] Elder Ring
-- [ ] Ratchet and Clank
+- [ ] Ratchet and Clank (PSN)
 - [ ] Stelar Blade
-- [ ] Spider Man
+- [ ] Spider Man (comprei)
+- [ ] Miles morales
 - [ ] Jogo do macacão
 - [ ] split fiction
-- [ ] o jogo da mafia
+- [ ] o jogo da mafia (perguntar pro luciano)
 - [ ] GTA VI
 - [ ] Sekiro ?
+- [ ] The last of us (comprei)
 - [ ] 
 
 
