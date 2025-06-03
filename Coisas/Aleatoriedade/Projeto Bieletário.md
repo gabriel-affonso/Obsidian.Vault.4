@@ -114,3 +114,8 @@ Hoje eu já terminei mais uma das 24 aulas do curso do MIT. Estou na terceira au
 Hoje eu estava triste e pensei como um trabalho remoto o me deixaria mais feliz. isso reviveu em mim o plano de conseguir uma vaga que seja 100% remota. vou continuar com o meu plano de conseguir uma vaga 100% remota em finanças
 encontrei esse curso. parece ser bem rápido e já posso adicionar ao currículo - https://www.edx.org/learn/economics-finance/the-international-monetary-fund-introduction-to-financial-programming-and-policies?index=product&position=1&queryId=d9aaf0d08c626368adcea612bcd286ce 
 
+# [[2025-06-03]]
+
+Hoje eu vou me candidatar para essa vaga: https://jobs.smartrecruiters.com/OECD/744000060597846-junior-policy-advisor-science-and-technology-policy?trid=3b3fd07c-0791-4ac8-9ea8-cc2477730cb5
+
+e nesse: https://jobs.smartrecruiters.com/OECD/744000060976455-analyst-environment-and-climate-statistics-pal6?trid=3b3fd07c-0791-4ac8-9ea8-cc2477730cb5

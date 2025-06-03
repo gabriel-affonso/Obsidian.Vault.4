@@ -8,20 +8,91 @@
         "type": "tabs",
         "children": [
           {
-            "id": "d380118e72f7f981",
+            "id": "839b872a64777fd9",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Coisas/Aleatoriedade/Projeto Bieletário.md",
+                "file": "Coisas/Semanas/2025/2025-05-25.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Projeto Bieletário"
+              "title": "2025-05-25"
+            }
+          },
+          {
+            "id": "de0dd027b351ff23",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Leiturinhas/Jogos/Mario Odissey.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Mario Odissey"
+            }
+          },
+          {
+            "id": "2e2e834da7f30cdd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Leiturinhas/Jogos/God of War - Ragnarok.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "God of War - Ragnarok"
+            }
+          },
+          {
+            "id": "9e9a13f4a64c7a9a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Coisas/Semanas/2025/2025-06-01.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "2025-06-01"
+            }
+          },
+          {
+            "id": "72175c5bdfca20a8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Coisas/Semanas/2025/2025-06-03.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "2025-06-03"
+            }
+          },
+          {
+            "id": "e69464102dde59f7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "conflict-files-obsidian-git.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "conflict-files-obsidian-git"
             }
           }
-        ]
+        ],
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -53,7 +124,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "ps5",
+                "query": "Utilizador1",
                 "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": false,
@@ -152,8 +223,8 @@
             "state": {
               "type": "advanced-tables-toolbar",
               "state": {},
-              "icon": "spreadsheet",
-              "title": "Advanced Tables"
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
             }
           },
           {
@@ -162,8 +233,8 @@
             "state": {
               "type": "calendar",
               "state": {},
-              "icon": "calendar-with-checkmark",
-              "title": "Calendar"
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
             }
           },
           {
@@ -172,8 +243,8 @@
             "state": {
               "type": "setup-view",
               "state": {},
-              "icon": "cog",
-              "title": "Setup"
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
             }
           }
         ],
@@ -186,9 +257,6 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "smart-second-brain:Open S2B Chat": false,
-      "obsidian-kanban:Create new board": false,
-      "obsidian-git:Open Git source control": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
@@ -196,48 +264,50 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "obsidian-git:Open Git source control": false,
+      "obsidian-kanban:Create new board": false,
+      "smart-second-brain:Open S2B Chat": false,
       "periodic-notes:Open today": false
     }
   },
-  "active": "d380118e72f7f981",
+  "active": "e69464102dde59f7",
   "lastOpenFiles": [
+    "~syncthing~conflict-files-obsidian-git.md.tmp",
+    "Coisas/Semanas/2025/2025-06-03.md",
+    "conflict-files-obsidian-git.md",
     "Coisas/Semanas/2025/2025-06-02.md",
-    "Coisas/Aleatoriedade/Comprar um PS5.md",
-    "Coisas/Semanas/2025/2025-05-30.md",
-    "Coisas/Semanas/2025/2025-05-28.md",
-    "backtest 4.12.2.md",
-    "Coisas/Semanas/2025/2025-05-27.md",
+    "Coisas/Semanas/2025/2025-W1909.md",
+    "Coisas/Semanas/2025/2025-W19.md",
+    "Coisas/Semanas/2025/2025-06-01.md",
     "Coisas/Semanas/2025/2025-05-26.md",
-    "Coisas/Semanas/2025/2025-05-22.md",
-    "Pensamentos/pensamento/Coisas - Quadro sobre palavras sobrepostas odisseia.md",
-    "Pasted image 20250522104754.png",
-    "Coisas/Semanas/2025/2025-05-21.md",
     "Coisas/Semanas/2025/2025-05-19.md",
     "Pensamentos/pensamento/como fazer uma prova anti-chat gpt.md",
-    "Coisas/Semanas/2025/2025-05-16.md",
-    "Coisas/Semanas/2025/2025-W20.md",
-    "Coisas/Semanas/2025/2025-05-14.md",
+    "Coisas/Semanas/2025/~syncthing~2025-05-19.md.tmp",
+    "Pensamentos/pensamento/~syncthing~como fazer uma prova anti-chat gpt.md.tmp",
+    "Coisas/Semanas/2025/~syncthing~2025-05-30.md.tmp",
+    "Coisas/Semanas/2025/2025-05-21.md",
+    "Coisas/Semanas/2025/~syncthing~2025-05-16.md.tmp",
+    "Coisas/Semanas/2025/2025-05-28.md",
+    "Coisas/Semanas/2025/~syncthing~2025-05-28.md.tmp",
     "Coisas/Aleatoriedade/Projeto Bieletário.md",
-    "Coisas/Semanas/2025/2025-05-13.md",
-    "Coisas/Semanas/2025/2025-05-05.md",
-    "Pensamentos/pensamento/Bot.md",
-    "Untitled.md",
+    "Coisas/Aleatoriedade/Comprar um PS5.md",
+    "Coisas/Semanas/2025/~syncthing~2025-06-02.md.tmp",
+    "Pensamentos/pensamento/Coisas - Quadro sobre palavras sobrepostas odisseia.md",
+    "scatter_validation 4.5.png",
+    "backtest 4.12.2.md",
+    "~syncthing~scatter_validation 4.5.png.tmp",
+    "Coisas/Semanas/2025/2025-05-07.sync-conflict-20250512-173343-7TQ5V76.md",
+    "Pensamentos/pensamento/Investimento Europa.md",
+    "Coisas/Semanas/2025/2025-05-12.md",
+    "Coisas/Semanas/2025/2025-W20.md",
+    "Coisas/Semanas/2025/2025-W19.sync-conflict-20250602-200602-NKXW6QZ.md",
+    "Coisas/Semanas/2025/2025-05-14.md",
+    "Leiturinhas/Livros/Permafrosts.md",
     "Leiturinhas/Livros/Frankstein.md",
-    "Leiturinhas/Índice de Leiturinhas.md",
-    "Leiturinhas/Livros/Catcher in the Rye.md",
-    "Leiturinhas/Livros/Catcher in the Rye.sync-conflict-20250312-100532-7TQ5V76.md",
-    "Leiturinhas/Livros/Catcher in the Rye.sync-conflict-20250312-100529-7TQ5V76.md",
     "Leiturinhas/Livros/Sunrise in the Reaping.md",
-    "Coisas/Semanas/2025/~syncthing~2025-W19.sync-conflict-20250512-173347-NKXW6QZ.md.tmp",
-    "Coisas/Semanas/2025/~syncthing~2025-05-08.md.tmp",
-    "Coisas/Semanas/2025/~syncthing~2025-W19.sync-conflict-20250509-180855-7TQ5V76.md.tmp",
-    "~syncthing~conflict-files-obsidian-git.md.tmp",
-    "Coisas/Semanas/2025/~syncthing~2025-05-09.md.tmp",
-    "Coisas/Semanas/2025/~syncthing~2025-05-07.md.tmp",
-    "~syncthing~Bot do Facebook.md.tmp",
-    "Coisas/Semanas/2025/~syncthing~2025-04-24.md.tmp",
-    "Coisas/Semanas/2025/~syncthing~2025-04-30.md.tmp",
-    "Coisas/Semanas/2025/~syncthing~2025-05-05.md.tmp",
+    "Pensamentos/pensamento/Bot.md",
+    "Coisas/Semanas/2025/~syncthing~2025-05-14.md.tmp",
+    "Leiturinhas/Livros/~syncthing~Permafrosts.md.tmp",
     "Coisas/Aleatoriedade/Depósito de Aleatoriedades/Imagens/Pasted image 20250409155626.png",
     "Coisas/Aleatoriedade/Depósito de Aleatoriedades/Imagens/batman_thecobblebotcaper_p.jpg",
     "Coisas/Aleatoriedade/Depósito de Aleatoriedades/Imagens/Sem título.png",

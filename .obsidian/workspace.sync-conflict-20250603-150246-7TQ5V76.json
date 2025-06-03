@@ -8,21 +8,21 @@
         "type": "tabs",
         "children": [
           {
-            "id": "fa499b83f86feaa8",
+            "id": "b31b96fa40d45a35",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Coisas/Semanas/2025/2025-05-09.md",
+                "file": "Coisas/Semanas/2025/2025-06-03.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2025-05-09"
+              "title": "2025-06-03"
             }
           },
           {
-            "id": "70f8dd5e83688816",
+            "id": "e1250e15e0a74f87",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -33,20 +33,6 @@
               },
               "icon": "lucide-file",
               "title": "conflict-files-obsidian-git"
-            }
-          },
-          {
-            "id": "d380118e72f7f981",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Coisas/Semanas/2025/2025-05-05.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "2025-05-05"
             }
           }
         ],
@@ -82,7 +68,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Utilizador1",
+                "query": "W19",
                 "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": false,
@@ -182,8 +168,8 @@
             "state": {
               "type": "advanced-tables-toolbar",
               "state": {},
-              "icon": "spreadsheet",
-              "title": "Advanced Tables"
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
             }
           },
           {
@@ -192,8 +178,8 @@
             "state": {
               "type": "calendar",
               "state": {},
-              "icon": "calendar-with-checkmark",
-              "title": "Calendar"
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
             }
           },
           {
@@ -202,8 +188,8 @@
             "state": {
               "type": "setup-view",
               "state": {},
-              "icon": "cog",
-              "title": "Setup"
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
             }
           }
         ],
@@ -216,9 +202,6 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "smart-second-brain:Open S2B Chat": false,
-      "obsidian-kanban:Create new board": false,
-      "obsidian-git:Open Git source control": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
@@ -226,47 +209,50 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "obsidian-git:Open Git source control": false,
+      "obsidian-kanban:Create new board": false,
+      "smart-second-brain:Open S2B Chat": false,
       "periodic-notes:Open today": false
     }
   },
-  "active": "70f8dd5e83688816",
+  "active": "e1250e15e0a74f87",
   "lastOpenFiles": [
-    "Coisas/Semanas/2025/2025-05-09.md",
+    "Coisas/Semanas/2025/2025-06-03.md",
     "conflict-files-obsidian-git.md",
-    "Coisas/Semanas/2025/2025-W19.sync-conflict-20250509-180855-7TQ5V76.md",
-    "Coisas/Semanas/2025/2025-05-07.sync-conflict-20250509-180857-7TQ5V76.md",
-    "Projeto Bieletário.sync-conflict-20250509-180856-7TQ5V76.md",
-    "Coisas/Semanas/2025/2025-05-08.sync-conflict-20250509-180856-7TQ5V76.md",
-    "Coisas/Semanas/2025/~syncthing~2025-W19.sync-conflict-20250509-180855-7TQ5V76.md.tmp",
-    "Coisas/Semanas/2025/~syncthing~2025-05-07.sync-conflict-20250509-180857-7TQ5V76.md.tmp",
-    "~syncthing~Projeto Bieletário.sync-conflict-20250509-180856-7TQ5V76.md.tmp",
-    "Coisas/Semanas/2025/~syncthing~2025-05-08.sync-conflict-20250509-180856-7TQ5V76.md.tmp",
-    "Projeto Bieletário.md",
-    "Coisas/Semanas/2025/2025-05-08.md",
-    "Coisas/Semanas/2025/2025-05-07.md",
-    "Coisas/Semanas/2025/2025-W19.md",
-    "Bot do Facebook.md",
-    "~syncthing~Bot do Facebook.md.tmp",
-    "Coisas/Semanas/2025/2025-05-06.md",
-    "Coisas/Semanas/2025/2025-05-05.md",
-    "Coisas/Semanas/2025/2025-04-23.md",
-    "Coisas/Semanas/2025/2025-W18.md",
-    "Coisas/Semanas/2025/2025-04-24.md",
-    "Coisas/Semanas/2025/~syncthing~2025-04-24.md.tmp",
-    "Coisas/Semanas/2025/2025-04-30.md",
-    "Coisas/Semanas/2025/~syncthing~2025-04-30.md.tmp",
     "~syncthing~conflict-files-obsidian-git.md.tmp",
-    "Coisas/Semanas/2025/~syncthing~2025-05-05.md.tmp",
-    "Coisas/Semanas/2025/~syncthing~2025-04-23.md.tmp",
-    "Coisas/Semanas/2025/2025-04-29.md",
-    "Bot.md",
-    "Bot.sync-conflict-20250424-095129-NKXW6QZ.md",
-    "Vinda Pai 2025.md",
-    "Vinda Pai 2025.sync-conflict-20250421-115147-NKXW6QZ.md",
-    "Bot.sync-conflict-20250422-205018-NKXW6QZ.md",
-    "Coisas/Semanas/2025/Abril 2025/2025-04-21.md",
-    "Coisas/Semanas/2025/Abril 2025/2025-04-22.md",
-    "Depressão.md",
+    "Coisas/Semanas/2025/~syncthing~2025-06-03.md.tmp",
+    "Coisas/Semanas/2025/2025-06-02.sync-conflict-20250603-142249-NH3ZHI2.md",
+    "Coisas/Semanas/2025/~syncthing~2025-06-02.sync-conflict-20250603-142249-NH3ZHI2.md.tmp",
+    "Coisas/Semanas/2025/~syncthing~2025-06-01.md.tmp",
+    "Coisas/Semanas/2025/2025-June.md",
+    "Coisas/Semanas/2025/2025-W19-01.md",
+    "Template/Templates/Nova Nota 1.md",
+    "Coisas/Semanas/2025/2025-W199999.md",
+    "Coisas/Semanas/2025/2025-W1909.md",
+    "Coisas/Semanas/2025/2025-W199.md",
+    "Coisas/Semanas/2025/2025-06-01.md",
+    "Coisas/Semanas/2025/2025-05-26.md",
+    "Coisas/Semanas/2025/2025-05-19.md",
+    "Pensamentos/pensamento/como fazer uma prova anti-chat gpt.md",
+    "Coisas/Semanas/2025/~syncthing~2025-05-19.md.tmp",
+    "Pensamentos/pensamento/~syncthing~como fazer uma prova anti-chat gpt.md.tmp",
+    "Coisas/Semanas/2025/~syncthing~2025-05-30.md.tmp",
+    "Coisas/Semanas/2025/2025-05-21.md",
+    "Coisas/Semanas/2025/~syncthing~2025-05-16.md.tmp",
+    "Coisas/Semanas/2025/2025-05-28.md",
+    "Coisas/Semanas/2025/~syncthing~2025-05-28.md.tmp",
+    "Coisas/Aleatoriedade/Projeto Bieletário.md",
+    "Coisas/Aleatoriedade/Comprar um PS5.md",
+    "Coisas/Semanas/2025/2025-06-02.md",
+    "Coisas/Semanas/2025/~syncthing~2025-06-02.md.tmp",
+    "Pensamentos/pensamento/Coisas - Quadro sobre palavras sobrepostas odisseia.md",
+    "scatter_validation 4.5.png",
+    "backtest 4.12.2.md",
+    "Coisas/Semanas/2025/2025-05-07.sync-conflict-20250512-173343-7TQ5V76.md",
+    "Pensamentos/pensamento/Investimento Europa.md",
+    "Coisas/Semanas/2025/2025-05-12.md",
+    "Coisas/Semanas/2025/2025-W20.md",
+    "Coisas/Semanas/2025/2025-05-14.md",
     "Coisas/Aleatoriedade/Depósito de Aleatoriedades/Imagens/Pasted image 20250409155626.png",
     "Coisas/Aleatoriedade/Depósito de Aleatoriedades/Imagens/batman_thecobblebotcaper_p.jpg",
     "Coisas/Aleatoriedade/Depósito de Aleatoriedades/Imagens/Sem título.png",
@@ -276,7 +262,6 @@
     "Coisas/Aleatoriedade/Depósito de Aleatoriedades/Imagens/lindo.png",
     "Coisas/Aleatoriedade/Depósito de Aleatoriedades/Imagens/Pasted image 20250213101711.png",
     "Coisas/Aleatoriedade/Depósito de Aleatoriedades/Imagens/logo.png",
-    "Screenshot_20250218-095652.png",
     "Untitled.canvas",
     "Untitled 1.canvas",
     "Untitled 2.canvas"
