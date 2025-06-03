@@ -10,4 +10,6 @@ tags:
 # Coisas
 - [ ] Academia
 - [ ] Tomar remédio
+	- [ ] Manha
+	- [ ] Noite
 - [ ] Tomar Creatina
